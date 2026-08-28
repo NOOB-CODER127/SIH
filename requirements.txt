@@ -1,0 +1,8 @@
+spacy>=3.8,<4
+fastapi>=0.115
+uvicorn[standard]>=0.30
+networkx>=3.3
+scipy>=1.11
+pandas>=2.2
+faker>=25.0
+pytest>=8.0

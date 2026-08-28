@@ -1,0 +1,526 @@
+{
+  "stats": {
+    "nodes": 57,
+    "edges": 264,
+    "node_kinds": {
+      "person": 16,
+      "phone": 14,
+      "account": 10,
+      "vehicle": 4,
+      "location": 13
+    },
+    "edge_relations": {
+      "OWNS_PHONE": 14,
+      "OWNS_ACCOUNT": 7,
+      "CO_OCCURS": 12,
+      "LINKED_TO": 39,
+      "CALLS": 88,
+      "CALLED_BY": 88,
+      "TRANSACTED": 14,
+      "OWNS_VEHICLE": 2
+    },
+    "documents_processed": 16,
+    "entities_extracted": 91,
+    "persons_in_projection": 16,
+    "cdr_records": 684,
+    "transaction_records": 62,
+    "runtime_seconds": 0.44
+  },
+  "influencers": [
+    {
+      "node": "person:p011",
+      "label": "Imran Sheikh",
+      "role": "phishing_operator",
+      "score": 1.0,
+      "pagerank": 0.11682,
+      "betweenness": 0.17177,
+      "degree": 13,
+      "rank": 1,
+      "risk_points": 1,
+      "risk_level": "elevated"
+    },
+    {
+      "node": "person:p020",
+      "label": "Manoj Gupta",
+      "role": "launderer_bridge",
+      "score": 1.0,
+      "pagerank": 0.11906,
+      "betweenness": 0.12381,
+      "degree": 14,
+      "rank": 2,
+      "risk_points": 2,
+      "risk_level": "elevated"
+    },
+    {
+      "node": "person:p001",
+      "label": "Vikram Shukla",
+      "role": "kingpin_vehicle_ring",
+      "score": 0.8748,
+      "pagerank": 0.11413,
+      "betweenness": 0.07834,
+      "degree": 12,
+      "rank": 3,
+      "risk_points": 1,
+      "risk_level": "elevated"
+    },
+    {
+      "node": "person:p012",
+      "label": "Neha Kulkarni",
+      "role": "mule_account_holder",
+      "score": 0.7594,
+      "pagerank": 0.05617,
+      "betweenness": 0.07925,
+      "degree": 12,
+      "rank": 4,
+      "risk_points": 3,
+      "risk_level": "elevated"
+    },
+    {
+      "node": "person:p010",
+      "label": "Prakash Rao",
+      "role": "cyber_mastermind",
+      "score": 0.692,
+      "pagerank": 0.10957,
+      "betweenness": 0.00952,
+      "degree": 12,
+      "rank": 5,
+      "risk_points": 1,
+      "risk_level": "elevated"
+    },
+    {
+      "node": "person:p003",
+      "label": "Salim Ahmed",
+      "role": "stolen_goods_fence",
+      "score": 0.6823,
+      "pagerank": 0.10877,
+      "betweenness": 0.0,
+      "degree": 13,
+      "rank": 6,
+      "risk_points": 1,
+      "risk_level": "elevated"
+    },
+    {
+      "node": "person:p004",
+      "label": "Deepak Verma",
+      "role": "driver_henchman",
+      "score": 0.6032,
+      "pagerank": 0.04391,
+      "betweenness": 0.13611,
+      "degree": 13,
+      "rank": 7,
+      "risk_points": 0,
+      "risk_level": "baseline"
+    },
+    {
+      "node": "person:p032",
+      "label": "Kunal Joshi",
+      "role": "victim",
+      "score": 0.579,
+      "pagerank": 0.04388,
+      "betweenness": 0.12426,
+      "degree": 13,
+      "rank": 8,
+      "risk_points": 0,
+      "risk_level": "baseline"
+    },
+    {
+      "node": "person:p005",
+      "label": "Ajay Tiwari",
+      "role": "henchman",
+      "score": 0.482,
+      "pagerank": 0.04644,
+      "betweenness": 0.07149,
+      "degree": 13,
+      "rank": 9,
+      "risk_points": 0,
+      "risk_level": "baseline"
+    },
+    {
+      "node": "person:p002",
+      "label": "Ramesh Yadav",
+      "role": "lieutenant",
+      "score": 0.4332,
+      "pagerank": 0.06993,
+      "betweenness": 0.0,
+      "degree": 13,
+      "rank": 10,
+      "risk_points": 0,
+      "risk_level": "baseline"
+    },
+    {
+      "node": "person:p031",
+      "label": "Priya Singh",
+      "role": "victim",
+      "score": 0.4187,
+      "pagerank": 0.03661,
+      "betweenness": 0.06032,
+      "degree": 13,
+      "rank": 11,
+      "risk_points": 0,
+      "risk_level": "baseline"
+    },
+    {
+      "node": "person:p033",
+      "label": "Ananya Sharma",
+      "role": "bank_manager",
+      "score": 0.3738,
+      "pagerank": 0.03172,
+      "betweenness": 0.04819,
+      "degree": 13,
+      "rank": 12,
+      "risk_points": 0,
+      "risk_level": "baseline"
+    },
+    {
+      "node": "person:p030",
+      "label": "Rohan Mehta",
+      "role": "victim",
+      "score": 0.3283,
+      "pagerank": 0.0445,
+      "betweenness": 0.0,
+      "degree": 13,
+      "rank": 13,
+      "risk_points": 0,
+      "risk_level": "baseline"
+    },
+    {
+      "node": "person:p013",
+      "label": "Suresh Patil",
+      "role": "mule_account_holder",
+      "score": 0.323,
+      "pagerank": 0.03646,
+      "betweenness": 0.0,
+      "degree": 12,
+      "rank": 14,
+      "risk_points": 1,
+      "risk_level": "elevated"
+    },
+    {
+      "node": "person:lucknow",
+      "label": "Lucknow",
+      "role": "unresolved_mention",
+      "score": 0.0235,
+      "pagerank": 0.01213,
+      "betweenness": 0.0,
+      "degree": 1,
+      "rank": 15,
+      "risk_points": 0,
+      "risk_level": "baseline"
+    },
+    {
+      "node": "person:p034",
+      "label": "S.K. Pandey",
+      "role": "investigating_officer",
+      "score": 0.0,
+      "pagerank": 0.0099,
+      "betweenness": 0.0,
+      "degree": 0,
+      "rank": 16,
+      "risk_points": 0,
+      "risk_level": "baseline"
+    }
+  ],
+  "communities": [
+    {
+      "id": 0,
+      "size": 7,
+      "members": [
+        {
+          "node": "person:p004",
+          "label": "Deepak Verma"
+        },
+        {
+          "node": "person:p005",
+          "label": "Ajay Tiwari"
+        },
+        {
+          "node": "person:p013",
+          "label": "Suresh Patil"
+        },
+        {
+          "node": "person:p030",
+          "label": "Rohan Mehta"
+        },
+        {
+          "node": "person:p031",
+          "label": "Priya Singh"
+        },
+        {
+          "node": "person:p032",
+          "label": "Kunal Joshi"
+        },
+        {
+          "node": "person:p033",
+          "label": "Ananya Sharma"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "size": 5,
+      "members": [
+        {
+          "node": "person:lucknow",
+          "label": "Lucknow"
+        },
+        {
+          "node": "person:p001",
+          "label": "Vikram Shukla"
+        },
+        {
+          "node": "person:p002",
+          "label": "Ramesh Yadav"
+        },
+        {
+          "node": "person:p003",
+          "label": "Salim Ahmed"
+        },
+        {
+          "node": "person:p020",
+          "label": "Manoj Gupta"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "size": 3,
+      "members": [
+        {
+          "node": "person:p010",
+          "label": "Prakash Rao"
+        },
+        {
+          "node": "person:p011",
+          "label": "Imran Sheikh"
+        },
+        {
+          "node": "person:p012",
+          "label": "Neha Kulkarni"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "size": 1,
+      "members": [
+        {
+          "node": "person:p034",
+          "label": "S.K. Pandey"
+        }
+      ]
+    }
+  ],
+  "bridges": [
+    {
+      "node": "person:p020",
+      "label": "Manoj Gupta",
+      "role": "launderer_bridge",
+      "bridged_communities": 3,
+      "degree": 14
+    },
+    {
+      "node": "person:p002",
+      "label": "Ramesh Yadav",
+      "role": "lieutenant",
+      "bridged_communities": 3,
+      "degree": 13
+    },
+    {
+      "node": "person:p003",
+      "label": "Salim Ahmed",
+      "role": "stolen_goods_fence",
+      "bridged_communities": 3,
+      "degree": 13
+    },
+    {
+      "node": "person:p004",
+      "label": "Deepak Verma",
+      "role": "driver_henchman",
+      "bridged_communities": 3,
+      "degree": 13
+    },
+    {
+      "node": "person:p005",
+      "label": "Ajay Tiwari",
+      "role": "henchman",
+      "bridged_communities": 3,
+      "degree": 13
+    },
+    {
+      "node": "person:p011",
+      "label": "Imran Sheikh",
+      "role": "phishing_operator",
+      "bridged_communities": 3,
+      "degree": 13
+    },
+    {
+      "node": "person:p030",
+      "label": "Rohan Mehta",
+      "role": "victim",
+      "bridged_communities": 3,
+      "degree": 13
+    },
+    {
+      "node": "person:p031",
+      "label": "Priya Singh",
+      "role": "victim",
+      "bridged_communities": 3,
+      "degree": 13
+    },
+    {
+      "node": "person:p032",
+      "label": "Kunal Joshi",
+      "role": "victim",
+      "bridged_communities": 3,
+      "degree": 13
+    },
+    {
+      "node": "person:p033",
+      "label": "Ananya Sharma",
+      "role": "bank_manager",
+      "bridged_communities": 3,
+      "degree": 13
+    },
+    {
+      "node": "person:p001",
+      "label": "Vikram Shukla",
+      "role": "kingpin_vehicle_ring",
+      "bridged_communities": 3,
+      "degree": 12
+    },
+    {
+      "node": "person:p010",
+      "label": "Prakash Rao",
+      "role": "cyber_mastermind",
+      "bridged_communities": 3,
+      "degree": 12
+    },
+    {
+      "node": "person:p012",
+      "label": "Neha Kulkarni",
+      "role": "mule_account_holder",
+      "bridged_communities": 3,
+      "degree": 12
+    },
+    {
+      "node": "person:p013",
+      "label": "Suresh Patil",
+      "role": "mule_account_holder",
+      "bridged_communities": 3,
+      "degree": 12
+    }
+  ],
+  "alerts": [
+    {
+      "type": "structuring",
+      "severity": "high",
+      "title": "Structuring pattern into ACC2002",
+      "detail": "9 cash deposits of ~Rs.50,000 across 3 day(s) \u2014 total Rs.445,500, kept below reporting threshold.",
+      "accounts": [
+        "ACC2002"
+      ],
+      "evidence": [
+        {
+          "timestamp": "2026-01-03 10:32:00",
+          "amount_inr": 49500.0
+        },
+        {
+          "timestamp": "2026-01-03 14:23:00",
+          "amount_inr": 49500.0
+        },
+        {
+          "timestamp": "2026-01-03 16:04:00",
+          "amount_inr": 49500.0
+        },
+        {
+          "timestamp": "2026-01-04 10:11:00",
+          "amount_inr": 49500.0
+        },
+        {
+          "timestamp": "2026-01-04 11:51:00",
+          "amount_inr": 49500.0
+        },
+        {
+          "timestamp": "2026-01-04 15:57:00",
+          "amount_inr": 49500.0
+        },
+        {
+          "timestamp": "2026-01-05 13:04:00",
+          "amount_inr": 49500.0
+        },
+        {
+          "timestamp": "2026-01-05 13:55:00",
+          "amount_inr": 49500.0
+        },
+        {
+          "timestamp": "2026-01-05 14:02:00",
+          "amount_inr": 49500.0
+        }
+      ]
+    },
+    {
+      "type": "layering",
+      "severity": "medium",
+      "title": "Rapid multi-hop fund movement",
+      "detail": "2-hop chain ACC2002 \u2192 ACC3003 \u2192 ACC1001 moved Rs.140,000 within 24h of receipt.",
+      "accounts": [
+        "ACC2002",
+        "ACC3003",
+        "ACC1001"
+      ],
+      "evidence": [
+        {
+          "timestamp": "2026-01-06 13:10:00",
+          "from": "ACC2002",
+          "to": "ACC3003",
+          "amount_inr": 145000.0
+        },
+        {
+          "timestamp": "2026-01-06 13:48:00",
+          "from": "ACC3003",
+          "to": "ACC1001",
+          "amount_inr": 140000.0
+        }
+      ]
+    },
+    {
+      "type": "layering",
+      "severity": "medium",
+      "title": "Rapid multi-hop fund movement",
+      "detail": "2-hop chain ACC2003 \u2192 ACC3003 \u2192 ACC1002 moved Rs.90,000 within 24h of receipt.",
+      "accounts": [
+        "ACC2003",
+        "ACC3003",
+        "ACC1002"
+      ],
+      "evidence": [
+        {
+          "timestamp": "2026-01-13 11:05:00",
+          "from": "ACC2003",
+          "to": "ACC3003",
+          "amount_inr": 92000.0
+        },
+        {
+          "timestamp": "2026-01-13 11:56:00",
+          "from": "ACC3003",
+          "to": "ACC1002",
+          "amount_inr": 90000.0
+        }
+      ]
+    },
+    {
+      "type": "night_call_burst",
+      "severity": "medium",
+      "title": "Nocturnal contact burst 9000011122 \u2194 9111222333",
+      "detail": "74 calls between this pair; 72 (97%) between 00:00\u201305:00 \u2014 consistent with conspiracy communication discipline.",
+      "phones": [
+        "9000011122",
+        "9111222333"
+      ],
+      "evidence": {
+        "total_calls": 74,
+        "night_calls": 72
+      }
+    }
+  ]
+}

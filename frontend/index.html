@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NetraX — Criminal Network Intelligence</title>
+<script src="https://unpkg.com/cytoscape@3.30.2/dist/cytoscape.min.js"></script>
+<style>
+  :root {
+    --bg: #0a0e1a; --panel: #101627; --panel2: #141c31; --border: #232d4d;
+    --text: #dbe4ff; --muted: #7c89b5; --accent: #38e1ff; --red: #ff5470;
+    --orange: #ffb454; --green: #3ddc97; --purple: #9d7bff;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--bg); color: var(--text);
+    font-family: "Segoe UI", system-ui, sans-serif; height: 100vh;
+    display: flex; flex-direction: column; overflow: hidden; }
+  header { display: flex; align-items: center; gap: 16px; padding: 10px 18px;
+    background: var(--panel); border-bottom: 1px solid var(--border); }
+  .logo { font-size: 20px; font-weight: 700; letter-spacing: 1px; }
+  .logo span { color: var(--accent); }
+  .logo small { display:block; font-size: 10px; color: var(--muted); letter-spacing: 3px; }
+  .chips { display: flex; gap: 8px; margin-left: auto; }
+  .chip { background: var(--panel2); border: 1px solid var(--border); border-radius: 6px;
+    padding: 4px 12px; font-size: 12px; color: var(--muted); }
+  .chip b { color: var(--text); font-size: 13px; margin-left: 4px; }
+  .main { display: flex; flex: 1; min-height: 0; }
+  aside { width: 240px; background: var(--panel); border-right: 1px solid var(--border);
+    padding: 14px; overflow-y: auto; flex-shrink: 0;}
+  aside h3 { font-size: 11px; text-transform: uppercase; letter-spacing: 2px;
+    color: var(--muted); margin: 14px 0 8px; }
+  aside h3:first-child { margin-top: 0; }
+  .filter-row { display: flex; align-items: center; gap: 8px; padding: 5px 0;
+    font-size: 13px; cursor: pointer; user-select: none; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; }
+  .sw { position: relative; width: 26px; height: 14px; background: #2a3560;
+    border-radius: 8px; margin-left: auto; transition: .15s; }
+  .sw.on { background: var(--accent); }
+  .sw::after { content:""; position:absolute; top:2px; left:2px; width:10px; height:10px;
+    border-radius:50%; background:#fff; transition:.15s; }
+  .sw.on::after { left: 14px; }
+  #search { width: 100%; background: var(--bg); color: var(--text);
+    border: 1px solid var(--border); border-radius: 6px; padding: 7px 10px; font-size: 13px;
+    outline: none; }
+  #search:focus { border-color: var(--accent); }
+  .legend-note { font-size: 11px; color: var(--muted); line-height: 1.5; margin-top: 8px; }
+  #cy-wrap { flex: 1; position: relative; min-width: 0; }
+  #cy { width: 100%; height: 100%; }
+  .hud { position: absolute; top: 12px; left: 12px; background: rgba(16,22,39,.85);
+    border: 1px solid var(--border); backdrop-filter: blur(4px); border-radius: 8px;
+    padding: 8px 14px; font-size: 12px; color: var(--muted); max-width: 420px; }
+  .hud b { color: var(--accent); }
+  .rightbar { width: 330px; background: var(--panel); border-left: 1px solid var(--border);
+    display: flex; flex-direction: column; flex-shrink: 0; }
+  .tabs { display: flex; border-bottom: 1px solid var(--border); }
+  .tab { flex: 1; text-align: center; padding: 11px 0; font-size: 12px;
+    text-transform: uppercase; letter-spacing: 1px; color: var(--muted); cursor: pointer;
+    border-bottom: 2px solid transparent; user-select: none; }
+  .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+  .tabbody { flex: 1; overflow-y: auto; padding: 12px; }
+  .card { background: var(--panel2); border: 1px solid var(--border); border-radius: 8px;
+    padding: 10px 12px; margin-bottom: 10px; cursor: pointer; transition: border-color .12s; }
+  .card:hover { border-color: var(--accent); }
+  .card .t { font-size: 13px; font-weight: 600; margin-bottom: 3px; }
+  .card .d { font-size: 11.5px; color: var(--muted); line-height: 1.45; }
+  .sev { display:inline-block; font-size: 9.5px; font-weight:700; letter-spacing:1px;
+    padding: 2px 7px; border-radius: 4px; margin-right: 6px; vertical-align: middle; }
+  .sev.high { background: rgba(255,84,112,.15); color: var(--red); }
+  .sev.medium { background: rgba(255,180,84,.15); color: var(--orange); }
+  .rank-row { display: flex; align-items: center; gap: 10px; padding: 8px 10px;
+    border-radius: 8px; cursor: pointer; }
+  .rank-row:hover { background: var(--panel2); }
+  .rank-num { width: 26px; color: var(--muted); font-size: 13px; text-align: right; }
+  .rank-info { flex: 1; min-width: 0; }
+  .rank-name { font-size: 13.5px; font-weight: 600; display:flex; justify-content:space-between; }
+  .risk { font-size: 9.5px; font-weight: 700; padding: 1px 6px; border-radius: 4px;
+    letter-spacing: .5px; }
+  .risk.critical { background: rgba(255,84,112,.2); color: var(--red); }
+  .risk.elevated { background: rgba(255,180,84,.18); color: var(--orange); }
+  .risk.baseline { background: rgba(124,137,181,.15); color: var(--muted); }
+  .bar-bg { height: 4px; background: #222b4d; border-radius: 3px; margin-top: 5px; }
+  .bar { height: 100%; border-radius: 3px;
+    background: linear-gradient(90deg, var(--purple), var(--accent)); }
+  .comm-card .mem { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 7px; }
+  .mem span { font-size: 10.5px; background: var(--bg); border: 1px solid var(--border);
+    padding: 2px 8px; border-radius: 10px; color: var(--muted); cursor:pointer; }
+  .mem span:hover { color: var(--accent); border-color: var(--accent); }
+  #detail { position: absolute; bottom: 14px; left: 12px; width: 380px; max-height: 46%;
+    overflow-y: auto; background: rgba(16,22,39,.94); border: 1px solid var(--border);
+    border-radius: 10px; padding: 14px 16px; display: none; backdrop-filter: blur(6px); }
+  #detail h2 { font-size: 17px; display: flex; align-items: center; gap: 8px; }
+  #detail .sub { font-size: 11px; color: var(--muted); margin: 2px 0 10px; letter-spacing: 1px;
+    text-transform: uppercase; }
+  .kv { display: grid; grid-template-columns: 110px 1fr; gap: 3px 8px; font-size: 12px;
+    margin-bottom: 10px; }
+  .kv .k { color: var(--muted); }
+  .conn { font-size: 12px; padding: 5px 0; border-top: 1px solid var(--border);
+    display: flex; justify-content: space-between; gap: 8px; }
+  .conn .rel { color: var(--accent); font-size: 10.5px; }
+  .close { margin-left: auto; cursor: pointer; color: var(--muted); font-size: 18px; }
+  .empty { color: var(--muted); font-size: 12.5px; text-align: center; margin-top: 40px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">NETRA<span>X</span><small>CRIMINAL NETWORK INTELLIGENCE</small></div>
+  <div class="chips" id="chips"></div>
+</header>
+<div class="main">
+  <aside>
+    <h3>Search Entity</h3>
+    <input id="search" placeholder="Name, phone, account…">
+    <h3>Node Types</h3>
+    <div id="filters"></div>
+    <h3>Legend</h3>
+    <div class="legend-note">
+      Node size &amp; glow = influence score.<br>
+      Ring color = detected community.<br>
+      Solid edges = calls · Dashed = money flow<br>
+      Dotted = documented co-occurrence.
+    </div>
+    <h3>Actions</h3>
+    <button onclick="fitAll()" style="width:100%;background:var(--panel2);color:var(--text);
+      border:1px solid var(--border);padding:7px;border-radius:6px;cursor:pointer;font-size:12.5px;">
+      Reset view</button>
+  </aside>
+
+  <div id="cy-wrap">
+    <div id="cy"></div>
+    <div class="hud" id="hud">Loading network…</div>
+    <div id="detail"></div>
+  </div>
+
+  <div class="rightbar">
+    <div class="tabs">
+      <div class="tab active" data-tab="alerts">Alerts</div>
+      <div class="tab" data-tab="influencers">Influencers</div>
+      <div class="tab" data-tab="communities">Cells</div>
+    </div>
+    <div class="tabbody" id="tabbody"></div>
+  </div>
+</div>
+
+<script>
+const COMM_COLORS = ["#38e1ff", "#ff5470", "#ffb454", "#3ddc97", "#9d7bff", "#ff8fab", "#7bdff2", "#f4a261"];
+let cy, analytics;
+
+const KIND_STYLE = {
+  person:   { size: 34, color: "#888", shape: "round-rectangle" },
+  phone:    { size: 20, color: "#55628f", shape: "ellipse" },
+  account:  { size: 20, color: "#3f7f6f", shape: "diamond" },
+  vehicle:  { size: 20, color: "#8f6f3f", shape: "tag" },
+  location: { size: 18, color: "#46537f", shape: "round-hexagon" },
+};
+
+async function init() {
+  const [graph, an] = await Promise.all([
+    fetch("/api/graph").then(r => r.json()),
+    fetch("/api/analytics").then(r => r.json()),
+  ]);
+  analytics = an;
+  buildGraph(graph);
+  renderChips(an.stats);
+  renderAlerts(); renderInfluencers(); renderCommunities();
+}
+
+function buildGraph({ elements }) {
+  const influ = Object.fromEntries((analytics.influencers || []).map(r => [r.node, r]));
+  const nodes = elements.filter(e => e.group === "nodes").map(e => {
+    const d = e.data, k = KIND_STYLE[d.kind] || KIND_STYLE.location;
+    const inf = influ[d.id];
+    const isP = d.kind === "person";
+    const scale = isP && inf ? (0.75 + inf.score * 1.1) : 1;
+    return {
+      data: {
+        id: d.id, label: d.label, kind: d.kind,
+        community: d.community, role: d.role || "",
+        score: inf ? inf.score : null,
+        risk: inf ? inf.risk_level : "",
+        size: Math.round(k.size * scale),
+        color: isP && d.community != null ? COMM_COLORS[d.community % COMM_COLORS.length] : k.color,
+      },
+    };
+  });
+  const edges = elements.filter(e => e.group === "edges").map(e => {
+    const d = e.data, rel = d.relation || "";
+    let style = {};
+    if (rel.startsWith("OWNS")) style = { width: 1, lineStyle: "solid",
+      "line-color": "#33406e", opacity: .5 };
+    else if (rel === "CALLS" || rel === "CALLED_BY") style = { width: 1 + Math.log(d.count||1),
+      "line-color": "#4a5a95", opacity: .55 };
+    else if (rel === "TRANSACTED") style = { width: 2, lineStyle: "dashed",
+      "line-color": "#3ddc97", opacity: .7 };
+    else if (rel === "CO_OCCURS") style = { width: 1.5, lineStyle: "dotted",
+      "line-color": "#9d7bff", opacity: .6 };
+    else style = { width: 1, "line-color": "#33406e", opacity: .4 };
+    return { data: { ...d, ...style }, classes: rel === "TRANSACTED" ? "money"
+      : rel === "CO_OCCURS" ? "doc" : "" };
+  });
+
+  cy = cytoscape({
+    container: document.getElementById("cy"),
+    elements: [...nodes.map(n => ({ group: "nodes", data: n.data })),
+               ...edges.map(e => ({ group: "edges", data: e.data, classes: e.classes }))],
+    style: [
+      { selector: "node", style: {
+          "background-color": "data(color)", label: "data(label)",
+          width: "data(size)", height: "data(size)",
+          "font-size": 9, color: "#aab6dd", "text-valign": "bottom",
+          "text-margin-y": 5, "text-wrap": "ellipsis", "text-max-width": 90,
+          shape: "data(kind)" } },
+      { selector: "node[kind='person']", style: {
+          shape: "round-rectangle", "border-width": 2, "border-color": "data(color)",
+          color: "#e7edff", "font-size": 10, "font-weight": 600 } },
+      { selector: "node[risk='critical']", style: {
+          "border-width": 3, "border-color": "#ff5470",
+          "shadow-blur": 24, "shadow-color": "#ff5470aa", "shadow-opacity": .9 } },
+      { selector: "node[risk='elevated']", style: {
+          "shadow-blur": 16, "shadow-color": "#ffb45499", "shadow-opacity": .8 } },
+      { selector: "edge", style: {
+          width: 1, "line-style": "solid", "line-color": "#33406e", opacity: .4,
+          "curve-style": "bezier", "control-point-step-size": 60 } },
+      { selector: "edge.money", style: { "line-style": "dashed" } },
+      { selector: "edge.doc", style: { "line-style": "dotted" } },
+      { selector: ".dimmed", style: { opacity: .08 } },
+      { selector: ".focus", style: { opacity: 1, "border-width": 3 } },
+    ],
+    layout: { name: "cose", animate: false, padding: 40,
+      nodeOverlap: 18, idealEdgeLength: () => 90 },
+    wheelSensitivity: .25,
+  });
+
+  cy.nodes().forEach(n => {
+    if (!n.isEdge() && n.data("kind") !== "person") n.style("opacity", .85);
+  });
+
+  cy.on("tap", "node", evt => showDetail(evt.target));
+  cy.on("tap", evt => { if (evt.target === cy) hideDetail(); });
+}
+
+function highlight(ids) {
+  const keep = new Set();
+  ids.forEach(id => { keep.add(id);
+    cy.getElementById(id).connectedNodes().forEach(n => keep.add(n.id()));
+    cy.getElementById(id).connectedEdges().forEach(e => keep.add(e.id())); });
+  cy.elements().addClass("dimmed");
+  keep.forEach(id => cy.getElementById(id).removeClass("dimmed"));
+}
+
+function resetHighlight() {
+  cy.elements().removeClass("dimmed").removeClass("focus");
+}
+
+function fitAll() { resetHighlight(); hideDetail(); cy.fit(undefined, 50); }
+
+function focusNode(id) {
+  resetHighlight();
+  const n = cy.getElementById(id);
+  highlight([id]);
+  n.addClass("focus");
+  cy.animate({ fit: { eles: n.closedNeighborhood(), padding: 90 } }, { duration: 300 });
+  showDetail(n);
+}
+
+/* ---------- right panel ---------- */
+function renderChips(s) {
+  document.getElementById("chips").innerHTML = `
+    <span class="chip">Entities<b>${s.nodes}</b></span>
+    <span class="chip">Relations<b>${s.edges}</b></span>
+    <span class="chip">Documents<b>${s.documents_processed}</b></span>
+    <span class="chip">Alerts<b>${analytics.alerts.length}</b></span>
+    <span class="chip">Runtime<b>${s.runtime_seconds}s</b></span>`;
+  hud(`<b>${s.persons_in_projection}</b> persons projected from ${s.documents_processed} documents · ` +
+      `${s.cdr_records} call records · ${s.transaction_records} transactions`);
+}
+
+function hud(html) { document.getElementById("hud").innerHTML = html; }
+
+function renderAlerts() {
+  const el = document.getElementById("tabbody");
+  window._tabs = window._tabs || {}; window._tabs.alerts = el.innerHTML =
+    analytics.alerts.length ? analytics.alerts.map((a, i) => `
+      <div class="card" data-alert="${i}">
+        <div class="t"><span class="sev ${a.severity}">${a.severity.toUpperCase()}</span>${a.title}</div>
+        <div class="d">${a.detail}</div>
+      </div>`).join("") : `<div class="empty">No alerts.</div>`;
+  el.querySelectorAll("[data-alert]").forEach(card =>
+    card.onclick = () => focusAlert(+card.dataset.alert));
+}
+
+async function focusAlert(i) {
+  const a = analytics.alerts[i];
+  const vals = [...(a.accounts || []), ...(a.phones || [])].map(v => String(v).toLowerCase());
+  const ids = cy.nodes().filter(n => {
+    if (n.data("kind") !== "person") return vals.includes(String(n.id()).toLowerCase());
+    return false;
+  }).map(n => n.id());
+  const assetIds = cy.nodes().filter(n => vals.some(v => n.id().endsWith(":" + v))).map(n => n.id());
+  highlight([...ids, ...assetIds]);
+  hideDetail();
+}
+
+function renderInfluencers() {
+  window._tabs.influencers = analytics.influencers.slice(0, 15).map(r => `
+    <div class="rank-row" data-node="${r.node}">
+      <div class="rank-num">#${r.rank}</div>
+      <div class="rank-info">
+        <div class="rank-name"><span>${r.label}</span>
+          <span class="risk ${r.risk_level}">${r.risk_level}</span></div>
+        <div class="bar-bg"><div class="bar" style="width:${Math.round(r.score*100)}%"></div></div>
+      </div>
+    </div>`).join("");
+}
+
+function renderCommunities() {
+  window._tabs.communities = analytics.communities.filter(c => c.size > 1).map(c => `
+    <div class="card comm-card">
+      <div class="t" style="display:flex;align-items:center;gap:8px;">
+        <span class="dot" style="background:${COMM_COLORS[c.id % COMM_COLORS.length]}"></span>
+        Cell ${c.id} · ${c.size} members</div>
+      <div class="mem">${c.members.map(m =>
+        `<span data-node="${m.node}">${m.label}</span>`).join("")}</div>
+    </div>`).join("");
+}
+
+document.querySelectorAll(".tab").forEach(tab => tab.onclick = () => {
+  document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+  tab.classList.add("active");
+  const body = document.getElementById("tabbody");
+  body.innerHTML = window._tabs[tab.dataset.tab] || "";
+  body.querySelectorAll("[data-node]").forEach(el =>
+    el.onclick = () => focusNode(el.dataset.node));
+});
+
+/* ---------- filters ---------- */
+const FILTERS = ["person", "phone", "account", "vehicle", "location"];
+const filterState = Object.fromEntries(FILTERS.map(f => [f, true]));
+document.getElementById("filters").innerHTML = FILTERS.map(f => `
+  <div class="filter-row" data-kind="${f}">
+    <span class="dot" style="background:${KIND_STYLE[f].color}"></span>
+    ${f[0].toUpperCase() + f.slice(1)}
+    <span class="sw on"></span>
+  </div>`).join("");
+document.querySelectorAll(".filter-row").forEach(row => row.onclick = () => {
+  const kind = row.dataset.kind;
+  filterState[kind] = !filterState[kind];
+  row.querySelector(".sw").classList.toggle("on", filterState[kind]);
+  cy.nodes(`[kind = "${kind}"]`).style("display", filterState[kind] ? "element" : "none");
+  cy.edges().style("display", e =>
+    e.source().style("display") !== "none" && e.target().style("display") !== "none"
+      ? "element" : "none");
+  if (filterState[kind]) cy.layout({ name: "cose", animate: true }).run();
+});
+
+document.getElementById("search").addEventListener("input", e => {
+  const q = e.target.value.trim().toLowerCase();
+  if (q.length < 2) return resetHighlight();
+  const hit = cy.nodes().filter(n => n.data("label").toLowerCase().includes(q)).first();
+  if (hit.nonempty()) focusNode(hit.id()); else resetHighlight();
+});
+
+/* ---------- detail panel ---------- */
+async function showDetail(node) {
+  const panel = document.getElementById("detail");
+  panel.style.display = "block";
+  const d = node.data();
+  panel.innerHTML = `<h2>${d.label}<span class="close" onclick="hideDetail()">×</span></h2>
+    <div class="sub">${d.kind}${d.role ? " · " + d.role.replace(/_/g, " ") : ""}
+      ${d.risk ? " · risk: " + d.risk : ""}</div>
+    <div class="empty" style="margin-top:8px;">Loading connections…</div>`;
+  const res = await fetch(`/api/person/${encodeURIComponent(d.id)}`).then(r => r.json());
+  const infl = res.influence;
+  const rows = res.neighbors.slice(0, 12).map(n => `
+    <div class="conn"><span>${n.label}</span>
+      <span class="rel">${n.relation?.replace(/_/g, " ").toLowerCase()}${n.count ? " ×" + n.count : ""}
+      ${n.amount_sum ? " ₹" + n.amount_sum.toLocaleString("en-IN") : ""}</span></div>`).join("");
+  const alertHtml = res.related_alerts.length
+    ? `<div class="sub" style="margin-top:10px;">⚠ related alerts</div>`
+      + res.related_alerts.map(a => `<div class="conn"><span>${a.title}</span></div>`).join("")
+    : "";
+  panel.innerHTML = `<h2>${d.label}<span class="close" onclick="hideDetail()">×</span></h2>
+    <div class="sub">${d.kind}${d.role ? " · " + d.role.replace(/_/g, " ") : ""}
+      ${d.risk ? " · risk: " + d.risk : ""}</div>
+    <div class="kv">
+      ${infl ? `<span class="k">Influence rank</span><span>#${infl.rank}
+        (score ${infl.score})</span>
+        <span class="k">PageRank</span><span>${infl.pagerank}</span>
+        <span class="k">Betweenness</span><span>${infl.betweenness}</span>` : ""}
+      <span class="k">Connections</span><span>${res.neighbors.length}</span>
+    </div>
+    ${alertHtml}<div class="sub" style="margin-top:8px;">connections</div>${rows}`;
+  highlight([d.id]);
+}
+
+function hideDetail() {
+  document.getElementById("detail").style.display = "none";
+  resetHighlight();
+}
+
+init();
+</script>
+</body>
+</html>

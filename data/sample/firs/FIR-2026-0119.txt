@@ -1,0 +1,7 @@
+FIRST INFORMATION REPORT
+FIR No: FIR-2026-0119
+Date of Report: 2026-02-20
+Police Station: Cyber Cell
+Investigating Officer: Inspector S.K. Pandey
+
+Complainant Rohan Mehta reported fraudulent debit of Rs. 94,000 from his account ACC9001 after sharing OTP following a phishing SMS impersonating his bank. Traces show funds moved to account ACC2002 held by Neha Kulkarni and onward transfer of Rs. 90,000 to ACC3003 within 40 minutes. Linked complaints show similar modus operandi in 6 cases totalling Rs. 7,15,000.

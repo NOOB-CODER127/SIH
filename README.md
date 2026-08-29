@@ -1,4 +1,4 @@
-# NetraX — AI-Powered Criminal Network Analysis System
+# Trinetra — AI-Powered Criminal Network Analysis System
 
 NetraX ingests fragmented crime data (FIRs, CDRs, financial transactions, surveillance notes),
 extracts entities using NLP, builds a knowledge graph of criminal networks, and surfaces

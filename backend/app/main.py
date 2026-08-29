@@ -9,7 +9,7 @@ from .api.routes import router
 BASE = Path(__file__).resolve().parents[2]
 FRONTEND = BASE / "frontend"
 
-app = FastAPI(title="NetraX — Criminal Network Analysis", version="0.1.0")
+app = FastAPI(title="Trinetra — Criminal Network Analysis", version="0.1.0")
 app.include_router(router)
 
 

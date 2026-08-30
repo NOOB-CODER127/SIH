@@ -5,7 +5,7 @@ Trinetra ingests fragmented crime data (FIRs, CDRs, financial transactions, surv
 =======
 # NetraX — AI-Powered Criminal Network Analysis System
 
-NetraX ingests fragmented crime data (FIRs, CDRs, financial transactions, surveillance notes),
+Trinetra ingests fragmented crime data (FIRs, CDRs, financial transactions, surveillance notes),
 >>>>>>> 6e1a846 (NLP Updates)
 extracts entities using NLP, builds a knowledge graph of criminal networks, and surfaces
 key influencers, communities, and suspicious patterns for investigators.

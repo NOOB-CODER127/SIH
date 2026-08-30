@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5085                       Reporting Date: 2026-03-08
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ajay Tiwari (Alias: Pandit | Role: Syndicate Henchman)
+Primary Account Number: ACC9795 (ICICI Bank, Connaught Place Inner Circle Branch)
+Mule Destination Account: ACC7922
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC9795       ACC7922       Rs. 3,660,000   STR-2026-5085
+2026-03-13     NEFT      ACC9795       ACC7922       Rs. 1,830,000   STR-2026-5085
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC9795 held by Ajay Tiwari exhibited sudden rapid high-value transfers totaling Rs. 3,660,000 into illicit mule account ACC7922 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

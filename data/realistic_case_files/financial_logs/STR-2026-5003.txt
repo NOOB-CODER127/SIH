@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5003                       Reporting Date: 2026-03-01
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Salim Ahmed (Alias: Salim Bhai | Role: Stolen Goods Fence)
+Primary Account Number: ACC8027 (State Bank of India, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC6892
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC8027       ACC6892       Rs. 8,990,000   STR-2026-5003
+2026-03-13     NEFT      ACC8027       ACC6892       Rs. 4,495,000   STR-2026-5003
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC8027 held by Salim Ahmed exhibited sudden rapid high-value transfers totaling Rs. 8,990,000 into illicit mule account ACC6892 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

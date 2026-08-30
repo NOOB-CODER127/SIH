@@ -1,0 +1,27 @@
+================================================================================
+FIRST INFORMATION REPORT (Under Section 154 Cr.P.C.)
+TELANGANA POLICE | HITEC CITY CYBER PS, HYDERABAD
+FIR No: FIR-2026-0070                                    Date & Time of FIR: 2026-03-21 T 22:30 HRS
+Acts & Sections: IPC 379, IPC 420, IPC 120-B, IT Act Section 66D, PMLA Section 3
+Investigating Officer: Inspector S.K. Pandey
+================================================================================
+
+1. DETAILS OF COMPLAINANT / INFORMANT:
+   Name: Sunil Agrawal
+   Contact Number: 9784927321
+   Account Number Affected: ACC9006 (State Bank of India)
+
+2. OCCURRENCE OF OFFENCE:
+   Date & Time: 2026-03-08 between 19:00 HRS and 22:30 HRS
+   Place of Occurrence: Near Aliganj Sector C, Hyderabad
+
+3. DETAILED POLICE NARRATIVE & INVESTIGATION SUMMARY:
+   On 2026-03-08, complainant Sunil Agrawal appeared at Hitec City Cyber PS and submitted a written report stating that an organized criminal group executed a coordinated extortion and theft operation. 
+   According to the complainant, primary suspect Manoj Gupta, who is known in police intelligence records under the moniker 'Munna', approached the victim's premises near Aliganj Sector C operating vehicle registration HR79DK1626. 
+   
+   Subsequent financial analysis conducted by the Investigating Officer Inspector S.K. Pandey revealed that illicit funds amounting to Rs. 3,190,000 were siphoned directly from victim account ACC9006 into mule account ACC9089. 
+   
+   Call Detail Record (CDR) analysis established that mobile number 9815089583, registered under suspect Manoj Gupta (alias Munna), was active near cell tower location Aliganj Sector C during the exact timeframe of the crime. Local informants confirm that suspect Manoj Gupta operates as a key member (Financial Launderer) in the criminal syndicate.
+
+4. ACTION TAKEN:
+   Case registered under IPC Sections 379/420/120B. Vehicle HR79DK1626 flagged for immediate interception across state checkposts. Bank account ACC9089 frozen under Section 102 Cr.P.C. Investigation handed over to Inspector S.K. Pandey.

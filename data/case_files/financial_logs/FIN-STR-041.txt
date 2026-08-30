@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-3442
+Primary Account Holder: Rahul Shukla
+Source Account: ACC3863
+Destination Mule Account: ACC8473
+Transaction Amount: Rs. 1,440,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

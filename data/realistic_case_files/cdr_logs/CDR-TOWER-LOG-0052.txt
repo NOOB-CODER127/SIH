@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0052                                    Target Period: 2026-03-03
+
+SUBSCRIBER A (CALLER): Ramesh Yadav (Alias: Chotu) | MSISDN: 9862713405
+SUBSCRIBER B (CALLEE): Suresh Patil (Alias: Subhedar) | MSISDN: 9996002956
+
+CELL TOWER COVERAGE LOCATION: Aminabad Bazaar Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9862713405       9996002956       412 sec       Aminabad Bazaar
+02:05:10 HRS        INCOMING    9996002956       9862713405       185 sec       Aminabad Bazaar
+03:30:45 HRS        OUTGOING    9862713405       9996002956       520 sec       Aminabad Bazaar
+04:12:00 HRS        OUTGOING    9862713405       9996002956       94 sec        Aminabad Bazaar
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Ramesh Yadav (9862713405) and co-accused Suresh Patil (9996002956) originating from Aminabad Bazaar tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

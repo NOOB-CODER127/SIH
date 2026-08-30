@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5015                       Reporting Date: 2026-03-04
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ajay Tiwari (Alias: Pandit | Role: Syndicate Henchman)
+Primary Account Number: ACC8008 (Punjab National Bank, Hitec City Phase 2 Branch)
+Mule Destination Account: ACC5371
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC8008       ACC5371       Rs. 2,330,000   STR-2026-5015
+2026-03-13     NEFT      ACC8008       ACC5371       Rs. 1,165,000   STR-2026-5015
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC8008 held by Ajay Tiwari exhibited sudden rapid high-value transfers totaling Rs. 2,330,000 into illicit mule account ACC5371 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5049                       Reporting Date: 2026-03-26
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ramesh Yadav (Alias: Chotu | Role: Lieutenant / Extortionist)
+Primary Account Number: ACC7383 (Punjab National Bank, Banjara Hills Road No 12 Branch)
+Mule Destination Account: ACC9157
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC7383       ACC9157       Rs. 10,690,000   STR-2026-5049
+2026-03-13     NEFT      ACC7383       ACC9157       Rs. 5,345,000   STR-2026-5049
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC7383 held by Ramesh Yadav exhibited sudden rapid high-value transfers totaling Rs. 10,690,000 into illicit mule account ACC9157 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

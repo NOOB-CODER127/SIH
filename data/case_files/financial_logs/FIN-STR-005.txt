@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-6541
+Primary Account Holder: Vikram Mishra
+Source Account: ACC3582
+Destination Mule Account: ACC2947
+Transaction Amount: Rs. 3,510,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-026
+Tower Location: Banjara Hills Sector 4
+Target A: Imran Joshi (Mobile: 9884042682)
+Target B: Deepak Deshmukh (Mobile: 9990923709)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Banjara Hills.

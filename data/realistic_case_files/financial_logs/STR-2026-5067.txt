@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5067                       Reporting Date: 2026-03-08
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ajay Tiwari (Alias: Pandit | Role: Syndicate Henchman)
+Primary Account Number: ACC2632 (Axis Bank, Banjara Hills Road No 12 Branch)
+Mule Destination Account: ACC6366
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC2632       ACC6366       Rs. 4,910,000   STR-2026-5067
+2026-03-13     NEFT      ACC2632       ACC6366       Rs. 2,455,000   STR-2026-5067
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC2632 held by Ajay Tiwari exhibited sudden rapid high-value transfers totaling Rs. 4,910,000 into illicit mule account ACC6366 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

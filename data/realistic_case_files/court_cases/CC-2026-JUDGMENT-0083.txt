@@ -1,0 +1,23 @@
+IN THE HIGH COURT OF JUDICATURE AT ALLAHABAD / SPECIAL PMLA TRIBUNAL
+Criminal Appeal No. 4083 of 2026
+Case Reference: CC-2026-JUDGMENT-0083
+
+STATE OF UTTAR PRADESH THROUGH PROSECUTION ... Appellant
+VERSUS
+VIKRAM SHUKLA ALIAS BUNTY & OTHERS ... Respondents
+
+BEFORE: HON'BLE JUSTICE R.M. SHARMA & JUSTICE A.K. TRIPATHI
+Date of Decision: 2026-03-11
+
+JUDGMENT & ORDER
+
+1. This appeal is directed against the order of the Special Court in connection with organized crime syndicate operations across Uttar Pradesh and Delhi. The prosecution case presented by Sub-Inspector Vikram Singh centers on accused Vikram Shukla, alias 'Bunty', who functioned as Vehicle Syndicate Kingpin.
+
+2. FINANCIAL TRAIL & FORENSIC EVIDENCE:
+The Financial Intelligence Unit (FIU-IND) generated Suspicious Transaction Report reference STR-2026-3525 regarding anomalous fund flows. Investigation established that extortion funds totaling Rs. 2,010,000 were illegally transferred from victim Ananya Sharma (Account ACC9004) into illicit mule account ACC2567 controlled by the accused syndicate operating out of Hazratganj Market and Connaught Place Inner Circle.
+
+3. CALL DETAIL RECORD (CDR) & CELL TOWER EVIDENCE:
+Technical analysis of Call Detail Records submitted by law enforcement proves continuous voice and data interactions on mobile number 9874008247 held by Vikram Shukla (alias Bunty) traversing cell towers in Hazratganj Market and Connaught Place Inner Circle.
+
+4. CONCLUSION & RULING:
+Having examined the digital forensics, bank account ledgers, and witness testimonies, the Court finds overwhelming evidence establishing conspiracy under IPC Section 120-B and money laundering under PMLA Section 3/4. Bail application of accused Vikram Shukla (alias Bunty) is hereby REJECTED. Direct freeze of account ACC2567 is confirmed.

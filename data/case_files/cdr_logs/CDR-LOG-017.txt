@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-017
+Tower Location: Aliganj Sector 4
+Target A: Karan Mishra (Mobile: 9817947084)
+Target B: Sunil Shukla (Mobile: 9922078937)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Aliganj.

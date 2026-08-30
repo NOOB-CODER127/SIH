@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-010
+Tower Location: Banjara Hills Sector 4
+Target A: Suresh Tiwari (Mobile: 9848021057)
+Target B: Amit Rao (Mobile: 9920861260)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Banjara Hills.

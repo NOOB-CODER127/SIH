@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5066                       Reporting Date: 2026-03-06
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Salim Ahmed (Alias: Salim Bhai | Role: Stolen Goods Fence)
+Primary Account Number: ACC9170 (Axis Bank, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC7759
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC9170       ACC7759       Rs. 9,930,000   STR-2026-5066
+2026-03-13     NEFT      ACC9170       ACC7759       Rs. 4,965,000   STR-2026-5066
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC9170 held by Salim Ahmed exhibited sudden rapid high-value transfers totaling Rs. 9,930,000 into illicit mule account ACC7759 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-6104
+Primary Account Holder: Vijay Pandey
+Source Account: ACC9835
+Destination Mule Account: ACC8527
+Transaction Amount: Rs. 5,950,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

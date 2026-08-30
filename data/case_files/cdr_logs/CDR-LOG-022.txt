@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-022
+Tower Location: Hitec City Sector 4
+Target A: Vijay Tiwari (Mobile: 9876711767)
+Target B: Amit Nair (Mobile: 9982095448)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Hitec City.

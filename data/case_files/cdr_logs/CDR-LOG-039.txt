@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-039
+Tower Location: Aminabad Sector 4
+Target A: Arun Pandey (Mobile: 9827093896)
+Target B: Sunil Yadav (Mobile: 9948112538)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Aminabad.

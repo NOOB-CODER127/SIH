@@ -1,0 +1,23 @@
+IN THE HIGH COURT OF JUDICATURE AT ALLAHABAD / SPECIAL PMLA TRIBUNAL
+Criminal Appeal No. 4073 of 2026
+Case Reference: CC-2026-JUDGMENT-0073
+
+STATE OF UTTAR PRADESH THROUGH PROSECUTION ... Appellant
+VERSUS
+MANOJ GUPTA ALIAS MUNNA & OTHERS ... Respondents
+
+BEFORE: HON'BLE JUSTICE R.M. SHARMA & JUSTICE A.K. TRIPATHI
+Date of Decision: 2026-03-21
+
+JUDGMENT & ORDER
+
+1. This appeal is directed against the order of the Special Court in connection with organized crime syndicate operations across Uttar Pradesh and Delhi. The prosecution case presented by ACP Crime Branch A.K. Varma centers on accused Manoj Gupta, alias 'Munna', who functioned as Financial Launderer.
+
+2. FINANCIAL TRAIL & FORENSIC EVIDENCE:
+The Financial Intelligence Unit (FIU-IND) generated Suspicious Transaction Report reference STR-2026-7317 regarding anomalous fund flows. Investigation established that extortion funds totaling Rs. 3,440,000 were illegally transferred from victim Sunil Agrawal (Account ACC9006) into illicit mule account ACC7641 controlled by the accused syndicate operating out of Bandra Kurla Complex and Connaught Place Inner Circle.
+
+3. CALL DETAIL RECORD (CDR) & CELL TOWER EVIDENCE:
+Technical analysis of Call Detail Records submitted by law enforcement proves continuous voice and data interactions on mobile number 9866676537 held by Manoj Gupta (alias Munna) traversing cell towers in Bandra Kurla Complex and Connaught Place Inner Circle.
+
+4. CONCLUSION & RULING:
+Having examined the digital forensics, bank account ledgers, and witness testimonies, the Court finds overwhelming evidence establishing conspiracy under IPC Section 120-B and money laundering under PMLA Section 3/4. Bail application of accused Manoj Gupta (alias Munna) is hereby REJECTED. Direct freeze of account ACC7641 is confirmed.

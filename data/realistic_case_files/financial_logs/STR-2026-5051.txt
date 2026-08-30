@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5051                       Reporting Date: 2026-03-08
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Salim Ahmed (Alias: Salim Bhai | Role: Stolen Goods Fence)
+Primary Account Number: ACC8850 (ICICI Bank, Aliganj Sector C Branch)
+Mule Destination Account: ACC9398
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC8850       ACC9398       Rs. 7,930,000   STR-2026-5051
+2026-03-13     NEFT      ACC8850       ACC9398       Rs. 3,965,000   STR-2026-5051
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC8850 held by Salim Ahmed exhibited sudden rapid high-value transfers totaling Rs. 7,930,000 into illicit mule account ACC9398 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

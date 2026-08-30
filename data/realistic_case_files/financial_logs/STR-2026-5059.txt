@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5059                       Reporting Date: 2026-03-11
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Deepak Verma (Alias: Doctor | Role: Logistics Driver)
+Primary Account Number: ACC4006 (State Bank of India, Bandra Kurla Complex Branch)
+Mule Destination Account: ACC8571
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC4006       ACC8571       Rs. 1,540,000   STR-2026-5059
+2026-03-13     NEFT      ACC4006       ACC8571       Rs. 770,000   STR-2026-5059
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC4006 held by Deepak Verma exhibited sudden rapid high-value transfers totaling Rs. 1,540,000 into illicit mule account ACC8571 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

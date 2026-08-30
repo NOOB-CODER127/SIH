@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-5147
+Primary Account Holder: Vikram Kumar
+Source Account: ACC5856
+Destination Mule Account: ACC1815
+Transaction Amount: Rs. 3,050,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5013                       Reporting Date: 2026-03-28
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Neha Kulkarni (Alias: Madam | Role: Mule Account Handler)
+Primary Account Number: ACC9863 (Axis Bank, Hitec City Phase 2 Branch)
+Mule Destination Account: ACC8795
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC9863       ACC8795       Rs. 2,300,000   STR-2026-5013
+2026-03-13     NEFT      ACC9863       ACC8795       Rs. 1,150,000   STR-2026-5013
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC9863 held by Neha Kulkarni exhibited sudden rapid high-value transfers totaling Rs. 2,300,000 into illicit mule account ACC8795 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-6615
+Primary Account Holder: Ramesh Shukla
+Source Account: ACC9969
+Destination Mule Account: ACC4180
+Transaction Amount: Rs. 2,770,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

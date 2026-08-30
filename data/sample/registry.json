@@ -156,6 +156,639 @@
       "role": "investigating_officer",
       "phones": [],
       "accounts": []
+<<<<<<< HEAD
+=======
+    },
+    "P006": {
+      "name": "Rahul Gupta",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P007": {
+      "name": "Karan Mehta",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P008": {
+      "name": "Prakash Mishra",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P009": {
+      "name": "Ajay Tiwari",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P014": {
+      "name": "Anil Tiwari",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P015": {
+      "name": "Arun Ahmed",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P016": {
+      "name": "Amit Gupta",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P017": {
+      "name": "Manoj Singh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P018": {
+      "name": "Arun Sheikh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P019": {
+      "name": "Sanjay Mishra",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P021": {
+      "name": "Prakash Verma",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P022": {
+      "name": "Sunil Joshi",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P023": {
+      "name": "Dinesh Sheikh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P024": {
+      "name": "Suresh Kumar",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P025": {
+      "name": "Amit Pandey",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P026": {
+      "name": "Ramesh Gupta",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P027": {
+      "name": "Prakash Chauhan",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P028": {
+      "name": "Anil Pandey",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P029": {
+      "name": "Ajay Sheikh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P035": {
+      "name": "Rajesh Singh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P036": {
+      "name": "Sanjay Gupta",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P037": {
+      "name": "Sunil Sheikh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P038": {
+      "name": "Dinesh Singh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P039": {
+      "name": "Prakash Sheikh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P040": {
+      "name": "Karan Patil",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P041": {
+      "name": "Salim Deshmukh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P042": {
+      "name": "Arun Yadav",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P043": {
+      "name": "Suresh Pandey",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P044": {
+      "name": "Dinesh Patil",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P045": {
+      "name": "Dinesh Deshmukh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P046": {
+      "name": "Deepak Rao",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P047": {
+      "name": "Rajesh Yadav",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P048": {
+      "name": "Prakash Patil",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P049": {
+      "name": "Anil Gupta",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P050": {
+      "name": "Anil Tiwari",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P051": {
+      "name": "Anil Joshi",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P052": {
+      "name": "Rohan Sharma",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P053": {
+      "name": "Deepak Pandey",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P054": {
+      "name": "Vijay Nair",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P055": {
+      "name": "Dinesh Patil",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P056": {
+      "name": "Vijay Mehta",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P057": {
+      "name": "Ramesh Patil",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P058": {
+      "name": "Anil Patil",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P059": {
+      "name": "Rohan Deshmukh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P060": {
+      "name": "Ramesh Yadav",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P061": {
+      "name": "Arun Kumar",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P062": {
+      "name": "Salim Sheikh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P063": {
+      "name": "Rohan Tiwari",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P064": {
+      "name": "Salim Khan",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P065": {
+      "name": "Deepak Khan",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P066": {
+      "name": "Deepak Verma",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P067": {
+      "name": "Salim Ahmed",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P068": {
+      "name": "Suresh Singh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P069": {
+      "name": "Rohan Shukla",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P070": {
+      "name": "Rajesh Pandey",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P071": {
+      "name": "Sanjay Kumar",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P072": {
+      "name": "Ajay Mehta",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P073": {
+      "name": "Sanjay Ahmed",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P074": {
+      "name": "Rajesh Deshmukh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P075": {
+      "name": "Ajay Mehta",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P076": {
+      "name": "Suresh Mehta",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P077": {
+      "name": "Ramesh Pandey",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P078": {
+      "name": "Sunil Nair",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P079": {
+      "name": "Amit Ahmed",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P080": {
+      "name": "Vikram Singh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P081": {
+      "name": "Arun Joshi",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P082": {
+      "name": "Rahul Deshmukh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P083": {
+      "name": "Suresh Ahmed",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P084": {
+      "name": "Rahul Gupta",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P085": {
+      "name": "Arun Chauhan",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P086": {
+      "name": "Ajay Patil",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P087": {
+      "name": "Vijay Khan",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P088": {
+      "name": "Anil Rao",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P089": {
+      "name": "Rahul Yadav",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P090": {
+      "name": "Rajesh Ahmed",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P091": {
+      "name": "Ramesh Singh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P092": {
+      "name": "Dinesh Yadav",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P093": {
+      "name": "Prakash Khan",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P094": {
+      "name": "Amit Singh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P095": {
+      "name": "Karan Deshmukh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P096": {
+      "name": "Sunil Singh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P097": {
+      "name": "Suresh Ahmed",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P098": {
+      "name": "Ramesh Deshmukh",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P099": {
+      "name": "Ramesh Rao",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P100": {
+      "name": "Sanjay Verma",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P101": {
+      "name": "Sanjay Khan",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P102": {
+      "name": "Rajesh Tiwari",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P103": {
+      "name": "Arun Verma",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P104": {
+      "name": "Sanjay Tiwari",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+    },
+    "P105": {
+      "name": "Deepak Kumar",
+      "aliases": [],
+      "role": "suspect",
+      "phones": [],
+      "accounts": []
+>>>>>>> 6e1a846 (NLP Updates)
     }
   },
   "vehicles": {

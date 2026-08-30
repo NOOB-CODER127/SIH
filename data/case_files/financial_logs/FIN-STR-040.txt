@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-1863
+Primary Account Holder: Rahul Mehta
+Source Account: ACC7010
+Destination Mule Account: ACC9694
+Transaction Amount: Rs. 3,470,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

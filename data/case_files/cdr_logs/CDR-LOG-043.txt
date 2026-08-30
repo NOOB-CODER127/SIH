@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-043
+Tower Location: Bangalore Sector 4
+Target A: Suresh Chauhan (Mobile: 9874543320)
+Target B: Ramesh Sheikh (Mobile: 9928041929)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Bangalore.

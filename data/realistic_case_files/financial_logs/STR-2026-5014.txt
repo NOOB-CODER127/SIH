@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5014                       Reporting Date: 2026-03-18
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Deepak Verma (Alias: Doctor | Role: Logistics Driver)
+Primary Account Number: ACC9830 (Axis Bank, Banjara Hills Road No 12 Branch)
+Mule Destination Account: ACC8531
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC9830       ACC8531       Rs. 8,520,000   STR-2026-5014
+2026-03-13     NEFT      ACC9830       ACC8531       Rs. 4,260,000   STR-2026-5014
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC9830 held by Deepak Verma exhibited sudden rapid high-value transfers totaling Rs. 8,520,000 into illicit mule account ACC8531 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

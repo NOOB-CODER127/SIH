@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-009
+Tower Location: Vibhuti Khand Sector 4
+Target A: Imran Pandey (Mobile: 9839243936)
+Target B: Salim Sheikh (Mobile: 9932609951)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Vibhuti Khand.

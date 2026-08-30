@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0095                                    Target Period: 2026-03-12
+
+SUBSCRIBER A (CALLER): Suresh Patil (Alias: Subhedar) | MSISDN: 9856863636
+SUBSCRIBER B (CALLEE): Ramesh Yadav (Alias: Chotu) | MSISDN: 9990245387
+
+CELL TOWER COVERAGE LOCATION: Hazratganj Market Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9856863636       9990245387       412 sec       Hazratganj Market
+02:05:10 HRS        INCOMING    9990245387       9856863636       185 sec       Hazratganj Market
+03:30:45 HRS        OUTGOING    9856863636       9990245387       520 sec       Hazratganj Market
+04:12:00 HRS        OUTGOING    9856863636       9990245387       94 sec        Hazratganj Market
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Suresh Patil (9856863636) and co-accused Ramesh Yadav (9990245387) originating from Hazratganj Market tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

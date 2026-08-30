@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5028                       Reporting Date: 2026-03-05
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ramesh Yadav (Alias: Chotu | Role: Lieutenant / Extortionist)
+Primary Account Number: ACC1229 (State Bank of India, Banjara Hills Road No 12 Branch)
+Mule Destination Account: ACC6203
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC1229       ACC6203       Rs. 4,020,000   STR-2026-5028
+2026-03-13     NEFT      ACC1229       ACC6203       Rs. 2,010,000   STR-2026-5028
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC1229 held by Ramesh Yadav exhibited sudden rapid high-value transfers totaling Rs. 4,020,000 into illicit mule account ACC6203 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

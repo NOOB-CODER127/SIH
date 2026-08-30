@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-3161
+Primary Account Holder: Rajesh Rao
+Source Account: ACC6564
+Destination Mule Account: ACC6612
+Transaction Amount: Rs. 4,860,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

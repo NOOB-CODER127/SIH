@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-9448
+Primary Account Holder: Deepak Tiwari
+Source Account: ACC2162
+Destination Mule Account: ACC6895
+Transaction Amount: Rs. 4,380,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

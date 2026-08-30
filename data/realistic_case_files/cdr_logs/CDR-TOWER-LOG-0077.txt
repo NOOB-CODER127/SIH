@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0077                                    Target Period: 2026-03-07
+
+SUBSCRIBER A (CALLER): Salim Ahmed (Alias: Salim Bhai) | MSISDN: 9811909719
+SUBSCRIBER B (CALLEE): Deepak Verma (Alias: Doctor) | MSISDN: 9983601582
+
+CELL TOWER COVERAGE LOCATION: Hazratganj Market Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9811909719       9983601582       412 sec       Hazratganj Market
+02:05:10 HRS        INCOMING    9983601582       9811909719       185 sec       Hazratganj Market
+03:30:45 HRS        OUTGOING    9811909719       9983601582       520 sec       Hazratganj Market
+04:12:00 HRS        OUTGOING    9811909719       9983601582       94 sec        Hazratganj Market
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Salim Ahmed (9811909719) and co-accused Deepak Verma (9983601582) originating from Hazratganj Market tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

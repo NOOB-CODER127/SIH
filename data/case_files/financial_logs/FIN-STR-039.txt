@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-9456
+Primary Account Holder: Sanjay Chauhan
+Source Account: ACC5174
+Destination Mule Account: ACC9900
+Transaction Amount: Rs. 9,620,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

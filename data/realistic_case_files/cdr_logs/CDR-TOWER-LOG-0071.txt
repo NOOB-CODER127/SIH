@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0071                                    Target Period: 2026-03-19
+
+SUBSCRIBER A (CALLER): Vikram Shukla (Alias: Bunty) | MSISDN: 9812037879
+SUBSCRIBER B (CALLEE): Ramesh Yadav (Alias: Chotu) | MSISDN: 9946955067
+
+CELL TOWER COVERAGE LOCATION: Bandra Kurla Complex Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9812037879       9946955067       412 sec       Bandra Kurla Complex
+02:05:10 HRS        INCOMING    9946955067       9812037879       185 sec       Bandra Kurla Complex
+03:30:45 HRS        OUTGOING    9812037879       9946955067       520 sec       Bandra Kurla Complex
+04:12:00 HRS        OUTGOING    9812037879       9946955067       94 sec        Bandra Kurla Complex
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Vikram Shukla (9812037879) and co-accused Ramesh Yadav (9946955067) originating from Bandra Kurla Complex tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

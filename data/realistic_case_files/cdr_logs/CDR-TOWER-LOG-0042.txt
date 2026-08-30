@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0042                                    Target Period: 2026-03-28
+
+SUBSCRIBER A (CALLER): Vikram Shukla (Alias: Bunty) | MSISDN: 9817144251
+SUBSCRIBER B (CALLEE): Prakash Rao (Alias: PK) | MSISDN: 9977117208
+
+CELL TOWER COVERAGE LOCATION: Aliganj Sector C Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9817144251       9977117208       412 sec       Aliganj Sector C
+02:05:10 HRS        INCOMING    9977117208       9817144251       185 sec       Aliganj Sector C
+03:30:45 HRS        OUTGOING    9817144251       9977117208       520 sec       Aliganj Sector C
+04:12:00 HRS        OUTGOING    9817144251       9977117208       94 sec        Aliganj Sector C
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Vikram Shukla (9817144251) and co-accused Prakash Rao (9977117208) originating from Aliganj Sector C tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

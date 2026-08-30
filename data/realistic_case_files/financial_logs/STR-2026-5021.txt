@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5021                       Reporting Date: 2026-03-01
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Imran Sheikh (Alias: Raja | Role: Phishing Operator)
+Primary Account Number: ACC7523 (State Bank of India, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC6966
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC7523       ACC6966       Rs. 4,320,000   STR-2026-5021
+2026-03-13     NEFT      ACC7523       ACC6966       Rs. 2,160,000   STR-2026-5021
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC7523 held by Imran Sheikh exhibited sudden rapid high-value transfers totaling Rs. 4,320,000 into illicit mule account ACC6966 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

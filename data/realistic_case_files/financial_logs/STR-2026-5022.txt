@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5022                       Reporting Date: 2026-03-03
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ramesh Yadav (Alias: Chotu | Role: Lieutenant / Extortionist)
+Primary Account Number: ACC9458 (State Bank of India, Hazratganj Market Branch)
+Mule Destination Account: ACC6377
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC9458       ACC6377       Rs. 13,650,000   STR-2026-5022
+2026-03-13     NEFT      ACC9458       ACC6377       Rs. 6,825,000   STR-2026-5022
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC9458 held by Ramesh Yadav exhibited sudden rapid high-value transfers totaling Rs. 13,650,000 into illicit mule account ACC6377 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

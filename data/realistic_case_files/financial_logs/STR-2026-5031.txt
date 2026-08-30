@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5031                       Reporting Date: 2026-03-07
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Vikram Shukla (Alias: Bunty | Role: Vehicle Syndicate Kingpin)
+Primary Account Number: ACC7917 (Punjab National Bank, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC8257
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC7917       ACC8257       Rs. 4,190,000   STR-2026-5031
+2026-03-13     NEFT      ACC7917       ACC8257       Rs. 2,095,000   STR-2026-5031
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC7917 held by Vikram Shukla exhibited sudden rapid high-value transfers totaling Rs. 4,190,000 into illicit mule account ACC8257 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

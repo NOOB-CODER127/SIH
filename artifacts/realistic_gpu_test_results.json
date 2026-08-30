@@ -1,0 +1,127 @@
+{
+  "gpu_info": {
+    "cuda_available": true,
+    "device_name": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+    "training_documents": 400,
+    "testing_documents": 100,
+    "total_documents": 500,
+    "execution_time_seconds": 20.76
+  },
+  "overall_performance": {
+    "precision": 0.3213,
+    "recall": 0.7646,
+    "f1_score": 0.4525,
+    "canonical_resolution_accuracy": 0.6132,
+    "total_true_positives": 679,
+    "total_false_positives": 1434,
+    "total_false_negatives": 209
+  },
+  "performance_by_entity_type": {
+    "person": {
+      "precision": 0.3863,
+      "recall": 0.6901,
+      "f1_score": 0.4953,
+      "tp": 236,
+      "fp": 375,
+      "fn": 106
+    },
+    "location": {
+      "precision": 0.2263,
+      "recall": 0.8299,
+      "f1_score": 0.3557,
+      "tp": 122,
+      "fp": 417,
+      "fn": 25
+    },
+    "phone": {
+      "precision": 0.2787,
+      "recall": 0.7969,
+      "f1_score": 0.413,
+      "tp": 102,
+      "fp": 264,
+      "fn": 26
+    },
+    "vehicle": {
+      "precision": 0.3125,
+      "recall": 0.6061,
+      "f1_score": 0.4124,
+      "tp": 20,
+      "fp": 44,
+      "fn": 13
+    },
+    "account": {
+      "precision": 0.3881,
+      "recall": 0.8,
+      "f1_score": 0.5226,
+      "tp": 104,
+      "fp": 164,
+      "fn": 26
+    },
+    "amount": {
+      "precision": 0.5149,
+      "recall": 0.8,
+      "f1_score": 0.6265,
+      "tp": 52,
+      "fp": 49,
+      "fn": 13
+    },
+    "indicator": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "tp": 43,
+      "fp": 0,
+      "fn": 0
+    },
+    "org": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "tp": 0,
+      "fp": 121,
+      "fn": 0
+    }
+  },
+  "performance_by_document_type": {
+    "fir": {
+      "precision": 0.4107,
+      "recall": 0.9848,
+      "f1_score": 0.5797,
+      "tp": 260,
+      "fp": 373,
+      "fn": 4
+    },
+    "cdr": {
+      "precision": 0.2399,
+      "recall": 0.8452,
+      "f1_score": 0.3737,
+      "tp": 142,
+      "fp": 450,
+      "fn": 26
+    },
+    "financial": {
+      "precision": 0.3333,
+      "recall": 0.8651,
+      "f1_score": 0.4812,
+      "tp": 109,
+      "fp": 218,
+      "fn": 17
+    },
+    "court": {
+      "precision": 0.3804,
+      "recall": 0.96,
+      "f1_score": 0.5449,
+      "tp": 264,
+      "fp": 430,
+      "fn": 11
+    },
+    "surveillance": {
+      "precision": 0.4435,
+      "recall": 1.0,
+      "f1_score": 0.6145,
+      "tp": 55,
+      "fp": 69,
+      "fn": 0
+    }
+  }
+}

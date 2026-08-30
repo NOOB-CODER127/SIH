@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-013
+Tower Location: Aliganj Sector 4
+Target A: Suresh Patil (Mobile: 9841685736)
+Target B: Suresh Yadav (Mobile: 9969339990)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Aliganj.

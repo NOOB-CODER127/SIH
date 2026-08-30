@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0097                                    Target Period: 2026-03-23
+
+SUBSCRIBER A (CALLER): Ramesh Yadav (Alias: Chotu) | MSISDN: 9812000897
+SUBSCRIBER B (CALLEE): Suresh Patil (Alias: Subhedar) | MSISDN: 9967896469
+
+CELL TOWER COVERAGE LOCATION: Charbagh Railway Station Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9812000897       9967896469       412 sec       Charbagh Railway Station
+02:05:10 HRS        INCOMING    9967896469       9812000897       185 sec       Charbagh Railway Station
+03:30:45 HRS        OUTGOING    9812000897       9967896469       520 sec       Charbagh Railway Station
+04:12:00 HRS        OUTGOING    9812000897       9967896469       94 sec        Charbagh Railway Station
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Ramesh Yadav (9812000897) and co-accused Suresh Patil (9967896469) originating from Charbagh Railway Station tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

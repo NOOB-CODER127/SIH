@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5037                       Reporting Date: 2026-03-11
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ramesh Yadav (Alias: Chotu | Role: Lieutenant / Extortionist)
+Primary Account Number: ACC7112 (ICICI Bank, Vibhuti Khand Branch)
+Mule Destination Account: ACC1791
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC7112       ACC1791       Rs. 12,310,000   STR-2026-5037
+2026-03-13     NEFT      ACC7112       ACC1791       Rs. 6,155,000   STR-2026-5037
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC7112 held by Ramesh Yadav exhibited sudden rapid high-value transfers totaling Rs. 12,310,000 into illicit mule account ACC1791 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

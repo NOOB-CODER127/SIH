@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5056                       Reporting Date: 2026-03-07
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Imran Sheikh (Alias: Raja | Role: Phishing Operator)
+Primary Account Number: ACC8568 (Punjab National Bank, Aminabad Bazaar Branch)
+Mule Destination Account: ACC9844
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC8568       ACC9844       Rs. 13,700,000   STR-2026-5056
+2026-03-13     NEFT      ACC8568       ACC9844       Rs. 6,850,000   STR-2026-5056
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC8568 held by Imran Sheikh exhibited sudden rapid high-value transfers totaling Rs. 13,700,000 into illicit mule account ACC9844 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

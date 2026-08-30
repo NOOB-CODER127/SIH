@@ -1,0 +1,27 @@
+================================================================================
+FIRST INFORMATION REPORT (Under Section 154 Cr.P.C.)
+TELANGANA POLICE | HITEC CITY CYBER PS, HYDERABAD
+FIR No: FIR-2026-0095                                    Date & Time of FIR: 2026-03-20 T 18:30 HRS
+Acts & Sections: IPC 379, IPC 420, IPC 120-B, IT Act Section 66D, PMLA Section 3
+Investigating Officer: Sub-Inspector Vikram Singh
+================================================================================
+
+1. DETAILS OF COMPLAINANT / INFORMANT:
+   Name: Kunal Joshi
+   Contact Number: 9754756676
+   Account Number Affected: ACC9003 (Punjab National Bank)
+
+2. OCCURRENCE OF OFFENCE:
+   Date & Time: 2026-03-19 between 19:00 HRS and 22:30 HRS
+   Place of Occurrence: Near Aminabad Bazaar, Hyderabad
+
+3. DETAILED POLICE NARRATIVE & INVESTIGATION SUMMARY:
+   On 2026-03-14, complainant Kunal Joshi appeared at Hitec City Cyber PS and submitted a written report stating that an organized criminal group executed a coordinated extortion and theft operation. 
+   According to the complainant, primary suspect Ramesh Yadav, who is known in police intelligence records under the moniker 'Chotu', approached the victim's premises near Aminabad Bazaar operating vehicle registration HR31CD8686. 
+   
+   Subsequent financial analysis conducted by the Investigating Officer Sub-Inspector Vikram Singh revealed that illicit funds amounting to Rs. 3,190,000 were siphoned directly from victim account ACC9003 into mule account ACC2297. 
+   
+   Call Detail Record (CDR) analysis established that mobile number 9822779576, registered under suspect Ramesh Yadav (alias Chotu), was active near cell tower location Aminabad Bazaar during the exact timeframe of the crime. Local informants confirm that suspect Ramesh Yadav operates as a key member (Lieutenant / Extortionist) in the criminal syndicate.
+
+4. ACTION TAKEN:
+   Case registered under IPC Sections 379/420/120B. Vehicle HR31CD8686 flagged for immediate interception across state checkposts. Bank account ACC2297 frozen under Section 102 Cr.P.C. Investigation handed over to Sub-Inspector Vikram Singh.

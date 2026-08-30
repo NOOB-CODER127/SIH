@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-008
+Tower Location: Vibhuti Khand Sector 4
+Target A: Ramesh Mehta (Mobile: 9871970890)
+Target B: Manoj Patil (Mobile: 9999942181)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Vibhuti Khand.

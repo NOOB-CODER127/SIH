@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-021
+Tower Location: Lucknow Sector 4
+Target A: Prakash Rao (Mobile: 9833889619)
+Target B: Imran Patil (Mobile: 9977046872)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Lucknow.

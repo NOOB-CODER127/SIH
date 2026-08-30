@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-6918
+Primary Account Holder: Deepak Rao
+Source Account: ACC9090
+Destination Mule Account: ACC6853
+Transaction Amount: Rs. 2,470,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

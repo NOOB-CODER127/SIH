@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5083                       Reporting Date: 2026-03-06
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ajay Tiwari (Alias: Pandit | Role: Syndicate Henchman)
+Primary Account Number: ACC8747 (State Bank of India, Hazratganj Market Branch)
+Mule Destination Account: ACC2837
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC8747       ACC2837       Rs. 6,060,000   STR-2026-5083
+2026-03-13     NEFT      ACC8747       ACC2837       Rs. 3,030,000   STR-2026-5083
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC8747 held by Ajay Tiwari exhibited sudden rapid high-value transfers totaling Rs. 6,060,000 into illicit mule account ACC2837 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

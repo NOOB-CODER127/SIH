@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-006
+Tower Location: Bangalore Sector 4
+Target A: Ajay Sharma (Mobile: 9820602329)
+Target B: Rajesh Patil (Mobile: 9943148353)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Bangalore.

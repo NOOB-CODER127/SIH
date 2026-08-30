@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-2825
+Primary Account Holder: Vikram Nair
+Source Account: ACC9466
+Destination Mule Account: ACC3128
+Transaction Amount: Rs. 2,750,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

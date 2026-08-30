@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5061                       Reporting Date: 2026-03-12
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Vikram Shukla (Alias: Bunty | Role: Vehicle Syndicate Kingpin)
+Primary Account Number: ACC7716 (HDFC Bank, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC8126
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC7716       ACC8126       Rs. 9,580,000   STR-2026-5061
+2026-03-13     NEFT      ACC7716       ACC8126       Rs. 4,790,000   STR-2026-5061
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC7716 held by Vikram Shukla exhibited sudden rapid high-value transfers totaling Rs. 9,580,000 into illicit mule account ACC8126 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

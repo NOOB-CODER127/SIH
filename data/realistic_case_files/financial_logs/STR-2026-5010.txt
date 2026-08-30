@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5010                       Reporting Date: 2026-03-24
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Suresh Patil (Alias: Subhedar | Role: Hawala Broker)
+Primary Account Number: ACC1511 (ICICI Bank, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC8932
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC1511       ACC8932       Rs. 10,370,000   STR-2026-5010
+2026-03-13     NEFT      ACC1511       ACC8932       Rs. 5,185,000   STR-2026-5010
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC1511 held by Suresh Patil exhibited sudden rapid high-value transfers totaling Rs. 10,370,000 into illicit mule account ACC8932 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

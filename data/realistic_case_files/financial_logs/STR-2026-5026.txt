@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5026                       Reporting Date: 2026-03-12
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Manoj Gupta (Alias: Munna | Role: Financial Launderer)
+Primary Account Number: ACC6467 (Punjab National Bank, Connaught Place Inner Circle Branch)
+Mule Destination Account: ACC1373
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC6467       ACC1373       Rs. 10,540,000   STR-2026-5026
+2026-03-13     NEFT      ACC6467       ACC1373       Rs. 5,270,000   STR-2026-5026
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC6467 held by Manoj Gupta exhibited sudden rapid high-value transfers totaling Rs. 10,540,000 into illicit mule account ACC1373 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

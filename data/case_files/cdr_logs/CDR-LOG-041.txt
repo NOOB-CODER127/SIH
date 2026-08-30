@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-041
+Tower Location: Lucknow Sector 4
+Target A: Imran Sheikh (Mobile: 9865058478)
+Target B: Dinesh Pandey (Mobile: 9943004123)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Lucknow.

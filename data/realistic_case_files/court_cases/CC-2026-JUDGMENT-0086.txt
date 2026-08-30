@@ -1,0 +1,23 @@
+IN THE HIGH COURT OF JUDICATURE AT ALLAHABAD / SPECIAL PMLA TRIBUNAL
+Criminal Appeal No. 4086 of 2026
+Case Reference: CC-2026-JUDGMENT-0086
+
+STATE OF UTTAR PRADESH THROUGH PROSECUTION ... Appellant
+VERSUS
+PRAKASH RAO ALIAS PK & OTHERS ... Respondents
+
+BEFORE: HON'BLE JUSTICE R.M. SHARMA & JUSTICE A.K. TRIPATHI
+Date of Decision: 2026-03-04
+
+JUDGMENT & ORDER
+
+1. This appeal is directed against the order of the Special Court in connection with organized crime syndicate operations across Uttar Pradesh and Delhi. The prosecution case presented by Inspector S.K. Pandey centers on accused Prakash Rao, alias 'PK', who functioned as Cyber Crime Mastermind.
+
+2. FINANCIAL TRAIL & FORENSIC EVIDENCE:
+The Financial Intelligence Unit (FIU-IND) generated Suspicious Transaction Report reference STR-2026-2966 regarding anomalous fund flows. Investigation established that extortion funds totaling Rs. 4,460,000 were illegally transferred from victim Priya Singh (Account ACC9002) into illicit mule account ACC3558 controlled by the accused syndicate operating out of Gomti Nagar Extension and Aminabad Bazaar.
+
+3. CALL DETAIL RECORD (CDR) & CELL TOWER EVIDENCE:
+Technical analysis of Call Detail Records submitted by law enforcement proves continuous voice and data interactions on mobile number 9833603783 held by Prakash Rao (alias PK) traversing cell towers in Gomti Nagar Extension and Aminabad Bazaar.
+
+4. CONCLUSION & RULING:
+Having examined the digital forensics, bank account ledgers, and witness testimonies, the Court finds overwhelming evidence establishing conspiracy under IPC Section 120-B and money laundering under PMLA Section 3/4. Bail application of accused Prakash Rao (alias PK) is hereby REJECTED. Direct freeze of account ACC3558 is confirmed.

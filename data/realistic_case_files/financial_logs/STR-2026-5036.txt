@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5036                       Reporting Date: 2026-03-02
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Deepak Verma (Alias: Doctor | Role: Logistics Driver)
+Primary Account Number: ACC2505 (Axis Bank, Aminabad Bazaar Branch)
+Mule Destination Account: ACC6680
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC2505       ACC6680       Rs. 13,940,000   STR-2026-5036
+2026-03-13     NEFT      ACC2505       ACC6680       Rs. 6,970,000   STR-2026-5036
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC2505 held by Deepak Verma exhibited sudden rapid high-value transfers totaling Rs. 13,940,000 into illicit mule account ACC6680 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

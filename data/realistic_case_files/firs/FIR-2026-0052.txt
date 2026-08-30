@@ -1,0 +1,27 @@
+================================================================================
+FIRST INFORMATION REPORT (Under Section 154 Cr.P.C.)
+TELANGANA POLICE | BANJARA HILLS PS, HYDERABAD
+FIR No: FIR-2026-0052                                    Date & Time of FIR: 2026-03-13 T 20:30 HRS
+Acts & Sections: IPC 379, IPC 420, IPC 120-B, IT Act Section 66D, PMLA Section 3
+Investigating Officer: Inspector Cyber Cell Priya Rao
+================================================================================
+
+1. DETAILS OF COMPLAINANT / INFORMANT:
+   Name: Rohan Mehta
+   Contact Number: 9745873253
+   Account Number Affected: ACC9001 (State Bank of India)
+
+2. OCCURRENCE OF OFFENCE:
+   Date & Time: 2026-03-14 between 19:00 HRS and 22:30 HRS
+   Place of Occurrence: Near Bandra Kurla Complex, Hyderabad
+
+3. DETAILED POLICE NARRATIVE & INVESTIGATION SUMMARY:
+   On 2026-03-12, complainant Rohan Mehta appeared at Banjara Hills PS and submitted a written report stating that an organized criminal group executed a coordinated extortion and theft operation. 
+   According to the complainant, primary suspect Imran Sheikh, who is known in police intelligence records under the moniker 'Raja', approached the victim's premises near Bandra Kurla Complex operating vehicle registration UP02AB1191. 
+   
+   Subsequent financial analysis conducted by the Investigating Officer Inspector Cyber Cell Priya Rao revealed that illicit funds amounting to Rs. 3,050,000 were siphoned directly from victim account ACC9001 into mule account ACC5474. 
+   
+   Call Detail Record (CDR) analysis established that mobile number 9813007752, registered under suspect Imran Sheikh (alias Raja), was active near cell tower location Bandra Kurla Complex during the exact timeframe of the crime. Local informants confirm that suspect Imran Sheikh operates as a key member (Phishing Operator) in the criminal syndicate.
+
+4. ACTION TAKEN:
+   Case registered under IPC Sections 379/420/120B. Vehicle UP02AB1191 flagged for immediate interception across state checkposts. Bank account ACC5474 frozen under Section 102 Cr.P.C. Investigation handed over to Inspector Cyber Cell Priya Rao.

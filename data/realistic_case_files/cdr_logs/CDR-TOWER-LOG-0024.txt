@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0024                                    Target Period: 2026-03-06
+
+SUBSCRIBER A (CALLER): Vikram Shukla (Alias: Bunty) | MSISDN: 9891781357
+SUBSCRIBER B (CALLEE): Salim Ahmed (Alias: Salim Bhai) | MSISDN: 9910788130
+
+CELL TOWER COVERAGE LOCATION: Banjara Hills Road No 12 Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9891781357       9910788130       412 sec       Banjara Hills Road No 12
+02:05:10 HRS        INCOMING    9910788130       9891781357       185 sec       Banjara Hills Road No 12
+03:30:45 HRS        OUTGOING    9891781357       9910788130       520 sec       Banjara Hills Road No 12
+04:12:00 HRS        OUTGOING    9891781357       9910788130       94 sec        Banjara Hills Road No 12
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Vikram Shukla (9891781357) and co-accused Salim Ahmed (9910788130) originating from Banjara Hills Road No 12 tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0001                                    Target Period: 2026-03-19
+
+SUBSCRIBER A (CALLER): Ajay Tiwari (Alias: Pandit) | MSISDN: 9879672343
+SUBSCRIBER B (CALLEE): Ajay Tiwari (Alias: Pandit) | MSISDN: 9996933809
+
+CELL TOWER COVERAGE LOCATION: Connaught Place Inner Circle Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9879672343       9996933809       412 sec       Connaught Place Inner Circle
+02:05:10 HRS        INCOMING    9996933809       9879672343       185 sec       Connaught Place Inner Circle
+03:30:45 HRS        OUTGOING    9879672343       9996933809       520 sec       Connaught Place Inner Circle
+04:12:00 HRS        OUTGOING    9879672343       9996933809       94 sec        Connaught Place Inner Circle
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Ajay Tiwari (9879672343) and co-accused Ajay Tiwari (9996933809) originating from Connaught Place Inner Circle tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

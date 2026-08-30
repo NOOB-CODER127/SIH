@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-004
+Tower Location: Mumbai Sector 4
+Target A: Rajesh Tiwari (Mobile: 9846797829)
+Target B: Sanjay Verma (Mobile: 9928801667)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Mumbai.

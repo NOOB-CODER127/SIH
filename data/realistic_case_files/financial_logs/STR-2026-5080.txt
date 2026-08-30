@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5080                       Reporting Date: 2026-03-19
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Deepak Verma (Alias: Doctor | Role: Logistics Driver)
+Primary Account Number: ACC6641 (Axis Bank, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC5829
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC6641       ACC5829       Rs. 5,740,000   STR-2026-5080
+2026-03-13     NEFT      ACC6641       ACC5829       Rs. 2,870,000   STR-2026-5080
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC6641 held by Deepak Verma exhibited sudden rapid high-value transfers totaling Rs. 5,740,000 into illicit mule account ACC5829 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

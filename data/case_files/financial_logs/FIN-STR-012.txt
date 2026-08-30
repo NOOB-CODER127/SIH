@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-1893
+Primary Account Holder: Imran Sheikh
+Source Account: ACC9476
+Destination Mule Account: ACC2345
+Transaction Amount: Rs. 4,030,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

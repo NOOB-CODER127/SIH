@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0054                                    Target Period: 2026-03-19
+
+SUBSCRIBER A (CALLER): Ramesh Yadav (Alias: Chotu) | MSISDN: 9894010696
+SUBSCRIBER B (CALLEE): Salim Ahmed (Alias: Salim Bhai) | MSISDN: 9973596017
+
+CELL TOWER COVERAGE LOCATION: Aminabad Bazaar Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9894010696       9973596017       412 sec       Aminabad Bazaar
+02:05:10 HRS        INCOMING    9973596017       9894010696       185 sec       Aminabad Bazaar
+03:30:45 HRS        OUTGOING    9894010696       9973596017       520 sec       Aminabad Bazaar
+04:12:00 HRS        OUTGOING    9894010696       9973596017       94 sec        Aminabad Bazaar
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Ramesh Yadav (9894010696) and co-accused Salim Ahmed (9973596017) originating from Aminabad Bazaar tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

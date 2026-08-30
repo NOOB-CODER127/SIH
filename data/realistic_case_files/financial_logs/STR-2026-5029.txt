@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5029                       Reporting Date: 2026-03-10
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Vikram Shukla (Alias: Bunty | Role: Vehicle Syndicate Kingpin)
+Primary Account Number: ACC4402 (State Bank of India, Hitec City Phase 2 Branch)
+Mule Destination Account: ACC3710
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC4402       ACC3710       Rs. 8,350,000   STR-2026-5029
+2026-03-13     NEFT      ACC4402       ACC3710       Rs. 4,175,000   STR-2026-5029
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC4402 held by Vikram Shukla exhibited sudden rapid high-value transfers totaling Rs. 8,350,000 into illicit mule account ACC3710 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-016
+Tower Location: Pune Sector 4
+Target A: Karan Tiwari (Mobile: 9833900573)
+Target B: Deepak Tiwari (Mobile: 9984300451)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Pune.

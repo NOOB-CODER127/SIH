@@ -1,0 +1,83 @@
+{
+  "use_transformer": true,
+  "overall_f1": 0.816,
+  "canonical_accuracy": 1.0,
+  "combined_score": 0.8712,
+  "metrics": {
+    "overall": {
+      "precision": 0.6892,
+      "recall": 1.0,
+      "f1_score": 0.816,
+      "canonical_resolution_accuracy": 1.0,
+      "total_true_positives": 51,
+      "total_false_positives": 23,
+      "total_false_negatives": 0
+    },
+    "by_entity_type": {
+      "person": {
+        "precision": 0.6452,
+        "recall": 1.0,
+        "f1_score": 0.7843,
+        "tp": 20,
+        "fp": 11,
+        "fn": 0
+      },
+      "vehicle": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "location": {
+        "precision": 0.6667,
+        "recall": 1.0,
+        "f1_score": 0.8,
+        "tp": 10,
+        "fp": 5,
+        "fn": 0
+      },
+      "amount": {
+        "precision": 0.75,
+        "recall": 1.0,
+        "f1_score": 0.8571,
+        "tp": 3,
+        "fp": 1,
+        "fn": 0
+      },
+      "account": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "tp": 7,
+        "fp": 0,
+        "fn": 0
+      },
+      "phone": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "indicator": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "tp": 2,
+        "fp": 0,
+        "fn": 0
+      },
+      "org": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "tp": 0,
+        "fp": 6,
+        "fn": 0
+      }
+    }
+  }
+}

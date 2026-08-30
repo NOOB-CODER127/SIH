@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-048
+Tower Location: Pune Sector 4
+Target A: Arun Singh (Mobile: 9876296459)
+Target B: Rajesh Singh (Mobile: 9975583236)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Pune.

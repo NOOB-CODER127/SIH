@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0023                                    Target Period: 2026-03-06
+
+SUBSCRIBER A (CALLER): Deepak Verma (Alias: Doctor) | MSISDN: 9843111287
+SUBSCRIBER B (CALLEE): Vikram Shukla (Alias: Bunty) | MSISDN: 9978910806
+
+CELL TOWER COVERAGE LOCATION: Bandra Kurla Complex Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9843111287       9978910806       412 sec       Bandra Kurla Complex
+02:05:10 HRS        INCOMING    9978910806       9843111287       185 sec       Bandra Kurla Complex
+03:30:45 HRS        OUTGOING    9843111287       9978910806       520 sec       Bandra Kurla Complex
+04:12:00 HRS        OUTGOING    9843111287       9978910806       94 sec        Bandra Kurla Complex
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Deepak Verma (9843111287) and co-accused Vikram Shukla (9978910806) originating from Bandra Kurla Complex tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5001                       Reporting Date: 2026-03-03
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ajay Tiwari (Alias: Pandit | Role: Syndicate Henchman)
+Primary Account Number: ACC6344 (Punjab National Bank, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC3774
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC6344       ACC3774       Rs. 2,180,000   STR-2026-5001
+2026-03-13     NEFT      ACC6344       ACC3774       Rs. 1,090,000   STR-2026-5001
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC6344 held by Ajay Tiwari exhibited sudden rapid high-value transfers totaling Rs. 2,180,000 into illicit mule account ACC3774 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

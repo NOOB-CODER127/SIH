@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5025                       Reporting Date: 2026-03-04
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Neha Kulkarni (Alias: Madam | Role: Mule Account Handler)
+Primary Account Number: ACC6246 (Punjab National Bank, Hitec City Phase 2 Branch)
+Mule Destination Account: ACC2709
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC6246       ACC2709       Rs. 14,040,000   STR-2026-5025
+2026-03-13     NEFT      ACC6246       ACC2709       Rs. 7,020,000   STR-2026-5025
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC6246 held by Neha Kulkarni exhibited sudden rapid high-value transfers totaling Rs. 14,040,000 into illicit mule account ACC2709 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

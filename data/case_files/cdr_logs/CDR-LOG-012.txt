@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-012
+Tower Location: Gomti Nagar Sector 4
+Target A: Sunil Nair (Mobile: 9868795134)
+Target B: Vikram Gupta (Mobile: 9968496786)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Gomti Nagar.

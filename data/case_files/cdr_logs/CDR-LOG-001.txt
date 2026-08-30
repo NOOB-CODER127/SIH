@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-001
+Tower Location: Vibhuti Khand Sector 4
+Target A: Sanjay Joshi (Mobile: 9851537202)
+Target B: Manoj Joshi (Mobile: 9953264159)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Vibhuti Khand.

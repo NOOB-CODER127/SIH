@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-2678
+Primary Account Holder: Vijay Sharma
+Source Account: ACC6771
+Destination Mule Account: ACC3184
+Transaction Amount: Rs. 4,620,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

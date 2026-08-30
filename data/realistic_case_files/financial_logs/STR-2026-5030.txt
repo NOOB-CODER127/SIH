@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5030                       Reporting Date: 2026-03-20
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Neha Kulkarni (Alias: Madam | Role: Mule Account Handler)
+Primary Account Number: ACC4983 (State Bank of India, Hitec City Phase 2 Branch)
+Mule Destination Account: ACC4315
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC4983       ACC4315       Rs. 14,550,000   STR-2026-5030
+2026-03-13     NEFT      ACC4983       ACC4315       Rs. 7,275,000   STR-2026-5030
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC4983 held by Neha Kulkarni exhibited sudden rapid high-value transfers totaling Rs. 14,550,000 into illicit mule account ACC4315 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

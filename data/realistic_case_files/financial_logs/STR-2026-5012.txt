@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5012                       Reporting Date: 2026-03-07
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Suresh Patil (Alias: Subhedar | Role: Hawala Broker)
+Primary Account Number: ACC6063 (Punjab National Bank, Bandra Kurla Complex Branch)
+Mule Destination Account: ACC4425
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC6063       ACC4425       Rs. 12,300,000   STR-2026-5012
+2026-03-13     NEFT      ACC6063       ACC4425       Rs. 6,150,000   STR-2026-5012
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC6063 held by Suresh Patil exhibited sudden rapid high-value transfers totaling Rs. 12,300,000 into illicit mule account ACC4425 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

@@ -1,0 +1,13 @@
+IN THE HIGH COURT OF JUDICATURE AT HYDERABAD
+FOR THE STATE OF TELANGANA
+CRIMINAL PETITION NO. 8812 OF 2025
+
+PRAKASH RAO ALIAS PK ... PETITIONER / ACCUSED NO. 1
+VERSUS
+STATE OF TELANGANA ... RESPONDENT
+
+ORDER
+1. Petitioner Prakash Rao (P010), alias PK, challenges prosecution proceedings in CC No. 881/2025 on the file of Special Cyber Crime Court, Hyderabad.
+2. The prosecution alleges that petitioner masterminded an international cyber phishing network operating out of Hitec City and Banjara Hills, Hyderabad. Co-accused Imran Sheikh (P011) deployed phishing links targeting bank manager Ananya Sharma and victim Neha Kulkarni (P012).
+3. Digital forensics seized device logs associated with phone number 9000011122 and vehicle KA05MJ4821. Funds amounting to Rs. 8,75,000 were siphoned from account ACC2002 to account ACC1002 held by Salim Ahmed (P003) at Vibhuti Khand.
+4. Court finds substantial evidence under Section 66D Information Technology Act and Section 420 IPC. Petition dismissed.

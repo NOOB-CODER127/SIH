@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0027                                    Target Period: 2026-03-19
+
+SUBSCRIBER A (CALLER): Ajay Tiwari (Alias: Pandit) | MSISDN: 9899595668
+SUBSCRIBER B (CALLEE): Deepak Verma (Alias: Doctor) | MSISDN: 9926734192
+
+CELL TOWER COVERAGE LOCATION: Hazratganj Market Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9899595668       9926734192       412 sec       Hazratganj Market
+02:05:10 HRS        INCOMING    9926734192       9899595668       185 sec       Hazratganj Market
+03:30:45 HRS        OUTGOING    9899595668       9926734192       520 sec       Hazratganj Market
+04:12:00 HRS        OUTGOING    9899595668       9926734192       94 sec        Hazratganj Market
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Ajay Tiwari (9899595668) and co-accused Deepak Verma (9926734192) originating from Hazratganj Market tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

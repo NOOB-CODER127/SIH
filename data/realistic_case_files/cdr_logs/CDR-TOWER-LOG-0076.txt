@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0076                                    Target Period: 2026-03-06
+
+SUBSCRIBER A (CALLER): Ramesh Yadav (Alias: Chotu) | MSISDN: 9858882591
+SUBSCRIBER B (CALLEE): Vikram Shukla (Alias: Bunty) | MSISDN: 9942682806
+
+CELL TOWER COVERAGE LOCATION: Vibhuti Khand Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9858882591       9942682806       412 sec       Vibhuti Khand
+02:05:10 HRS        INCOMING    9942682806       9858882591       185 sec       Vibhuti Khand
+03:30:45 HRS        OUTGOING    9858882591       9942682806       520 sec       Vibhuti Khand
+04:12:00 HRS        OUTGOING    9858882591       9942682806       94 sec        Vibhuti Khand
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Ramesh Yadav (9858882591) and co-accused Vikram Shukla (9942682806) originating from Vibhuti Khand tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

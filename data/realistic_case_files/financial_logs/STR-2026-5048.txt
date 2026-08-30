@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5048                       Reporting Date: 2026-03-23
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Imran Sheikh (Alias: Raja | Role: Phishing Operator)
+Primary Account Number: ACC2371 (State Bank of India, Vibhuti Khand Branch)
+Mule Destination Account: ACC7641
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC2371       ACC7641       Rs. 6,310,000   STR-2026-5048
+2026-03-13     NEFT      ACC2371       ACC7641       Rs. 3,155,000   STR-2026-5048
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC2371 held by Imran Sheikh exhibited sudden rapid high-value transfers totaling Rs. 6,310,000 into illicit mule account ACC7641 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

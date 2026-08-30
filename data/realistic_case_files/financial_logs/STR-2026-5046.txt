@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5046                       Reporting Date: 2026-03-25
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Imran Sheikh (Alias: Raja | Role: Phishing Operator)
+Primary Account Number: ACC4229 (ICICI Bank, Hitec City Phase 2 Branch)
+Mule Destination Account: ACC2896
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC4229       ACC2896       Rs. 3,410,000   STR-2026-5046
+2026-03-13     NEFT      ACC4229       ACC2896       Rs. 1,705,000   STR-2026-5046
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC4229 held by Imran Sheikh exhibited sudden rapid high-value transfers totaling Rs. 3,410,000 into illicit mule account ACC2896 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

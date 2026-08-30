@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5064                       Reporting Date: 2026-03-13
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ramesh Yadav (Alias: Chotu | Role: Lieutenant / Extortionist)
+Primary Account Number: ACC4153 (HDFC Bank, Connaught Place Inner Circle Branch)
+Mule Destination Account: ACC6346
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC4153       ACC6346       Rs. 4,170,000   STR-2026-5064
+2026-03-13     NEFT      ACC4153       ACC6346       Rs. 2,085,000   STR-2026-5064
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC4153 held by Ramesh Yadav exhibited sudden rapid high-value transfers totaling Rs. 4,170,000 into illicit mule account ACC6346 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5054                       Reporting Date: 2026-03-03
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Deepak Verma (Alias: Doctor | Role: Logistics Driver)
+Primary Account Number: ACC7155 (ICICI Bank, Bandra Kurla Complex Branch)
+Mule Destination Account: ACC3565
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC7155       ACC3565       Rs. 7,690,000   STR-2026-5054
+2026-03-13     NEFT      ACC7155       ACC3565       Rs. 3,845,000   STR-2026-5054
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC7155 held by Deepak Verma exhibited sudden rapid high-value transfers totaling Rs. 7,690,000 into illicit mule account ACC3565 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

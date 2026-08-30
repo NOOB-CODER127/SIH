@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0067                                    Target Period: 2026-03-07
+
+SUBSCRIBER A (CALLER): Deepak Verma (Alias: Doctor) | MSISDN: 9866233279
+SUBSCRIBER B (CALLEE): Manoj Gupta (Alias: Munna) | MSISDN: 9938772591
+
+CELL TOWER COVERAGE LOCATION: Aminabad Bazaar Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9866233279       9938772591       412 sec       Aminabad Bazaar
+02:05:10 HRS        INCOMING    9938772591       9866233279       185 sec       Aminabad Bazaar
+03:30:45 HRS        OUTGOING    9866233279       9938772591       520 sec       Aminabad Bazaar
+04:12:00 HRS        OUTGOING    9866233279       9938772591       94 sec        Aminabad Bazaar
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Deepak Verma (9866233279) and co-accused Manoj Gupta (9938772591) originating from Aminabad Bazaar tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

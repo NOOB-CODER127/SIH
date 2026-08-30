@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0030                                    Target Period: 2026-03-23
+
+SUBSCRIBER A (CALLER): Ramesh Yadav (Alias: Chotu) | MSISDN: 9824864157
+SUBSCRIBER B (CALLEE): Manoj Gupta (Alias: Munna) | MSISDN: 9964721062
+
+CELL TOWER COVERAGE LOCATION: Hitec City Phase 2 Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9824864157       9964721062       412 sec       Hitec City Phase 2
+02:05:10 HRS        INCOMING    9964721062       9824864157       185 sec       Hitec City Phase 2
+03:30:45 HRS        OUTGOING    9824864157       9964721062       520 sec       Hitec City Phase 2
+04:12:00 HRS        OUTGOING    9824864157       9964721062       94 sec        Hitec City Phase 2
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Ramesh Yadav (9824864157) and co-accused Manoj Gupta (9964721062) originating from Hitec City Phase 2 tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

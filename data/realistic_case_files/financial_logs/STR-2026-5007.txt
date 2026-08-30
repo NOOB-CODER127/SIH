@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5007                       Reporting Date: 2026-03-14
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Vikram Shukla (Alias: Bunty | Role: Vehicle Syndicate Kingpin)
+Primary Account Number: ACC6691 (HDFC Bank, Charbagh Railway Station Branch)
+Mule Destination Account: ACC5853
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC6691       ACC5853       Rs. 5,630,000   STR-2026-5007
+2026-03-13     NEFT      ACC6691       ACC5853       Rs. 2,815,000   STR-2026-5007
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC6691 held by Vikram Shukla exhibited sudden rapid high-value transfers totaling Rs. 5,630,000 into illicit mule account ACC5853 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

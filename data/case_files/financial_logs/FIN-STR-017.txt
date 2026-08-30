@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-5452
+Primary Account Holder: Ramesh Joshi
+Source Account: ACC2355
+Destination Mule Account: ACC8641
+Transaction Amount: Rs. 6,310,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

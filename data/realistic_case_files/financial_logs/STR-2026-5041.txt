@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5041                       Reporting Date: 2026-03-07
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Vikram Shukla (Alias: Bunty | Role: Vehicle Syndicate Kingpin)
+Primary Account Number: ACC3273 (Punjab National Bank, Charbagh Railway Station Branch)
+Mule Destination Account: ACC9701
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC3273       ACC9701       Rs. 10,700,000   STR-2026-5041
+2026-03-13     NEFT      ACC3273       ACC9701       Rs. 5,350,000   STR-2026-5041
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC3273 held by Vikram Shukla exhibited sudden rapid high-value transfers totaling Rs. 10,700,000 into illicit mule account ACC9701 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

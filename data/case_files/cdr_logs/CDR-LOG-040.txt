@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-040
+Tower Location: Vibhuti Khand Sector 4
+Target A: Amit Mishra (Mobile: 9893781872)
+Target B: Rajesh Mehta (Mobile: 9934210537)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Vibhuti Khand.

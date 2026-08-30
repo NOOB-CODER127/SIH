@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5017                       Reporting Date: 2026-03-03
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Neha Kulkarni (Alias: Madam | Role: Mule Account Handler)
+Primary Account Number: ACC9932 (State Bank of India, Aminabad Bazaar Branch)
+Mule Destination Account: ACC8427
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC9932       ACC8427       Rs. 4,530,000   STR-2026-5017
+2026-03-13     NEFT      ACC9932       ACC8427       Rs. 2,265,000   STR-2026-5017
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC9932 held by Neha Kulkarni exhibited sudden rapid high-value transfers totaling Rs. 4,530,000 into illicit mule account ACC8427 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

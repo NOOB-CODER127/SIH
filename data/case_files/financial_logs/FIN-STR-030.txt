@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-4657
+Primary Account Holder: Rohan Deshmukh
+Source Account: ACC1797
+Destination Mule Account: ACC2582
+Transaction Amount: Rs. 2,250,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

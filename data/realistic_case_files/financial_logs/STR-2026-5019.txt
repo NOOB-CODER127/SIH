@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5019                       Reporting Date: 2026-03-21
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ajay Tiwari (Alias: Pandit | Role: Syndicate Henchman)
+Primary Account Number: ACC3849 (State Bank of India, Banjara Hills Road No 12 Branch)
+Mule Destination Account: ACC3394
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC3849       ACC3394       Rs. 9,750,000   STR-2026-5019
+2026-03-13     NEFT      ACC3849       ACC3394       Rs. 4,875,000   STR-2026-5019
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC3849 held by Ajay Tiwari exhibited sudden rapid high-value transfers totaling Rs. 9,750,000 into illicit mule account ACC3394 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

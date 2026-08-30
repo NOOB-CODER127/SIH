@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0047                                    Target Period: 2026-03-27
+
+SUBSCRIBER A (CALLER): Imran Sheikh (Alias: Raja) | MSISDN: 9818347771
+SUBSCRIBER B (CALLEE): Deepak Verma (Alias: Doctor) | MSISDN: 9998636172
+
+CELL TOWER COVERAGE LOCATION: Aliganj Sector C Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9818347771       9998636172       412 sec       Aliganj Sector C
+02:05:10 HRS        INCOMING    9998636172       9818347771       185 sec       Aliganj Sector C
+03:30:45 HRS        OUTGOING    9818347771       9998636172       520 sec       Aliganj Sector C
+04:12:00 HRS        OUTGOING    9818347771       9998636172       94 sec        Aliganj Sector C
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Imran Sheikh (9818347771) and co-accused Deepak Verma (9998636172) originating from Aliganj Sector C tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

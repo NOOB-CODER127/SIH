@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-014
+Tower Location: Bangalore Sector 4
+Target A: Vikram Yadav (Mobile: 9829114463)
+Target B: Rahul Patil (Mobile: 9966814249)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Bangalore.

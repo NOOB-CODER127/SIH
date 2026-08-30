@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0099                                    Target Period: 2026-03-19
+
+SUBSCRIBER A (CALLER): Vikram Shukla (Alias: Bunty) | MSISDN: 9819324325
+SUBSCRIBER B (CALLEE): Suresh Patil (Alias: Subhedar) | MSISDN: 9942414918
+
+CELL TOWER COVERAGE LOCATION: Charbagh Railway Station Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9819324325       9942414918       412 sec       Charbagh Railway Station
+02:05:10 HRS        INCOMING    9942414918       9819324325       185 sec       Charbagh Railway Station
+03:30:45 HRS        OUTGOING    9819324325       9942414918       520 sec       Charbagh Railway Station
+04:12:00 HRS        OUTGOING    9819324325       9942414918       94 sec        Charbagh Railway Station
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Vikram Shukla (9819324325) and co-accused Suresh Patil (9942414918) originating from Charbagh Railway Station tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-5749
+Primary Account Holder: Arun Ahmed
+Source Account: ACC6247
+Destination Mule Account: ACC8010
+Transaction Amount: Rs. 2,200,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

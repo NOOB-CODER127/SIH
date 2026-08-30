@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5018                       Reporting Date: 2026-03-12
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Manoj Gupta (Alias: Munna | Role: Financial Launderer)
+Primary Account Number: ACC2482 (Punjab National Bank, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC4607
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC2482       ACC4607       Rs. 11,950,000   STR-2026-5018
+2026-03-13     NEFT      ACC2482       ACC4607       Rs. 5,975,000   STR-2026-5018
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC2482 held by Manoj Gupta exhibited sudden rapid high-value transfers totaling Rs. 11,950,000 into illicit mule account ACC4607 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

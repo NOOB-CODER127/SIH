@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5096                       Reporting Date: 2026-03-27
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Vikram Shukla (Alias: Bunty | Role: Vehicle Syndicate Kingpin)
+Primary Account Number: ACC6325 (Axis Bank, Hitec City Phase 2 Branch)
+Mule Destination Account: ACC6689
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC6325       ACC6689       Rs. 9,120,000   STR-2026-5096
+2026-03-13     NEFT      ACC6325       ACC6689       Rs. 4,560,000   STR-2026-5096
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC6325 held by Vikram Shukla exhibited sudden rapid high-value transfers totaling Rs. 9,120,000 into illicit mule account ACC6689 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

@@ -1,0 +1,27 @@
+================================================================================
+FIRST INFORMATION REPORT (Under Section 154 Cr.P.C.)
+TELANGANA POLICE | HITEC CITY CYBER PS, HYDERABAD
+FIR No: FIR-2026-0064                                    Date & Time of FIR: 2026-03-11 T 15:30 HRS
+Acts & Sections: IPC 379, IPC 420, IPC 120-B, IT Act Section 66D, PMLA Section 3
+Investigating Officer: Inspector Cyber Cell Priya Rao
+================================================================================
+
+1. DETAILS OF COMPLAINANT / INFORMANT:
+   Name: Priya Singh
+   Contact Number: 9796856001
+   Account Number Affected: ACC9002 (Axis Bank)
+
+2. OCCURRENCE OF OFFENCE:
+   Date & Time: 2026-03-19 between 19:00 HRS and 22:30 HRS
+   Place of Occurrence: Near Connaught Place Inner Circle, Hyderabad
+
+3. DETAILED POLICE NARRATIVE & INVESTIGATION SUMMARY:
+   On 2026-03-23, complainant Priya Singh appeared at Hitec City Cyber PS and submitted a written report stating that an organized criminal group executed a coordinated extortion and theft operation. 
+   According to the complainant, primary suspect Imran Sheikh, who is known in police intelligence records under the moniker 'Raja', approached the victim's premises near Connaught Place Inner Circle operating vehicle registration UP06QB1375. 
+   
+   Subsequent financial analysis conducted by the Investigating Officer Inspector Cyber Cell Priya Rao revealed that illicit funds amounting to Rs. 5,820,000 were siphoned directly from victim account ACC9002 into mule account ACC5401. 
+   
+   Call Detail Record (CDR) analysis established that mobile number 9882714569, registered under suspect Imran Sheikh (alias Raja), was active near cell tower location Connaught Place Inner Circle during the exact timeframe of the crime. Local informants confirm that suspect Imran Sheikh operates as a key member (Phishing Operator) in the criminal syndicate.
+
+4. ACTION TAKEN:
+   Case registered under IPC Sections 379/420/120B. Vehicle UP06QB1375 flagged for immediate interception across state checkposts. Bank account ACC5401 frozen under Section 102 Cr.P.C. Investigation handed over to Inspector Cyber Cell Priya Rao.

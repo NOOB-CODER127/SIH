@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-2814
+Primary Account Holder: Salim Sheikh
+Source Account: ACC6836
+Destination Mule Account: ACC2265
+Transaction Amount: Rs. 5,470,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

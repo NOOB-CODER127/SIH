@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0075                                    Target Period: 2026-03-16
+
+SUBSCRIBER A (CALLER): Vikram Shukla (Alias: Bunty) | MSISDN: 9871092504
+SUBSCRIBER B (CALLEE): Imran Sheikh (Alias: Raja) | MSISDN: 9944347494
+
+CELL TOWER COVERAGE LOCATION: Vibhuti Khand Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9871092504       9944347494       412 sec       Vibhuti Khand
+02:05:10 HRS        INCOMING    9944347494       9871092504       185 sec       Vibhuti Khand
+03:30:45 HRS        OUTGOING    9871092504       9944347494       520 sec       Vibhuti Khand
+04:12:00 HRS        OUTGOING    9871092504       9944347494       94 sec        Vibhuti Khand
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Vikram Shukla (9871092504) and co-accused Imran Sheikh (9944347494) originating from Vibhuti Khand tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

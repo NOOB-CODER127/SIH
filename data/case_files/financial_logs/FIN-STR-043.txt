@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-1668
+Primary Account Holder: Prakash Verma
+Source Account: ACC4806
+Destination Mule Account: ACC9778
+Transaction Amount: Rs. 6,160,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

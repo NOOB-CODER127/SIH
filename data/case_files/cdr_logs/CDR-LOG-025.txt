@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-025
+Tower Location: Aliganj Sector 4
+Target A: Anil Kumar (Mobile: 9874141596)
+Target B: Ramesh Nair (Mobile: 9970940480)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Aliganj.

@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-015
+Tower Location: Pune Sector 4
+Target A: Dinesh Ahmed (Mobile: 9832594401)
+Target B: Imran Pandey (Mobile: 9912969716)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Pune.

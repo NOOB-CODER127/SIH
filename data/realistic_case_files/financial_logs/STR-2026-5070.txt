@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5070                       Reporting Date: 2026-03-03
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ramesh Yadav (Alias: Chotu | Role: Lieutenant / Extortionist)
+Primary Account Number: ACC8605 (HDFC Bank, Bandra Kurla Complex Branch)
+Mule Destination Account: ACC8882
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC8605       ACC8882       Rs. 11,590,000   STR-2026-5070
+2026-03-13     NEFT      ACC8605       ACC8882       Rs. 5,795,000   STR-2026-5070
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC8605 held by Ramesh Yadav exhibited sudden rapid high-value transfers totaling Rs. 11,590,000 into illicit mule account ACC8882 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

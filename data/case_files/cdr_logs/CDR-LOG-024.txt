@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-024
+Tower Location: Aminabad Sector 4
+Target A: Amit Ahmed (Mobile: 9813085752)
+Target B: Imran Singh (Mobile: 9937272295)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Aminabad.

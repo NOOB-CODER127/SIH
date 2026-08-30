@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-047
+Tower Location: Mumbai Sector 4
+Target A: Karan Mishra (Mobile: 9853420568)
+Target B: Dinesh Gupta (Mobile: 9976183984)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Mumbai.

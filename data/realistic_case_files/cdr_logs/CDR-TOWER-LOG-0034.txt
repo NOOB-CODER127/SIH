@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0034                                    Target Period: 2026-03-10
+
+SUBSCRIBER A (CALLER): Prakash Rao (Alias: PK) | MSISDN: 9830170519
+SUBSCRIBER B (CALLEE): Ajay Tiwari (Alias: Pandit) | MSISDN: 9945378039
+
+CELL TOWER COVERAGE LOCATION: Aminabad Bazaar Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9830170519       9945378039       412 sec       Aminabad Bazaar
+02:05:10 HRS        INCOMING    9945378039       9830170519       185 sec       Aminabad Bazaar
+03:30:45 HRS        OUTGOING    9830170519       9945378039       520 sec       Aminabad Bazaar
+04:12:00 HRS        OUTGOING    9830170519       9945378039       94 sec        Aminabad Bazaar
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Prakash Rao (9830170519) and co-accused Ajay Tiwari (9945378039) originating from Aminabad Bazaar tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

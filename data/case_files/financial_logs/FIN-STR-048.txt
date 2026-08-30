@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-9319
+Primary Account Holder: Arun Yadav
+Source Account: ACC1973
+Destination Mule Account: ACC1289
+Transaction Amount: Rs. 7,550,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

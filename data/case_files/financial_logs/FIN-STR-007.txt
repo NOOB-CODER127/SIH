@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-8030
+Primary Account Holder: Rahul Rao
+Source Account: ACC6272
+Destination Mule Account: ACC1780
+Transaction Amount: Rs. 2,420,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

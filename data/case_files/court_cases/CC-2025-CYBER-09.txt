@@ -1,0 +1,12 @@
+IN THE COURT OF SPECIAL JUDGE FOR CYBER CRIMES, HYDERABAD
+Case No. CC/881/2025
+State ... Complainant
+VERSUS
+Prakash Rao alias PK & Anr. ... Accused
+
+JUDGMENT
+1. The accused Prakash Rao (P010), alias PK, masterminded a widespread phishing network operating out of Hitec City and Banjara Hills, Hyderabad.
+2. Operative Imran Sheikh (P011) sent fraudulent phishing links targeting bank manager Ananya Sharma and victim Neha Kulkarni (P012).
+3. Funds totaling Rs. 8,75,000 were siphoned from account ACC2002 to illicit account ACC1002 registered under Salim Ahmed at Vibhuti Khand.
+4. Digital forensics recovered device logs linked to phone number 9000011122 and vehicle KA05MJ4821 used in operations.
+5. Financial Intelligence Unit issued flag STR-2026-0102 against accounts associated with PK. Accused sentenced under IT Act Section 66D and IPC 420.

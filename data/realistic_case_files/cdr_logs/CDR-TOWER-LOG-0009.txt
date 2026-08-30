@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0009                                    Target Period: 2026-03-06
+
+SUBSCRIBER A (CALLER): Vikram Shukla (Alias: Bunty) | MSISDN: 9827533808
+SUBSCRIBER B (CALLEE): Vikram Shukla (Alias: Bunty) | MSISDN: 9952168193
+
+CELL TOWER COVERAGE LOCATION: Gomti Nagar Extension Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9827533808       9952168193       412 sec       Gomti Nagar Extension
+02:05:10 HRS        INCOMING    9952168193       9827533808       185 sec       Gomti Nagar Extension
+03:30:45 HRS        OUTGOING    9827533808       9952168193       520 sec       Gomti Nagar Extension
+04:12:00 HRS        OUTGOING    9827533808       9952168193       94 sec        Gomti Nagar Extension
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Vikram Shukla (9827533808) and co-accused Vikram Shukla (9952168193) originating from Gomti Nagar Extension tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

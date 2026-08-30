@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-3207
+Primary Account Holder: Ajay Sharma
+Source Account: ACC4017
+Destination Mule Account: ACC5585
+Transaction Amount: Rs. 7,500,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5065                       Reporting Date: 2026-03-14
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ajay Tiwari (Alias: Pandit | Role: Syndicate Henchman)
+Primary Account Number: ACC1532 (State Bank of India, Aminabad Bazaar Branch)
+Mule Destination Account: ACC1674
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC1532       ACC1674       Rs. 10,690,000   STR-2026-5065
+2026-03-13     NEFT      ACC1532       ACC1674       Rs. 5,345,000   STR-2026-5065
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC1532 held by Ajay Tiwari exhibited sudden rapid high-value transfers totaling Rs. 10,690,000 into illicit mule account ACC1674 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

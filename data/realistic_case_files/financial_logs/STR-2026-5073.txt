@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5073                       Reporting Date: 2026-03-17
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Suresh Patil (Alias: Subhedar | Role: Hawala Broker)
+Primary Account Number: ACC5143 (Punjab National Bank, Connaught Place Inner Circle Branch)
+Mule Destination Account: ACC9859
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC5143       ACC9859       Rs. 11,130,000   STR-2026-5073
+2026-03-13     NEFT      ACC5143       ACC9859       Rs. 5,565,000   STR-2026-5073
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC5143 held by Suresh Patil exhibited sudden rapid high-value transfers totaling Rs. 11,130,000 into illicit mule account ACC9859 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

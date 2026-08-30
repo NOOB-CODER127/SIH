@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5057                       Reporting Date: 2026-03-14
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Neha Kulkarni (Alias: Madam | Role: Mule Account Handler)
+Primary Account Number: ACC5740 (State Bank of India, Vibhuti Khand Branch)
+Mule Destination Account: ACC5434
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC5740       ACC5434       Rs. 13,430,000   STR-2026-5057
+2026-03-13     NEFT      ACC5740       ACC5434       Rs. 6,715,000   STR-2026-5057
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC5740 held by Neha Kulkarni exhibited sudden rapid high-value transfers totaling Rs. 13,430,000 into illicit mule account ACC5434 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0035                                    Target Period: 2026-03-18
+
+SUBSCRIBER A (CALLER): Neha Kulkarni (Alias: Madam) | MSISDN: 9824051130
+SUBSCRIBER B (CALLEE): Deepak Verma (Alias: Doctor) | MSISDN: 9970943880
+
+CELL TOWER COVERAGE LOCATION: Gomti Nagar Extension Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9824051130       9970943880       412 sec       Gomti Nagar Extension
+02:05:10 HRS        INCOMING    9970943880       9824051130       185 sec       Gomti Nagar Extension
+03:30:45 HRS        OUTGOING    9824051130       9970943880       520 sec       Gomti Nagar Extension
+04:12:00 HRS        OUTGOING    9824051130       9970943880       94 sec        Gomti Nagar Extension
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Neha Kulkarni (9824051130) and co-accused Deepak Verma (9970943880) originating from Gomti Nagar Extension tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

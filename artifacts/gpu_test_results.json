@@ -1,0 +1,85 @@
+{
+  "overall": {
+    "precision": 0.6092,
+    "recall": 0.9864,
+    "f1_score": 0.7532,
+    "canonical_resolution_accuracy": 0.3947,
+    "total_true_positives": 290,
+    "total_false_positives": 186,
+    "total_false_negatives": 4
+  },
+  "by_entity_type": {
+    "person": {
+      "precision": 0.4927,
+      "recall": 0.9619,
+      "f1_score": 0.6516,
+      "tp": 101,
+      "fp": 104,
+      "fn": 4
+    },
+    "location": {
+      "precision": 0.7778,
+      "recall": 1.0,
+      "f1_score": 0.875,
+      "tp": 42,
+      "fp": 12,
+      "fn": 0
+    },
+    "phone": {
+      "precision": 0.6667,
+      "recall": 1.0,
+      "f1_score": 0.8,
+      "tp": 42,
+      "fp": 21,
+      "fn": 0
+    },
+    "account": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "tp": 42,
+      "fp": 0,
+      "fn": 0
+    },
+    "vehicle": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "tp": 21,
+      "fp": 0,
+      "fn": 0
+    },
+    "amount": {
+      "precision": 0.7778,
+      "recall": 1.0,
+      "f1_score": 0.875,
+      "tp": 21,
+      "fp": 6,
+      "fn": 0
+    },
+    "indicator": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "tp": 21,
+      "fp": 0,
+      "fn": 0
+    },
+    "org": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "tp": 0,
+      "fp": 43,
+      "fn": 0
+    }
+  },
+  "gpu_info": {
+    "cuda_available": true,
+    "device_name": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+    "train_case_files": 84,
+    "test_case_files": 21,
+    "total_case_files": 105,
+    "execution_time_seconds": 55.7
+  }
+}

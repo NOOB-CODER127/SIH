@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-005
+Tower Location: Hyderabad Sector 4
+Target A: Manoj Ahmed (Mobile: 9888396720)
+Target B: Deepak Nair (Mobile: 9947788922)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Hyderabad.

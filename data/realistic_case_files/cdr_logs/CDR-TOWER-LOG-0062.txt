@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0062                                    Target Period: 2026-03-07
+
+SUBSCRIBER A (CALLER): Imran Sheikh (Alias: Raja) | MSISDN: 9836814904
+SUBSCRIBER B (CALLEE): Suresh Patil (Alias: Subhedar) | MSISDN: 9972179875
+
+CELL TOWER COVERAGE LOCATION: Aminabad Bazaar Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9836814904       9972179875       412 sec       Aminabad Bazaar
+02:05:10 HRS        INCOMING    9972179875       9836814904       185 sec       Aminabad Bazaar
+03:30:45 HRS        OUTGOING    9836814904       9972179875       520 sec       Aminabad Bazaar
+04:12:00 HRS        OUTGOING    9836814904       9972179875       94 sec        Aminabad Bazaar
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Imran Sheikh (9836814904) and co-accused Suresh Patil (9972179875) originating from Aminabad Bazaar tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

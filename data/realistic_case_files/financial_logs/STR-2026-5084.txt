@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5084                       Reporting Date: 2026-03-02
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Neha Kulkarni (Alias: Madam | Role: Mule Account Handler)
+Primary Account Number: ACC7061 (Punjab National Bank, Bandra Kurla Complex Branch)
+Mule Destination Account: ACC3464
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC7061       ACC3464       Rs. 11,320,000   STR-2026-5084
+2026-03-13     NEFT      ACC7061       ACC3464       Rs. 5,660,000   STR-2026-5084
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC7061 held by Neha Kulkarni exhibited sudden rapid high-value transfers totaling Rs. 11,320,000 into illicit mule account ACC3464 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

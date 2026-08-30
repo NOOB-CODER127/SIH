@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5097                       Reporting Date: 2026-03-15
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Neha Kulkarni (Alias: Madam | Role: Mule Account Handler)
+Primary Account Number: ACC2322 (ICICI Bank, Banjara Hills Road No 12 Branch)
+Mule Destination Account: ACC4956
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC2322       ACC4956       Rs. 3,660,000   STR-2026-5097
+2026-03-13     NEFT      ACC2322       ACC4956       Rs. 1,830,000   STR-2026-5097
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC2322 held by Neha Kulkarni exhibited sudden rapid high-value transfers totaling Rs. 3,660,000 into illicit mule account ACC4956 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

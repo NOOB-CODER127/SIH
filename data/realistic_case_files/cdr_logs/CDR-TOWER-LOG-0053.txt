@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0053                                    Target Period: 2026-03-03
+
+SUBSCRIBER A (CALLER): Neha Kulkarni (Alias: Madam) | MSISDN: 9841256584
+SUBSCRIBER B (CALLEE): Deepak Verma (Alias: Doctor) | MSISDN: 9983113534
+
+CELL TOWER COVERAGE LOCATION: Bandra Kurla Complex Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9841256584       9983113534       412 sec       Bandra Kurla Complex
+02:05:10 HRS        INCOMING    9983113534       9841256584       185 sec       Bandra Kurla Complex
+03:30:45 HRS        OUTGOING    9841256584       9983113534       520 sec       Bandra Kurla Complex
+04:12:00 HRS        OUTGOING    9841256584       9983113534       94 sec        Bandra Kurla Complex
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Neha Kulkarni (9841256584) and co-accused Deepak Verma (9983113534) originating from Bandra Kurla Complex tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

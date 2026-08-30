@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5071                       Reporting Date: 2026-03-26
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Neha Kulkarni (Alias: Madam | Role: Mule Account Handler)
+Primary Account Number: ACC8092 (HDFC Bank, Connaught Place Inner Circle Branch)
+Mule Destination Account: ACC3520
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC8092       ACC3520       Rs. 4,180,000   STR-2026-5071
+2026-03-13     NEFT      ACC8092       ACC3520       Rs. 2,090,000   STR-2026-5071
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC8092 held by Neha Kulkarni exhibited sudden rapid high-value transfers totaling Rs. 4,180,000 into illicit mule account ACC3520 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

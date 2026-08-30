@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0007                                    Target Period: 2026-03-05
+
+SUBSCRIBER A (CALLER): Manoj Gupta (Alias: Munna) | MSISDN: 9845693956
+SUBSCRIBER B (CALLEE): Vikram Shukla (Alias: Bunty) | MSISDN: 9982724846
+
+CELL TOWER COVERAGE LOCATION: Aminabad Bazaar Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9845693956       9982724846       412 sec       Aminabad Bazaar
+02:05:10 HRS        INCOMING    9982724846       9845693956       185 sec       Aminabad Bazaar
+03:30:45 HRS        OUTGOING    9845693956       9982724846       520 sec       Aminabad Bazaar
+04:12:00 HRS        OUTGOING    9845693956       9982724846       94 sec        Aminabad Bazaar
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Manoj Gupta (9845693956) and co-accused Vikram Shukla (9982724846) originating from Aminabad Bazaar tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

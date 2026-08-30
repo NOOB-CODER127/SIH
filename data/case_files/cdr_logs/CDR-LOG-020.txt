@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-020
+Tower Location: Vibhuti Khand Sector 4
+Target A: Vijay Nair (Mobile: 9887355476)
+Target B: Amit Chauhan (Mobile: 9912542400)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Vibhuti Khand.

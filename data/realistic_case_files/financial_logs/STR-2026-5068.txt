@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5068                       Reporting Date: 2026-03-10
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Deepak Verma (Alias: Doctor | Role: Logistics Driver)
+Primary Account Number: ACC8041 (Punjab National Bank, Hazratganj Market Branch)
+Mule Destination Account: ACC7934
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC8041       ACC7934       Rs. 13,330,000   STR-2026-5068
+2026-03-13     NEFT      ACC8041       ACC7934       Rs. 6,665,000   STR-2026-5068
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC8041 held by Deepak Verma exhibited sudden rapid high-value transfers totaling Rs. 13,330,000 into illicit mule account ACC7934 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

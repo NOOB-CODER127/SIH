@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5033                       Reporting Date: 2026-03-10
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Suresh Patil (Alias: Subhedar | Role: Hawala Broker)
+Primary Account Number: ACC4072 (HDFC Bank, Hazratganj Market Branch)
+Mule Destination Account: ACC9787
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC4072       ACC9787       Rs. 7,000,000   STR-2026-5033
+2026-03-13     NEFT      ACC4072       ACC9787       Rs. 3,500,000   STR-2026-5033
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC4072 held by Suresh Patil exhibited sudden rapid high-value transfers totaling Rs. 7,000,000 into illicit mule account ACC9787 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

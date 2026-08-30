@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0079                                    Target Period: 2026-03-23
+
+SUBSCRIBER A (CALLER): Prakash Rao (Alias: PK) | MSISDN: 9822606323
+SUBSCRIBER B (CALLEE): Deepak Verma (Alias: Doctor) | MSISDN: 9963827049
+
+CELL TOWER COVERAGE LOCATION: Hazratganj Market Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9822606323       9963827049       412 sec       Hazratganj Market
+02:05:10 HRS        INCOMING    9963827049       9822606323       185 sec       Hazratganj Market
+03:30:45 HRS        OUTGOING    9822606323       9963827049       520 sec       Hazratganj Market
+04:12:00 HRS        OUTGOING    9822606323       9963827049       94 sec        Hazratganj Market
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Prakash Rao (9822606323) and co-accused Deepak Verma (9963827049) originating from Hazratganj Market tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

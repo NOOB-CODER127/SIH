@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-4323
+Primary Account Holder: Deepak Nair
+Source Account: ACC7946
+Destination Mule Account: ACC6745
+Transaction Amount: Rs. 6,130,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

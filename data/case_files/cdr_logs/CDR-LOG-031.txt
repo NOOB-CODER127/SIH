@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-031
+Tower Location: Banjara Hills Sector 4
+Target A: Dinesh Singh (Mobile: 9872754847)
+Target B: Dinesh Patil (Mobile: 9976360103)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Banjara Hills.

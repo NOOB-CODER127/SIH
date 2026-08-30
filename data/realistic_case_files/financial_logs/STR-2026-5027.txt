@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5027                       Reporting Date: 2026-03-07
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ramesh Yadav (Alias: Chotu | Role: Lieutenant / Extortionist)
+Primary Account Number: ACC6836 (State Bank of India, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC5354
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC6836       ACC5354       Rs. 8,100,000   STR-2026-5027
+2026-03-13     NEFT      ACC6836       ACC5354       Rs. 4,050,000   STR-2026-5027
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC6836 held by Ramesh Yadav exhibited sudden rapid high-value transfers totaling Rs. 8,100,000 into illicit mule account ACC5354 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

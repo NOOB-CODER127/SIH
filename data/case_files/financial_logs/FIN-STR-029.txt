@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-7150
+Primary Account Holder: Karan Ahmed
+Source Account: ACC5786
+Destination Mule Account: ACC5254
+Transaction Amount: Rs. 2,430,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

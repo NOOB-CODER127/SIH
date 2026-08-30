@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-2062
+Primary Account Holder: Manoj Chauhan
+Source Account: ACC3026
+Destination Mule Account: ACC5467
+Transaction Amount: Rs. 7,250,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

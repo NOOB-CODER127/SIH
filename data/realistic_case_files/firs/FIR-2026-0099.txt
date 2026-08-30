@@ -1,0 +1,27 @@
+================================================================================
+FIRST INFORMATION REPORT (Under Section 154 Cr.P.C.)
+MAHARASHTRA POLICE | BANDRA PS, MUMBAI
+FIR No: FIR-2026-0099                                    Date & Time of FIR: 2026-03-24 T 21:30 HRS
+Acts & Sections: IPC 379, IPC 420, IPC 120-B, IT Act Section 66D, PMLA Section 3
+Investigating Officer: Inspector Cyber Cell Priya Rao
+================================================================================
+
+1. DETAILS OF COMPLAINANT / INFORMANT:
+   Name: Kunal Joshi
+   Contact Number: 9733855812
+   Account Number Affected: ACC9003 (State Bank of India)
+
+2. OCCURRENCE OF OFFENCE:
+   Date & Time: 2026-03-07 between 19:00 HRS and 22:30 HRS
+   Place of Occurrence: Near Charbagh Railway Station, Mumbai
+
+3. DETAILED POLICE NARRATIVE & INVESTIGATION SUMMARY:
+   On 2026-03-02, complainant Kunal Joshi appeared at Bandra PS and submitted a written report stating that an organized criminal group executed a coordinated extortion and theft operation. 
+   According to the complainant, primary suspect Neha Kulkarni, who is known in police intelligence records under the moniker 'Madam', approached the victim's premises near Charbagh Railway Station operating vehicle registration MH41DK1837. 
+   
+   Subsequent financial analysis conducted by the Investigating Officer Inspector Cyber Cell Priya Rao revealed that illicit funds amounting to Rs. 410,000 were siphoned directly from victim account ACC9003 into mule account ACC9255. 
+   
+   Call Detail Record (CDR) analysis established that mobile number 9897943374, registered under suspect Neha Kulkarni (alias Madam), was active near cell tower location Charbagh Railway Station during the exact timeframe of the crime. Local informants confirm that suspect Neha Kulkarni operates as a key member (Mule Account Handler) in the criminal syndicate.
+
+4. ACTION TAKEN:
+   Case registered under IPC Sections 379/420/120B. Vehicle MH41DK1837 flagged for immediate interception across state checkposts. Bank account ACC9255 frozen under Section 102 Cr.P.C. Investigation handed over to Inspector Cyber Cell Priya Rao.

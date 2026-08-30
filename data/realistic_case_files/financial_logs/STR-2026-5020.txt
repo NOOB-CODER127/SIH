@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5020                       Reporting Date: 2026-03-07
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Salim Ahmed (Alias: Salim Bhai | Role: Stolen Goods Fence)
+Primary Account Number: ACC7233 (State Bank of India, Aliganj Sector C Branch)
+Mule Destination Account: ACC5624
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC7233       ACC5624       Rs. 2,830,000   STR-2026-5020
+2026-03-13     NEFT      ACC7233       ACC5624       Rs. 1,415,000   STR-2026-5020
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC7233 held by Salim Ahmed exhibited sudden rapid high-value transfers totaling Rs. 2,830,000 into illicit mule account ACC5624 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

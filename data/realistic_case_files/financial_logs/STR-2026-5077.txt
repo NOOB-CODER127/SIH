@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5077                       Reporting Date: 2026-03-09
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ajay Tiwari (Alias: Pandit | Role: Syndicate Henchman)
+Primary Account Number: ACC5191 (Punjab National Bank, Vibhuti Khand Branch)
+Mule Destination Account: ACC6273
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC5191       ACC6273       Rs. 14,310,000   STR-2026-5077
+2026-03-13     NEFT      ACC5191       ACC6273       Rs. 7,155,000   STR-2026-5077
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC5191 held by Ajay Tiwari exhibited sudden rapid high-value transfers totaling Rs. 14,310,000 into illicit mule account ACC6273 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

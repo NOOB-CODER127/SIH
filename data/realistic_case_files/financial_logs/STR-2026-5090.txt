@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5090                       Reporting Date: 2026-03-10
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Suresh Patil (Alias: Subhedar | Role: Hawala Broker)
+Primary Account Number: ACC5267 (Punjab National Bank, Hitec City Phase 2 Branch)
+Mule Destination Account: ACC5405
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC5267       ACC5405       Rs. 12,130,000   STR-2026-5090
+2026-03-13     NEFT      ACC5267       ACC5405       Rs. 6,065,000   STR-2026-5090
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC5267 held by Suresh Patil exhibited sudden rapid high-value transfers totaling Rs. 12,130,000 into illicit mule account ACC5405 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

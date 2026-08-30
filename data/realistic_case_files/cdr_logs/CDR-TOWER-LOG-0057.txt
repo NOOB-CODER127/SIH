@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0057                                    Target Period: 2026-03-24
+
+SUBSCRIBER A (CALLER): Suresh Patil (Alias: Subhedar) | MSISDN: 9836696497
+SUBSCRIBER B (CALLEE): Manoj Gupta (Alias: Munna) | MSISDN: 9977123110
+
+CELL TOWER COVERAGE LOCATION: Bandra Kurla Complex Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9836696497       9977123110       412 sec       Bandra Kurla Complex
+02:05:10 HRS        INCOMING    9977123110       9836696497       185 sec       Bandra Kurla Complex
+03:30:45 HRS        OUTGOING    9836696497       9977123110       520 sec       Bandra Kurla Complex
+04:12:00 HRS        OUTGOING    9836696497       9977123110       94 sec        Bandra Kurla Complex
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Suresh Patil (9836696497) and co-accused Manoj Gupta (9977123110) originating from Bandra Kurla Complex tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

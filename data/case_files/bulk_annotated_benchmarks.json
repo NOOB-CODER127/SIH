@@ -1,0 +1,8002 @@
+[
+  {
+    "doc_id": "FIR-2026-0001",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Mehta",
+        "canonical_id": "P001"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P001"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Kumar"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "phone",
+        "value": "9824455280"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP58EF6442"
+      },
+      {
+        "type": "account",
+        "value": "ACC6583"
+      },
+      {
+        "type": "amount",
+        "value": 230000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0002",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Sharma",
+        "canonical_id": "P002"
+      },
+      {
+        "type": "person",
+        "value": "Pandit",
+        "canonical_id": "P002"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Sharma"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "phone",
+        "value": "9842905268"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL10CD2435"
+      },
+      {
+        "type": "account",
+        "value": "ACC7186"
+      },
+      {
+        "type": "amount",
+        "value": 270000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0003",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Amit Pandey",
+        "canonical_id": "P003"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P003"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Yadav"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "phone",
+        "value": "9899541769"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL26AB5780"
+      },
+      {
+        "type": "account",
+        "value": "ACC8055"
+      },
+      {
+        "type": "amount",
+        "value": 1560000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0004",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rohan Khan",
+        "canonical_id": "P004"
+      },
+      {
+        "type": "person",
+        "value": "Bunty",
+        "canonical_id": "P004"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Patil"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "phone",
+        "value": "9880017395"
+      },
+      {
+        "type": "vehicle",
+        "value": "KA36EF9635"
+      },
+      {
+        "type": "account",
+        "value": "ACC6165"
+      },
+      {
+        "type": "amount",
+        "value": 130000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0005",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sunil Kumar",
+        "canonical_id": "P005"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P005"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Mishra"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "phone",
+        "value": "9899477272"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH72EF7873"
+      },
+      {
+        "type": "account",
+        "value": "ACC7136"
+      },
+      {
+        "type": "amount",
+        "value": 1400000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0006",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Ahmed",
+        "canonical_id": "P006"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P006"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Mehta"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "phone",
+        "value": "9854949587"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR80CD2200"
+      },
+      {
+        "type": "account",
+        "value": "ACC8483"
+      },
+      {
+        "type": "amount",
+        "value": 1090000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0007",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Amit Shukla",
+        "canonical_id": "P007"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P007"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Deshmukh"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "phone",
+        "value": "9894331350"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR11CD4754"
+      },
+      {
+        "type": "account",
+        "value": "ACC7647"
+      },
+      {
+        "type": "amount",
+        "value": 1460000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0008",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Patil",
+        "canonical_id": "P008"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P008"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Gupta"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "phone",
+        "value": "9874936077"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL29EF8282"
+      },
+      {
+        "type": "account",
+        "value": "ACC7202"
+      },
+      {
+        "type": "amount",
+        "value": 1280000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0009",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Tiwari",
+        "canonical_id": "P009"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P009"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Sheikh"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "phone",
+        "value": "9844408371"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR97CD8115"
+      },
+      {
+        "type": "account",
+        "value": "ACC7887"
+      },
+      {
+        "type": "amount",
+        "value": 100000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0010",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Ahmed",
+        "canonical_id": "P010"
+      },
+      {
+        "type": "person",
+        "value": "Pandit",
+        "canonical_id": "P010"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Singh"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "phone",
+        "value": "9821917045"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP65AB9778"
+      },
+      {
+        "type": "account",
+        "value": "ACC7184"
+      },
+      {
+        "type": "amount",
+        "value": 280000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0011",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vijay Shukla",
+        "canonical_id": "P011"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P011"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Mehta"
+      },
+      {
+        "type": "location",
+        "value": "Hitec City"
+      },
+      {
+        "type": "phone",
+        "value": "9814433366"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH52CD6707"
+      },
+      {
+        "type": "account",
+        "value": "ACC1389"
+      },
+      {
+        "type": "amount",
+        "value": 1730000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0012",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Kumar",
+        "canonical_id": "P012"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P012"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Tiwari"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "phone",
+        "value": "9899759560"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL20EF1936"
+      },
+      {
+        "type": "account",
+        "value": "ACC9498"
+      },
+      {
+        "type": "amount",
+        "value": 1090000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0013",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Suresh Tiwari",
+        "canonical_id": "P013"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P013"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Patil"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "phone",
+        "value": "9862245494"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR26EF6533"
+      },
+      {
+        "type": "account",
+        "value": "ACC9472"
+      },
+      {
+        "type": "amount",
+        "value": 400000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0014",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Deshmukh",
+        "canonical_id": "P014"
+      },
+      {
+        "type": "person",
+        "value": "Raja",
+        "canonical_id": "P014"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Kumar"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "phone",
+        "value": "9828255730"
+      },
+      {
+        "type": "vehicle",
+        "value": "KA95AB6726"
+      },
+      {
+        "type": "account",
+        "value": "ACC8368"
+      },
+      {
+        "type": "amount",
+        "value": 1990000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0015",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Patil",
+        "canonical_id": "P015"
+      },
+      {
+        "type": "person",
+        "value": "Raja",
+        "canonical_id": "P015"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Shukla"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "phone",
+        "value": "9880006728"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR76EF3250"
+      },
+      {
+        "type": "account",
+        "value": "ACC6629"
+      },
+      {
+        "type": "amount",
+        "value": 1380000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0016",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Singh",
+        "canonical_id": "P016"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P016"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Deshmukh"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "phone",
+        "value": "9822463040"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR74AB4330"
+      },
+      {
+        "type": "account",
+        "value": "ACC6276"
+      },
+      {
+        "type": "amount",
+        "value": 770000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0017",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Chauhan",
+        "canonical_id": "P017"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P017"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Sheikh"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "phone",
+        "value": "9836776348"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP34CD4783"
+      },
+      {
+        "type": "account",
+        "value": "ACC2394"
+      },
+      {
+        "type": "amount",
+        "value": 1630000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0018",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Sharma",
+        "canonical_id": "P018"
+      },
+      {
+        "type": "person",
+        "value": "Pandit",
+        "canonical_id": "P018"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Mishra"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "phone",
+        "value": "9881696884"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL71CD7526"
+      },
+      {
+        "type": "account",
+        "value": "ACC1462"
+      },
+      {
+        "type": "amount",
+        "value": 750000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0019",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Khan",
+        "canonical_id": "P019"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P019"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Joshi"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "phone",
+        "value": "9840084877"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH26EF1097"
+      },
+      {
+        "type": "account",
+        "value": "ACC9101"
+      },
+      {
+        "type": "amount",
+        "value": 970000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0020",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Verma",
+        "canonical_id": "P020"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P020"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Yadav"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "phone",
+        "value": "9871842360"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR95CD6169"
+      },
+      {
+        "type": "account",
+        "value": "ACC6876"
+      },
+      {
+        "type": "amount",
+        "value": 650000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0021",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Sharma",
+        "canonical_id": "P021"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P021"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Rao"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "phone",
+        "value": "9818380848"
+      },
+      {
+        "type": "vehicle",
+        "value": "KA58EF5349"
+      },
+      {
+        "type": "account",
+        "value": "ACC3865"
+      },
+      {
+        "type": "amount",
+        "value": 1530000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0022",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Ahmed",
+        "canonical_id": "P022"
+      },
+      {
+        "type": "person",
+        "value": "PK",
+        "canonical_id": "P022"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Verma"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "phone",
+        "value": "9845623541"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH87CD1899"
+      },
+      {
+        "type": "account",
+        "value": "ACC7235"
+      },
+      {
+        "type": "amount",
+        "value": 230000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0023",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vijay Patil",
+        "canonical_id": "P023"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P023"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Pandey"
+      },
+      {
+        "type": "location",
+        "value": "Delhi"
+      },
+      {
+        "type": "phone",
+        "value": "9853579843"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL92CD5356"
+      },
+      {
+        "type": "account",
+        "value": "ACC8196"
+      },
+      {
+        "type": "amount",
+        "value": 1540000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0024",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Gupta",
+        "canonical_id": "P024"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P024"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Pandey"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "phone",
+        "value": "9887169632"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR53AB3985"
+      },
+      {
+        "type": "account",
+        "value": "ACC3020"
+      },
+      {
+        "type": "amount",
+        "value": 150000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0025",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Anil Tiwari",
+        "canonical_id": "P025"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P025"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Mishra"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "phone",
+        "value": "9873123665"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH28CD7058"
+      },
+      {
+        "type": "account",
+        "value": "ACC4618"
+      },
+      {
+        "type": "amount",
+        "value": 1630000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0026",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Pandey",
+        "canonical_id": "P026"
+      },
+      {
+        "type": "person",
+        "value": "Pandit",
+        "canonical_id": "P026"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Nair"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "phone",
+        "value": "9848750032"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH11CD7332"
+      },
+      {
+        "type": "account",
+        "value": "ACC4728"
+      },
+      {
+        "type": "amount",
+        "value": 1860000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0027",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rohan Patil",
+        "canonical_id": "P027"
+      },
+      {
+        "type": "person",
+        "value": "Salim Bhai",
+        "canonical_id": "P027"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Kumar"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "phone",
+        "value": "9867039377"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP87AB9139"
+      },
+      {
+        "type": "account",
+        "value": "ACC3699"
+      },
+      {
+        "type": "amount",
+        "value": 600000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0028",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rohan Chauhan",
+        "canonical_id": "P028"
+      },
+      {
+        "type": "person",
+        "value": "Salim Bhai",
+        "canonical_id": "P028"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Chauhan"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      },
+      {
+        "type": "phone",
+        "value": "9836045911"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR73CD4672"
+      },
+      {
+        "type": "account",
+        "value": "ACC5627"
+      },
+      {
+        "type": "amount",
+        "value": 1450000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0029",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Deepak Pandey",
+        "canonical_id": "P029"
+      },
+      {
+        "type": "person",
+        "value": "Don",
+        "canonical_id": "P029"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Mishra"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "phone",
+        "value": "9847486926"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL76AB7428"
+      },
+      {
+        "type": "account",
+        "value": "ACC7658"
+      },
+      {
+        "type": "amount",
+        "value": 1240000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0030",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Deshmukh",
+        "canonical_id": "P030"
+      },
+      {
+        "type": "person",
+        "value": "Raja",
+        "canonical_id": "P030"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Kumar"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "phone",
+        "value": "9857844089"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL73AB4186"
+      },
+      {
+        "type": "account",
+        "value": "ACC4467"
+      },
+      {
+        "type": "amount",
+        "value": 710000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0031",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Sheikh",
+        "canonical_id": "P031"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P031"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Joshi"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "phone",
+        "value": "9813471236"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP62EF6274"
+      },
+      {
+        "type": "account",
+        "value": "ACC9960"
+      },
+      {
+        "type": "amount",
+        "value": 170000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0032",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Kumar",
+        "canonical_id": "P032"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P032"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Patil"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "phone",
+        "value": "9834954827"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR24CD6321"
+      },
+      {
+        "type": "account",
+        "value": "ACC4473"
+      },
+      {
+        "type": "amount",
+        "value": 1410000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0033",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Tiwari",
+        "canonical_id": "P033"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P033"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Gupta"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "phone",
+        "value": "9839803004"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH94CD7400"
+      },
+      {
+        "type": "account",
+        "value": "ACC4095"
+      },
+      {
+        "type": "amount",
+        "value": 1090000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0034",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Anil Yadav",
+        "canonical_id": "P034"
+      },
+      {
+        "type": "person",
+        "value": "PK",
+        "canonical_id": "P034"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Tiwari"
+      },
+      {
+        "type": "location",
+        "value": "Hitec City"
+      },
+      {
+        "type": "phone",
+        "value": "9824339810"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL25CD6781"
+      },
+      {
+        "type": "account",
+        "value": "ACC1285"
+      },
+      {
+        "type": "amount",
+        "value": 1230000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0035",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Patil",
+        "canonical_id": "P035"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P035"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Sheikh"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "phone",
+        "value": "9816339836"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP75AB6322"
+      },
+      {
+        "type": "account",
+        "value": "ACC2356"
+      },
+      {
+        "type": "amount",
+        "value": 1810000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0036",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vijay Rao",
+        "canonical_id": "P036"
+      },
+      {
+        "type": "person",
+        "value": "Raja",
+        "canonical_id": "P036"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Tiwari"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "phone",
+        "value": "9873775454"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL10AB2414"
+      },
+      {
+        "type": "account",
+        "value": "ACC6423"
+      },
+      {
+        "type": "amount",
+        "value": 180000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0037",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Gupta",
+        "canonical_id": "P037"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P037"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Kumar"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "phone",
+        "value": "9836953743"
+      },
+      {
+        "type": "vehicle",
+        "value": "KA17AB3485"
+      },
+      {
+        "type": "account",
+        "value": "ACC2874"
+      },
+      {
+        "type": "amount",
+        "value": 1280000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0038",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Tiwari",
+        "canonical_id": "P038"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P038"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Yadav"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "phone",
+        "value": "9868985248"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL40AB8066"
+      },
+      {
+        "type": "account",
+        "value": "ACC6594"
+      },
+      {
+        "type": "amount",
+        "value": 1810000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0039",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Shukla",
+        "canonical_id": "P039"
+      },
+      {
+        "type": "person",
+        "value": "PK",
+        "canonical_id": "P039"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Sharma"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "phone",
+        "value": "9863782597"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR39AB1949"
+      },
+      {
+        "type": "account",
+        "value": "ACC2058"
+      },
+      {
+        "type": "amount",
+        "value": 380000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0040",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Suresh Gupta",
+        "canonical_id": "P040"
+      },
+      {
+        "type": "person",
+        "value": "Salim Bhai",
+        "canonical_id": "P040"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Mishra"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "phone",
+        "value": "9810107979"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH92EF5313"
+      },
+      {
+        "type": "account",
+        "value": "ACC7895"
+      },
+      {
+        "type": "amount",
+        "value": 1520000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0041",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Tiwari",
+        "canonical_id": "P041"
+      },
+      {
+        "type": "person",
+        "value": "Raja",
+        "canonical_id": "P041"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Yadav"
+      },
+      {
+        "type": "location",
+        "value": "Delhi"
+      },
+      {
+        "type": "phone",
+        "value": "9848833062"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR50EF1053"
+      },
+      {
+        "type": "account",
+        "value": "ACC6743"
+      },
+      {
+        "type": "amount",
+        "value": 1390000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0042",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Patil",
+        "canonical_id": "P042"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P042"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Joshi"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "phone",
+        "value": "9834650855"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH51CD2714"
+      },
+      {
+        "type": "account",
+        "value": "ACC9749"
+      },
+      {
+        "type": "amount",
+        "value": 600000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0043",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Sheikh",
+        "canonical_id": "P043"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P043"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Singh"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "phone",
+        "value": "9874540736"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR93EF9923"
+      },
+      {
+        "type": "account",
+        "value": "ACC3676"
+      },
+      {
+        "type": "amount",
+        "value": 1090000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0044",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rohan Shukla",
+        "canonical_id": "P044"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P044"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Rao"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "phone",
+        "value": "9835860457"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR33AB3234"
+      },
+      {
+        "type": "account",
+        "value": "ACC2661"
+      },
+      {
+        "type": "amount",
+        "value": 790000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0045",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Singh",
+        "canonical_id": "P045"
+      },
+      {
+        "type": "person",
+        "value": "Bunty",
+        "canonical_id": "P045"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Mehta"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "phone",
+        "value": "9827460542"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR62AB5259"
+      },
+      {
+        "type": "account",
+        "value": "ACC9510"
+      },
+      {
+        "type": "amount",
+        "value": 1510000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0046",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Deepak Mishra",
+        "canonical_id": "P046"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P046"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Sharma"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "phone",
+        "value": "9895629030"
+      },
+      {
+        "type": "vehicle",
+        "value": "HR66AB1087"
+      },
+      {
+        "type": "account",
+        "value": "ACC2533"
+      },
+      {
+        "type": "amount",
+        "value": 380000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0047",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Deepak Pandey",
+        "canonical_id": "P047"
+      },
+      {
+        "type": "person",
+        "value": "Raja",
+        "canonical_id": "P047"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Singh"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "phone",
+        "value": "9834198766"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL59AB7805"
+      },
+      {
+        "type": "account",
+        "value": "ACC4435"
+      },
+      {
+        "type": "amount",
+        "value": 710000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0048",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rajesh Tiwari",
+        "canonical_id": "P048"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P048"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Rao"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "phone",
+        "value": "9845793437"
+      },
+      {
+        "type": "vehicle",
+        "value": "KA31CD6006"
+      },
+      {
+        "type": "account",
+        "value": "ACC2063"
+      },
+      {
+        "type": "amount",
+        "value": 160000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0049",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Joshi",
+        "canonical_id": "P049"
+      },
+      {
+        "type": "person",
+        "value": "PK",
+        "canonical_id": "P049"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Deshmukh"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "phone",
+        "value": "9895645644"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH34CD6102"
+      },
+      {
+        "type": "account",
+        "value": "ACC9968"
+      },
+      {
+        "type": "amount",
+        "value": 1790000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "FIR-2026-0050",
+    "doc_type": "fir",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Tiwari",
+        "canonical_id": "P050"
+      },
+      {
+        "type": "person",
+        "value": "PK",
+        "canonical_id": "P050"
+      },
+      {
+        "type": "person",
+        "value": "Inspector Patil"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "phone",
+        "value": "9836838743"
+      },
+      {
+        "type": "vehicle",
+        "value": "KA37CD1736"
+      },
+      {
+        "type": "account",
+        "value": "ACC7925"
+      },
+      {
+        "type": "amount",
+        "value": 260000.0
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-001",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Rao",
+        "canonical_id": "P051"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P051"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "phone",
+        "value": "9939846888"
+      },
+      {
+        "type": "account",
+        "value": "ACC8356"
+      },
+      {
+        "type": "amount",
+        "value": 3460000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-002",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Joshi",
+        "canonical_id": "P052"
+      },
+      {
+        "type": "person",
+        "value": "Don",
+        "canonical_id": "P052"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      },
+      {
+        "type": "phone",
+        "value": "9968254123"
+      },
+      {
+        "type": "account",
+        "value": "ACC6982"
+      },
+      {
+        "type": "amount",
+        "value": 880000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-003",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Ahmed",
+        "canonical_id": "P053"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P053"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "phone",
+        "value": "9951803299"
+      },
+      {
+        "type": "account",
+        "value": "ACC4411"
+      },
+      {
+        "type": "amount",
+        "value": 3950000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-004",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Tiwari",
+        "canonical_id": "P054"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P054"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "phone",
+        "value": "9916812977"
+      },
+      {
+        "type": "account",
+        "value": "ACC8741"
+      },
+      {
+        "type": "amount",
+        "value": 3650000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-005",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vijay Sharma",
+        "canonical_id": "P055"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P055"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "phone",
+        "value": "9998295474"
+      },
+      {
+        "type": "account",
+        "value": "ACC8022"
+      },
+      {
+        "type": "amount",
+        "value": 3860000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-006",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Deepak Ahmed",
+        "canonical_id": "P056"
+      },
+      {
+        "type": "person",
+        "value": "Bunty",
+        "canonical_id": "P056"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "phone",
+        "value": "9998115820"
+      },
+      {
+        "type": "account",
+        "value": "ACC5947"
+      },
+      {
+        "type": "amount",
+        "value": 2360000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-007",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sunil Kumar",
+        "canonical_id": "P057"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P057"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "phone",
+        "value": "9965160052"
+      },
+      {
+        "type": "account",
+        "value": "ACC9741"
+      },
+      {
+        "type": "amount",
+        "value": 3200000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-008",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Ahmed",
+        "canonical_id": "P058"
+      },
+      {
+        "type": "person",
+        "value": "Bunty",
+        "canonical_id": "P058"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "location",
+        "value": "Delhi"
+      },
+      {
+        "type": "phone",
+        "value": "9991055057"
+      },
+      {
+        "type": "account",
+        "value": "ACC9515"
+      },
+      {
+        "type": "amount",
+        "value": 3550000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-009",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Verma",
+        "canonical_id": "P059"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P059"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "phone",
+        "value": "9943056634"
+      },
+      {
+        "type": "account",
+        "value": "ACC1482"
+      },
+      {
+        "type": "amount",
+        "value": 2400000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-010",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Suresh Pandey",
+        "canonical_id": "P060"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P060"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "phone",
+        "value": "9948146908"
+      },
+      {
+        "type": "account",
+        "value": "ACC6548"
+      },
+      {
+        "type": "amount",
+        "value": 1510000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-011",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Yadav",
+        "canonical_id": "P061"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P061"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "location",
+        "value": "Delhi"
+      },
+      {
+        "type": "phone",
+        "value": "9922996143"
+      },
+      {
+        "type": "account",
+        "value": "ACC7102"
+      },
+      {
+        "type": "amount",
+        "value": 2650000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-012",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Verma",
+        "canonical_id": "P062"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P062"
+      },
+      {
+        "type": "location",
+        "value": "Delhi"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "phone",
+        "value": "9941075271"
+      },
+      {
+        "type": "account",
+        "value": "ACC3224"
+      },
+      {
+        "type": "amount",
+        "value": 3090000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-013",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Deepak Khan",
+        "canonical_id": "P063"
+      },
+      {
+        "type": "person",
+        "value": "Pandit",
+        "canonical_id": "P063"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      },
+      {
+        "type": "phone",
+        "value": "9994172789"
+      },
+      {
+        "type": "account",
+        "value": "ACC9151"
+      },
+      {
+        "type": "amount",
+        "value": 2210000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-014",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Amit Nair",
+        "canonical_id": "P064"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P064"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "phone",
+        "value": "9997052635"
+      },
+      {
+        "type": "account",
+        "value": "ACC6535"
+      },
+      {
+        "type": "amount",
+        "value": 3960000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-015",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Anil Rao",
+        "canonical_id": "P065"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P065"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "phone",
+        "value": "9917078301"
+      },
+      {
+        "type": "account",
+        "value": "ACC3354"
+      },
+      {
+        "type": "amount",
+        "value": 2380000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-016",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Tiwari",
+        "canonical_id": "P066"
+      },
+      {
+        "type": "person",
+        "value": "Salim Bhai",
+        "canonical_id": "P066"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "phone",
+        "value": "9932446647"
+      },
+      {
+        "type": "account",
+        "value": "ACC3929"
+      },
+      {
+        "type": "amount",
+        "value": 3350000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-017",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Chauhan",
+        "canonical_id": "P067"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P067"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "phone",
+        "value": "9975216885"
+      },
+      {
+        "type": "account",
+        "value": "ACC1085"
+      },
+      {
+        "type": "amount",
+        "value": 2900000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-018",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Mehta",
+        "canonical_id": "P068"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P068"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "phone",
+        "value": "9995692601"
+      },
+      {
+        "type": "account",
+        "value": "ACC4683"
+      },
+      {
+        "type": "amount",
+        "value": 840000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-019",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rajesh Khan",
+        "canonical_id": "P069"
+      },
+      {
+        "type": "person",
+        "value": "Raja",
+        "canonical_id": "P069"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "phone",
+        "value": "9995613354"
+      },
+      {
+        "type": "account",
+        "value": "ACC7822"
+      },
+      {
+        "type": "amount",
+        "value": 950000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-020",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Amit Pandey",
+        "canonical_id": "P070"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P070"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "phone",
+        "value": "9915101060"
+      },
+      {
+        "type": "account",
+        "value": "ACC6982"
+      },
+      {
+        "type": "amount",
+        "value": 2140000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-021",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Mishra",
+        "canonical_id": "P071"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P071"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "phone",
+        "value": "9985441085"
+      },
+      {
+        "type": "account",
+        "value": "ACC6589"
+      },
+      {
+        "type": "amount",
+        "value": 3900000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-022",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Yadav",
+        "canonical_id": "P072"
+      },
+      {
+        "type": "person",
+        "value": "Salim Bhai",
+        "canonical_id": "P072"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "phone",
+        "value": "9970234901"
+      },
+      {
+        "type": "account",
+        "value": "ACC8682"
+      },
+      {
+        "type": "amount",
+        "value": 2690000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-023",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Singh",
+        "canonical_id": "P073"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P073"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "phone",
+        "value": "9946127112"
+      },
+      {
+        "type": "account",
+        "value": "ACC9919"
+      },
+      {
+        "type": "amount",
+        "value": 2090000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-024",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Singh",
+        "canonical_id": "P074"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P074"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "phone",
+        "value": "9925851234"
+      },
+      {
+        "type": "account",
+        "value": "ACC9472"
+      },
+      {
+        "type": "amount",
+        "value": 550000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-025",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Khan",
+        "canonical_id": "P075"
+      },
+      {
+        "type": "person",
+        "value": "Pandit",
+        "canonical_id": "P075"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "phone",
+        "value": "9977049428"
+      },
+      {
+        "type": "account",
+        "value": "ACC4087"
+      },
+      {
+        "type": "amount",
+        "value": 1430000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-026",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Gupta",
+        "canonical_id": "P076"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P076"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "phone",
+        "value": "9975538846"
+      },
+      {
+        "type": "account",
+        "value": "ACC7486"
+      },
+      {
+        "type": "amount",
+        "value": 870000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-027",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Chauhan",
+        "canonical_id": "P077"
+      },
+      {
+        "type": "person",
+        "value": "Raja",
+        "canonical_id": "P077"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      },
+      {
+        "type": "phone",
+        "value": "9944515375"
+      },
+      {
+        "type": "account",
+        "value": "ACC2983"
+      },
+      {
+        "type": "amount",
+        "value": 2380000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-028",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Sheikh",
+        "canonical_id": "P078"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P078"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "phone",
+        "value": "9966673588"
+      },
+      {
+        "type": "account",
+        "value": "ACC8156"
+      },
+      {
+        "type": "amount",
+        "value": 2790000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-029",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Kumar",
+        "canonical_id": "P079"
+      },
+      {
+        "type": "person",
+        "value": "Bunty",
+        "canonical_id": "P079"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "phone",
+        "value": "9950147844"
+      },
+      {
+        "type": "account",
+        "value": "ACC7432"
+      },
+      {
+        "type": "amount",
+        "value": 2420000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-030",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Amit Singh",
+        "canonical_id": "P080"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P080"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "phone",
+        "value": "9991294436"
+      },
+      {
+        "type": "account",
+        "value": "ACC2983"
+      },
+      {
+        "type": "amount",
+        "value": 630000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-031",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Joshi",
+        "canonical_id": "P081"
+      },
+      {
+        "type": "person",
+        "value": "Pandit",
+        "canonical_id": "P081"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "phone",
+        "value": "9937463543"
+      },
+      {
+        "type": "account",
+        "value": "ACC6178"
+      },
+      {
+        "type": "amount",
+        "value": 1960000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-032",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Sharma",
+        "canonical_id": "P082"
+      },
+      {
+        "type": "person",
+        "value": "Don",
+        "canonical_id": "P082"
+      },
+      {
+        "type": "location",
+        "value": "Hitec City"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "phone",
+        "value": "9940385676"
+      },
+      {
+        "type": "account",
+        "value": "ACC1564"
+      },
+      {
+        "type": "amount",
+        "value": 3650000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-033",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Anil Tiwari",
+        "canonical_id": "P083"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P083"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      },
+      {
+        "type": "phone",
+        "value": "9973869695"
+      },
+      {
+        "type": "account",
+        "value": "ACC6114"
+      },
+      {
+        "type": "amount",
+        "value": 1330000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-034",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Pandey",
+        "canonical_id": "P084"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P084"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "phone",
+        "value": "9973891712"
+      },
+      {
+        "type": "account",
+        "value": "ACC8589"
+      },
+      {
+        "type": "amount",
+        "value": 1880000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-035",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rajesh Patil",
+        "canonical_id": "P085"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P085"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "phone",
+        "value": "9972543821"
+      },
+      {
+        "type": "account",
+        "value": "ACC6277"
+      },
+      {
+        "type": "amount",
+        "value": 2450000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-036",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Deshmukh",
+        "canonical_id": "P086"
+      },
+      {
+        "type": "person",
+        "value": "Don",
+        "canonical_id": "P086"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "phone",
+        "value": "9941292648"
+      },
+      {
+        "type": "account",
+        "value": "ACC3638"
+      },
+      {
+        "type": "amount",
+        "value": 2630000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-037",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sunil Pandey",
+        "canonical_id": "P087"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P087"
+      },
+      {
+        "type": "location",
+        "value": "Delhi"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "phone",
+        "value": "9991523535"
+      },
+      {
+        "type": "account",
+        "value": "ACC5760"
+      },
+      {
+        "type": "amount",
+        "value": 1390000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-038",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sunil Gupta",
+        "canonical_id": "P088"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P088"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "phone",
+        "value": "9921126217"
+      },
+      {
+        "type": "account",
+        "value": "ACC9973"
+      },
+      {
+        "type": "amount",
+        "value": 820000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-039",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Pandey",
+        "canonical_id": "P089"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P089"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "phone",
+        "value": "9928102216"
+      },
+      {
+        "type": "account",
+        "value": "ACC6640"
+      },
+      {
+        "type": "amount",
+        "value": 3510000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-040",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Tiwari",
+        "canonical_id": "P090"
+      },
+      {
+        "type": "person",
+        "value": "PK",
+        "canonical_id": "P090"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "phone",
+        "value": "9931516332"
+      },
+      {
+        "type": "account",
+        "value": "ACC5394"
+      },
+      {
+        "type": "amount",
+        "value": 3650000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-041",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Nair",
+        "canonical_id": "P091"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P091"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      },
+      {
+        "type": "phone",
+        "value": "9988930937"
+      },
+      {
+        "type": "account",
+        "value": "ACC6064"
+      },
+      {
+        "type": "amount",
+        "value": 1480000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-042",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Pandey",
+        "canonical_id": "P092"
+      },
+      {
+        "type": "person",
+        "value": "Bunty",
+        "canonical_id": "P092"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "phone",
+        "value": "9954699662"
+      },
+      {
+        "type": "account",
+        "value": "ACC6337"
+      },
+      {
+        "type": "amount",
+        "value": 700000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-043",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Deepak Gupta",
+        "canonical_id": "P093"
+      },
+      {
+        "type": "person",
+        "value": "Bunty",
+        "canonical_id": "P093"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      },
+      {
+        "type": "phone",
+        "value": "9921216569"
+      },
+      {
+        "type": "account",
+        "value": "ACC8566"
+      },
+      {
+        "type": "amount",
+        "value": 2720000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-044",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Verma",
+        "canonical_id": "P094"
+      },
+      {
+        "type": "person",
+        "value": "Pandit",
+        "canonical_id": "P094"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "phone",
+        "value": "9991342523"
+      },
+      {
+        "type": "account",
+        "value": "ACC2671"
+      },
+      {
+        "type": "amount",
+        "value": 2620000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-045",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Gupta",
+        "canonical_id": "P095"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P095"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "phone",
+        "value": "9970473837"
+      },
+      {
+        "type": "account",
+        "value": "ACC7042"
+      },
+      {
+        "type": "amount",
+        "value": 2540000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-046",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Nair",
+        "canonical_id": "P096"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P096"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "phone",
+        "value": "9967964985"
+      },
+      {
+        "type": "account",
+        "value": "ACC3354"
+      },
+      {
+        "type": "amount",
+        "value": 1480000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-047",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Patil",
+        "canonical_id": "P097"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P097"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "phone",
+        "value": "9969195075"
+      },
+      {
+        "type": "account",
+        "value": "ACC3396"
+      },
+      {
+        "type": "amount",
+        "value": 3970000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-048",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Sheikh",
+        "canonical_id": "P098"
+      },
+      {
+        "type": "person",
+        "value": "Salim Bhai",
+        "canonical_id": "P098"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "phone",
+        "value": "9941191275"
+      },
+      {
+        "type": "account",
+        "value": "ACC2944"
+      },
+      {
+        "type": "amount",
+        "value": 980000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-049",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Suresh Rao",
+        "canonical_id": "P099"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P099"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "location",
+        "value": "Hitec City"
+      },
+      {
+        "type": "phone",
+        "value": "9994160662"
+      },
+      {
+        "type": "account",
+        "value": "ACC4789"
+      },
+      {
+        "type": "amount",
+        "value": 3320000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "CC-2026-HIGH-050",
+    "doc_type": "court",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Nair",
+        "canonical_id": "P100"
+      },
+      {
+        "type": "person",
+        "value": "Raja",
+        "canonical_id": "P100"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "phone",
+        "value": "9920468411"
+      },
+      {
+        "type": "account",
+        "value": "ACC5120"
+      },
+      {
+        "type": "amount",
+        "value": 3370000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-001",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Suresh Mehta",
+        "canonical_id": "P101"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P101"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH36CD1145"
+      },
+      {
+        "type": "phone",
+        "value": "9798606599"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-002",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Kumar",
+        "canonical_id": "P102"
+      },
+      {
+        "type": "person",
+        "value": "Pandit",
+        "canonical_id": "P102"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL19CD8617"
+      },
+      {
+        "type": "phone",
+        "value": "9753378788"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-003",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sunil Ahmed",
+        "canonical_id": "P103"
+      },
+      {
+        "type": "person",
+        "value": "Raja",
+        "canonical_id": "P103"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL22MJ1399"
+      },
+      {
+        "type": "phone",
+        "value": "9728981631"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-004",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rohan Sharma",
+        "canonical_id": "P104"
+      },
+      {
+        "type": "person",
+        "value": "Salim Bhai",
+        "canonical_id": "P104"
+      },
+      {
+        "type": "location",
+        "value": "Hitec City"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH69MJ2906"
+      },
+      {
+        "type": "phone",
+        "value": "9776445758"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-005",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Anil Singh",
+        "canonical_id": "P105"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P105"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP39MJ5169"
+      },
+      {
+        "type": "phone",
+        "value": "9745889533"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-006",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Chauhan",
+        "canonical_id": "P106"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P106"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP92MJ7130"
+      },
+      {
+        "type": "phone",
+        "value": "9770426139"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-007",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Joshi",
+        "canonical_id": "P107"
+      },
+      {
+        "type": "person",
+        "value": "Salim Bhai",
+        "canonical_id": "P107"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP32MJ4391"
+      },
+      {
+        "type": "phone",
+        "value": "9770816281"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-008",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Mishra",
+        "canonical_id": "P108"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P108"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL57MJ3637"
+      },
+      {
+        "type": "phone",
+        "value": "9744678448"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-009",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Singh",
+        "canonical_id": "P109"
+      },
+      {
+        "type": "person",
+        "value": "Raja",
+        "canonical_id": "P109"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH65CD4784"
+      },
+      {
+        "type": "phone",
+        "value": "9773723569"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-010",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Nair",
+        "canonical_id": "P110"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P110"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH54MJ6248"
+      },
+      {
+        "type": "phone",
+        "value": "9710502119"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-011",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Sharma",
+        "canonical_id": "P111"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P111"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP40CD5251"
+      },
+      {
+        "type": "phone",
+        "value": "9727888026"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-012",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rohan Rao",
+        "canonical_id": "P112"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P112"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH93CD4964"
+      },
+      {
+        "type": "phone",
+        "value": "9781228006"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-013",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Rao",
+        "canonical_id": "P113"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P113"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL80MJ1922"
+      },
+      {
+        "type": "phone",
+        "value": "9761227571"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-014",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Kumar",
+        "canonical_id": "P114"
+      },
+      {
+        "type": "person",
+        "value": "PK",
+        "canonical_id": "P114"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH94MJ3213"
+      },
+      {
+        "type": "phone",
+        "value": "9720074466"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-015",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Pandey",
+        "canonical_id": "P115"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P115"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP56CD7839"
+      },
+      {
+        "type": "phone",
+        "value": "9747281396"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-016",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Mishra",
+        "canonical_id": "P116"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P116"
+      },
+      {
+        "type": "location",
+        "value": "Hitec City"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH15CD4918"
+      },
+      {
+        "type": "phone",
+        "value": "9729895696"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-017",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Kumar",
+        "canonical_id": "P117"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P117"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH73CD7118"
+      },
+      {
+        "type": "phone",
+        "value": "9727617869"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-018",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Gupta",
+        "canonical_id": "P118"
+      },
+      {
+        "type": "person",
+        "value": "Bunty",
+        "canonical_id": "P118"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP19MJ9806"
+      },
+      {
+        "type": "phone",
+        "value": "9794097488"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-019",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Anil Patil",
+        "canonical_id": "P119"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P119"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP51MJ4257"
+      },
+      {
+        "type": "phone",
+        "value": "9779307333"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-020",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Sheikh",
+        "canonical_id": "P120"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P120"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH96CD5903"
+      },
+      {
+        "type": "phone",
+        "value": "9747532610"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-021",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Anil Patil",
+        "canonical_id": "P121"
+      },
+      {
+        "type": "person",
+        "value": "Salim Bhai",
+        "canonical_id": "P121"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL51CD5051"
+      },
+      {
+        "type": "phone",
+        "value": "9730485500"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-022",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Singh",
+        "canonical_id": "P122"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P122"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL23MJ1920"
+      },
+      {
+        "type": "phone",
+        "value": "9712775811"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-023",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Nair",
+        "canonical_id": "P123"
+      },
+      {
+        "type": "person",
+        "value": "Don",
+        "canonical_id": "P123"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH89MJ6555"
+      },
+      {
+        "type": "phone",
+        "value": "9798010452"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-024",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Deepak Rao",
+        "canonical_id": "P124"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P124"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL92MJ5029"
+      },
+      {
+        "type": "phone",
+        "value": "9769432503"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-025",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Patil",
+        "canonical_id": "P125"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P125"
+      },
+      {
+        "type": "location",
+        "value": "Delhi"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL46MJ5168"
+      },
+      {
+        "type": "phone",
+        "value": "9794035734"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-026",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Anil Singh",
+        "canonical_id": "P126"
+      },
+      {
+        "type": "person",
+        "value": "Pandit",
+        "canonical_id": "P126"
+      },
+      {
+        "type": "location",
+        "value": "Delhi"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL30MJ9143"
+      },
+      {
+        "type": "phone",
+        "value": "9780360910"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-027",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Tiwari",
+        "canonical_id": "P127"
+      },
+      {
+        "type": "person",
+        "value": "Salim Bhai",
+        "canonical_id": "P127"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL16MJ7445"
+      },
+      {
+        "type": "phone",
+        "value": "9776171746"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-028",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Sheikh",
+        "canonical_id": "P128"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P128"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP93CD3804"
+      },
+      {
+        "type": "phone",
+        "value": "9792450535"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-029",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Mehta",
+        "canonical_id": "P129"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P129"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP84MJ7201"
+      },
+      {
+        "type": "phone",
+        "value": "9735552065"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-030",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Ahmed",
+        "canonical_id": "P130"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P130"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH87CD3621"
+      },
+      {
+        "type": "phone",
+        "value": "9743134466"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-031",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Khan",
+        "canonical_id": "P131"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P131"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP96MJ7509"
+      },
+      {
+        "type": "phone",
+        "value": "9785478779"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-032",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Mishra",
+        "canonical_id": "P132"
+      },
+      {
+        "type": "person",
+        "value": "PK",
+        "canonical_id": "P132"
+      },
+      {
+        "type": "location",
+        "value": "New Delhi"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL98CD7937"
+      },
+      {
+        "type": "phone",
+        "value": "9733454154"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-033",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Amit Gupta",
+        "canonical_id": "P133"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P133"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH84CD4032"
+      },
+      {
+        "type": "phone",
+        "value": "9768710868"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-034",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Amit Pandey",
+        "canonical_id": "P134"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P134"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP73CD1934"
+      },
+      {
+        "type": "phone",
+        "value": "9763877706"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-035",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Rao",
+        "canonical_id": "P135"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P135"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP52CD5186"
+      },
+      {
+        "type": "phone",
+        "value": "9742486287"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-036",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Gupta",
+        "canonical_id": "P136"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P136"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP18CD8815"
+      },
+      {
+        "type": "phone",
+        "value": "9754235657"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-037",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Tiwari",
+        "canonical_id": "P137"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P137"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH73MJ4897"
+      },
+      {
+        "type": "phone",
+        "value": "9725430313"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-038",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rajesh Verma",
+        "canonical_id": "P138"
+      },
+      {
+        "type": "person",
+        "value": "Doctor",
+        "canonical_id": "P138"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH54CD3337"
+      },
+      {
+        "type": "phone",
+        "value": "9770546872"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-039",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Mishra",
+        "canonical_id": "P139"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P139"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH27CD4653"
+      },
+      {
+        "type": "phone",
+        "value": "9742917099"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-040",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Ahmed",
+        "canonical_id": "P140"
+      },
+      {
+        "type": "person",
+        "value": "PK",
+        "canonical_id": "P140"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH49CD4967"
+      },
+      {
+        "type": "phone",
+        "value": "9741539431"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-041",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Mehta",
+        "canonical_id": "P141"
+      },
+      {
+        "type": "person",
+        "value": "Bhaiya",
+        "canonical_id": "P141"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL24CD9422"
+      },
+      {
+        "type": "phone",
+        "value": "9751849463"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-042",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Ahmed",
+        "canonical_id": "P142"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P142"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH45CD9521"
+      },
+      {
+        "type": "phone",
+        "value": "9797445321"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-043",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sunil Joshi",
+        "canonical_id": "P143"
+      },
+      {
+        "type": "person",
+        "value": "Munna",
+        "canonical_id": "P143"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL69CD8157"
+      },
+      {
+        "type": "phone",
+        "value": "9775162421"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-044",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Ahmed",
+        "canonical_id": "P144"
+      },
+      {
+        "type": "person",
+        "value": "Bunty",
+        "canonical_id": "P144"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP22MJ7402"
+      },
+      {
+        "type": "phone",
+        "value": "9736433495"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-045",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sunil Chauhan",
+        "canonical_id": "P145"
+      },
+      {
+        "type": "person",
+        "value": "Shorty",
+        "canonical_id": "P145"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "vehicle",
+        "value": "UP80CD6684"
+      },
+      {
+        "type": "phone",
+        "value": "9730489491"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-046",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Deshmukh",
+        "canonical_id": "P146"
+      },
+      {
+        "type": "person",
+        "value": "Salim Bhai",
+        "canonical_id": "P146"
+      },
+      {
+        "type": "location",
+        "value": "Delhi"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH92MJ5255"
+      },
+      {
+        "type": "phone",
+        "value": "9718451532"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-047",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Shukla",
+        "canonical_id": "P147"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P147"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH19MJ7733"
+      },
+      {
+        "type": "phone",
+        "value": "9799352247"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-048",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Sharma",
+        "canonical_id": "P148"
+      },
+      {
+        "type": "person",
+        "value": "Chotu",
+        "canonical_id": "P148"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL95CD9799"
+      },
+      {
+        "type": "phone",
+        "value": "9789836895"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-049",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Patil",
+        "canonical_id": "P149"
+      },
+      {
+        "type": "person",
+        "value": "Pandit",
+        "canonical_id": "P149"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      },
+      {
+        "type": "vehicle",
+        "value": "MH51MJ5732"
+      },
+      {
+        "type": "phone",
+        "value": "9732714690"
+      }
+    ]
+  },
+  {
+    "doc_id": "SV-2026-NOTE-050",
+    "doc_type": "surveillance",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Gupta",
+        "canonical_id": "P150"
+      },
+      {
+        "type": "person",
+        "value": "Captain",
+        "canonical_id": "P150"
+      },
+      {
+        "type": "location",
+        "value": "Hitec City"
+      },
+      {
+        "type": "vehicle",
+        "value": "DL19CD8720"
+      },
+      {
+        "type": "phone",
+        "value": "9743296118"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-001",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Joshi"
+      },
+      {
+        "type": "person",
+        "value": "Manoj Joshi"
+      },
+      {
+        "type": "phone",
+        "value": "9851537202"
+      },
+      {
+        "type": "phone",
+        "value": "9953264159"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-002",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Mehta"
+      },
+      {
+        "type": "person",
+        "value": "Karan Deshmukh"
+      },
+      {
+        "type": "phone",
+        "value": "9883685700"
+      },
+      {
+        "type": "phone",
+        "value": "9912611944"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-003",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sunil Verma"
+      },
+      {
+        "type": "person",
+        "value": "Sanjay Tiwari"
+      },
+      {
+        "type": "phone",
+        "value": "9828629197"
+      },
+      {
+        "type": "phone",
+        "value": "9974486267"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-004",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rajesh Tiwari"
+      },
+      {
+        "type": "person",
+        "value": "Sanjay Verma"
+      },
+      {
+        "type": "phone",
+        "value": "9846797829"
+      },
+      {
+        "type": "phone",
+        "value": "9928801667"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-005",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Ahmed"
+      },
+      {
+        "type": "person",
+        "value": "Deepak Nair"
+      },
+      {
+        "type": "phone",
+        "value": "9888396720"
+      },
+      {
+        "type": "phone",
+        "value": "9947788922"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-006",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Sharma"
+      },
+      {
+        "type": "person",
+        "value": "Rajesh Patil"
+      },
+      {
+        "type": "phone",
+        "value": "9820602329"
+      },
+      {
+        "type": "phone",
+        "value": "9943148353"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-007",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Yadav"
+      },
+      {
+        "type": "person",
+        "value": "Sunil Joshi"
+      },
+      {
+        "type": "phone",
+        "value": "9859788451"
+      },
+      {
+        "type": "phone",
+        "value": "9967085432"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-008",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Mehta"
+      },
+      {
+        "type": "person",
+        "value": "Manoj Patil"
+      },
+      {
+        "type": "phone",
+        "value": "9871970890"
+      },
+      {
+        "type": "phone",
+        "value": "9999942181"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-009",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Pandey"
+      },
+      {
+        "type": "person",
+        "value": "Salim Sheikh"
+      },
+      {
+        "type": "phone",
+        "value": "9839243936"
+      },
+      {
+        "type": "phone",
+        "value": "9932609951"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-010",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Suresh Tiwari"
+      },
+      {
+        "type": "person",
+        "value": "Amit Rao"
+      },
+      {
+        "type": "phone",
+        "value": "9848021057"
+      },
+      {
+        "type": "phone",
+        "value": "9920861260"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-011",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Gupta"
+      },
+      {
+        "type": "person",
+        "value": "Rajesh Pandey"
+      },
+      {
+        "type": "phone",
+        "value": "9831315399"
+      },
+      {
+        "type": "phone",
+        "value": "9911045227"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-012",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sunil Nair"
+      },
+      {
+        "type": "person",
+        "value": "Vikram Gupta"
+      },
+      {
+        "type": "phone",
+        "value": "9868795134"
+      },
+      {
+        "type": "phone",
+        "value": "9968496786"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-013",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Suresh Patil"
+      },
+      {
+        "type": "person",
+        "value": "Suresh Yadav"
+      },
+      {
+        "type": "phone",
+        "value": "9841685736"
+      },
+      {
+        "type": "phone",
+        "value": "9969339990"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-014",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Yadav"
+      },
+      {
+        "type": "person",
+        "value": "Rahul Patil"
+      },
+      {
+        "type": "phone",
+        "value": "9829114463"
+      },
+      {
+        "type": "phone",
+        "value": "9966814249"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-015",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Ahmed"
+      },
+      {
+        "type": "person",
+        "value": "Imran Pandey"
+      },
+      {
+        "type": "phone",
+        "value": "9832594401"
+      },
+      {
+        "type": "phone",
+        "value": "9912969716"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-016",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Tiwari"
+      },
+      {
+        "type": "person",
+        "value": "Deepak Tiwari"
+      },
+      {
+        "type": "phone",
+        "value": "9833900573"
+      },
+      {
+        "type": "phone",
+        "value": "9984300451"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-017",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Mishra"
+      },
+      {
+        "type": "person",
+        "value": "Sunil Shukla"
+      },
+      {
+        "type": "phone",
+        "value": "9817947084"
+      },
+      {
+        "type": "phone",
+        "value": "9922078937"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-018",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Khan"
+      },
+      {
+        "type": "person",
+        "value": "Sunil Chauhan"
+      },
+      {
+        "type": "phone",
+        "value": "9858142158"
+      },
+      {
+        "type": "phone",
+        "value": "9934409237"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-019",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rajesh Khan"
+      },
+      {
+        "type": "person",
+        "value": "Deepak Shukla"
+      },
+      {
+        "type": "phone",
+        "value": "9891247546"
+      },
+      {
+        "type": "phone",
+        "value": "9944595959"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-020",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vijay Nair"
+      },
+      {
+        "type": "person",
+        "value": "Amit Chauhan"
+      },
+      {
+        "type": "phone",
+        "value": "9887355476"
+      },
+      {
+        "type": "phone",
+        "value": "9912542400"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-021",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Rao"
+      },
+      {
+        "type": "person",
+        "value": "Imran Patil"
+      },
+      {
+        "type": "phone",
+        "value": "9833889619"
+      },
+      {
+        "type": "phone",
+        "value": "9977046872"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-022",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vijay Tiwari"
+      },
+      {
+        "type": "person",
+        "value": "Amit Nair"
+      },
+      {
+        "type": "phone",
+        "value": "9876711767"
+      },
+      {
+        "type": "phone",
+        "value": "9982095448"
+      },
+      {
+        "type": "location",
+        "value": "Hitec City"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-023",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Suresh Tiwari"
+      },
+      {
+        "type": "person",
+        "value": "Deepak Gupta"
+      },
+      {
+        "type": "phone",
+        "value": "9888485342"
+      },
+      {
+        "type": "phone",
+        "value": "9973322125"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-024",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Amit Ahmed"
+      },
+      {
+        "type": "person",
+        "value": "Imran Singh"
+      },
+      {
+        "type": "phone",
+        "value": "9813085752"
+      },
+      {
+        "type": "phone",
+        "value": "9937272295"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-025",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Anil Kumar"
+      },
+      {
+        "type": "person",
+        "value": "Ramesh Nair"
+      },
+      {
+        "type": "phone",
+        "value": "9874141596"
+      },
+      {
+        "type": "phone",
+        "value": "9970940480"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-026",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Joshi"
+      },
+      {
+        "type": "person",
+        "value": "Deepak Deshmukh"
+      },
+      {
+        "type": "phone",
+        "value": "9884042682"
+      },
+      {
+        "type": "phone",
+        "value": "9990923709"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-027",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Verma"
+      },
+      {
+        "type": "person",
+        "value": "Imran Sheikh"
+      },
+      {
+        "type": "phone",
+        "value": "9815914242"
+      },
+      {
+        "type": "phone",
+        "value": "9939453121"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-028",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sunil Sheikh"
+      },
+      {
+        "type": "person",
+        "value": "Prakash Mehta"
+      },
+      {
+        "type": "phone",
+        "value": "9865349986"
+      },
+      {
+        "type": "phone",
+        "value": "9948407765"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-029",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Deshmukh"
+      },
+      {
+        "type": "person",
+        "value": "Deepak Shukla"
+      },
+      {
+        "type": "phone",
+        "value": "9851876491"
+      },
+      {
+        "type": "phone",
+        "value": "9985069004"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-030",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rajesh Ahmed"
+      },
+      {
+        "type": "person",
+        "value": "Vikram Sharma"
+      },
+      {
+        "type": "phone",
+        "value": "9899500058"
+      },
+      {
+        "type": "phone",
+        "value": "9962610260"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-031",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Dinesh Singh"
+      },
+      {
+        "type": "person",
+        "value": "Dinesh Patil"
+      },
+      {
+        "type": "phone",
+        "value": "9872754847"
+      },
+      {
+        "type": "phone",
+        "value": "9976360103"
+      },
+      {
+        "type": "location",
+        "value": "Banjara Hills"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-032",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Rao"
+      },
+      {
+        "type": "person",
+        "value": "Salim Kumar"
+      },
+      {
+        "type": "phone",
+        "value": "9821728582"
+      },
+      {
+        "type": "phone",
+        "value": "9958725284"
+      },
+      {
+        "type": "location",
+        "value": "Aliganj"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-033",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Shukla"
+      },
+      {
+        "type": "person",
+        "value": "Rajesh Rao"
+      },
+      {
+        "type": "phone",
+        "value": "9891457618"
+      },
+      {
+        "type": "phone",
+        "value": "9997500055"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-034",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Deepak Gupta"
+      },
+      {
+        "type": "person",
+        "value": "Suresh Singh"
+      },
+      {
+        "type": "phone",
+        "value": "9889075218"
+      },
+      {
+        "type": "phone",
+        "value": "9945683647"
+      },
+      {
+        "type": "location",
+        "value": "Delhi"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-035",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Patil"
+      },
+      {
+        "type": "person",
+        "value": "Karan Rao"
+      },
+      {
+        "type": "phone",
+        "value": "9879903872"
+      },
+      {
+        "type": "phone",
+        "value": "9974007082"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-036",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Yadav"
+      },
+      {
+        "type": "person",
+        "value": "Suresh Patil"
+      },
+      {
+        "type": "phone",
+        "value": "9848138461"
+      },
+      {
+        "type": "phone",
+        "value": "9962239415"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-037",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Mishra"
+      },
+      {
+        "type": "person",
+        "value": "Ramesh Singh"
+      },
+      {
+        "type": "phone",
+        "value": "9821442753"
+      },
+      {
+        "type": "phone",
+        "value": "9944859792"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-038",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Mishra"
+      },
+      {
+        "type": "person",
+        "value": "Imran Yadav"
+      },
+      {
+        "type": "phone",
+        "value": "9881484406"
+      },
+      {
+        "type": "phone",
+        "value": "9978193749"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-039",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Pandey"
+      },
+      {
+        "type": "person",
+        "value": "Sunil Yadav"
+      },
+      {
+        "type": "phone",
+        "value": "9827093896"
+      },
+      {
+        "type": "phone",
+        "value": "9948112538"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-040",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Amit Mishra"
+      },
+      {
+        "type": "person",
+        "value": "Rajesh Mehta"
+      },
+      {
+        "type": "phone",
+        "value": "9893781872"
+      },
+      {
+        "type": "phone",
+        "value": "9934210537"
+      },
+      {
+        "type": "location",
+        "value": "Vibhuti Khand"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-041",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Sheikh"
+      },
+      {
+        "type": "person",
+        "value": "Dinesh Pandey"
+      },
+      {
+        "type": "phone",
+        "value": "9865058478"
+      },
+      {
+        "type": "phone",
+        "value": "9943004123"
+      },
+      {
+        "type": "location",
+        "value": "Lucknow"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-042",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Mehta"
+      },
+      {
+        "type": "person",
+        "value": "Rajesh Nair"
+      },
+      {
+        "type": "phone",
+        "value": "9877030226"
+      },
+      {
+        "type": "phone",
+        "value": "9917028235"
+      },
+      {
+        "type": "location",
+        "value": "Hyderabad"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-043",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Suresh Chauhan"
+      },
+      {
+        "type": "person",
+        "value": "Ramesh Sheikh"
+      },
+      {
+        "type": "phone",
+        "value": "9874543320"
+      },
+      {
+        "type": "phone",
+        "value": "9928041929"
+      },
+      {
+        "type": "location",
+        "value": "Bangalore"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-044",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Singh"
+      },
+      {
+        "type": "person",
+        "value": "Rahul Sharma"
+      },
+      {
+        "type": "phone",
+        "value": "9883813641"
+      },
+      {
+        "type": "phone",
+        "value": "9958869699"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-045",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Yadav"
+      },
+      {
+        "type": "person",
+        "value": "Deepak Deshmukh"
+      },
+      {
+        "type": "phone",
+        "value": "9833923171"
+      },
+      {
+        "type": "phone",
+        "value": "9953780887"
+      },
+      {
+        "type": "location",
+        "value": "Aminabad"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-046",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Chauhan"
+      },
+      {
+        "type": "person",
+        "value": "Amit Gupta"
+      },
+      {
+        "type": "phone",
+        "value": "9873416186"
+      },
+      {
+        "type": "phone",
+        "value": "9948330934"
+      },
+      {
+        "type": "location",
+        "value": "Charbagh Railway Station"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-047",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Mishra"
+      },
+      {
+        "type": "person",
+        "value": "Dinesh Gupta"
+      },
+      {
+        "type": "phone",
+        "value": "9853420568"
+      },
+      {
+        "type": "phone",
+        "value": "9976183984"
+      },
+      {
+        "type": "location",
+        "value": "Mumbai"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-048",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Singh"
+      },
+      {
+        "type": "person",
+        "value": "Rajesh Singh"
+      },
+      {
+        "type": "phone",
+        "value": "9876296459"
+      },
+      {
+        "type": "phone",
+        "value": "9975583236"
+      },
+      {
+        "type": "location",
+        "value": "Pune"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-049",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Deshmukh"
+      },
+      {
+        "type": "person",
+        "value": "Arun Verma"
+      },
+      {
+        "type": "phone",
+        "value": "9860873554"
+      },
+      {
+        "type": "phone",
+        "value": "9984422463"
+      },
+      {
+        "type": "location",
+        "value": "Gomti Nagar"
+      }
+    ]
+  },
+  {
+    "doc_id": "CDR-LOG-050",
+    "doc_type": "cdr",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Patil"
+      },
+      {
+        "type": "person",
+        "value": "Anil Ahmed"
+      },
+      {
+        "type": "phone",
+        "value": "9846781183"
+      },
+      {
+        "type": "phone",
+        "value": "9948529078"
+      },
+      {
+        "type": "location",
+        "value": "Hazratganj"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-001",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Deepak Rao"
+      },
+      {
+        "type": "account",
+        "value": "ACC9090"
+      },
+      {
+        "type": "account",
+        "value": "ACC6853"
+      },
+      {
+        "type": "amount",
+        "value": 2470000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-002",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Sheikh"
+      },
+      {
+        "type": "account",
+        "value": "ACC6836"
+      },
+      {
+        "type": "account",
+        "value": "ACC2265"
+      },
+      {
+        "type": "amount",
+        "value": 5470000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-003",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rajesh Yadav"
+      },
+      {
+        "type": "account",
+        "value": "ACC8207"
+      },
+      {
+        "type": "account",
+        "value": "ACC3852"
+      },
+      {
+        "type": "amount",
+        "value": 6270000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-004",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Sheikh"
+      },
+      {
+        "type": "account",
+        "value": "ACC9569"
+      },
+      {
+        "type": "account",
+        "value": "ACC3620"
+      },
+      {
+        "type": "amount",
+        "value": 2830000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-005",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Mishra"
+      },
+      {
+        "type": "account",
+        "value": "ACC3582"
+      },
+      {
+        "type": "account",
+        "value": "ACC2947"
+      },
+      {
+        "type": "amount",
+        "value": 3510000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-006",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Mishra"
+      },
+      {
+        "type": "account",
+        "value": "ACC4853"
+      },
+      {
+        "type": "account",
+        "value": "ACC8834"
+      },
+      {
+        "type": "amount",
+        "value": 9280000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-007",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Rao"
+      },
+      {
+        "type": "account",
+        "value": "ACC6272"
+      },
+      {
+        "type": "account",
+        "value": "ACC1780"
+      },
+      {
+        "type": "amount",
+        "value": 2420000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-008",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Chauhan"
+      },
+      {
+        "type": "account",
+        "value": "ACC3026"
+      },
+      {
+        "type": "account",
+        "value": "ACC5467"
+      },
+      {
+        "type": "amount",
+        "value": 7250000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-009",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Ahmed"
+      },
+      {
+        "type": "account",
+        "value": "ACC1290"
+      },
+      {
+        "type": "account",
+        "value": "ACC2451"
+      },
+      {
+        "type": "amount",
+        "value": 4590000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-010",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Chauhan"
+      },
+      {
+        "type": "account",
+        "value": "ACC7717"
+      },
+      {
+        "type": "account",
+        "value": "ACC8441"
+      },
+      {
+        "type": "amount",
+        "value": 1550000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-011",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Manoj Ahmed"
+      },
+      {
+        "type": "account",
+        "value": "ACC3722"
+      },
+      {
+        "type": "account",
+        "value": "ACC1293"
+      },
+      {
+        "type": "amount",
+        "value": 9800000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-012",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Sheikh"
+      },
+      {
+        "type": "account",
+        "value": "ACC9476"
+      },
+      {
+        "type": "account",
+        "value": "ACC2345"
+      },
+      {
+        "type": "amount",
+        "value": 4030000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-013",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vijay Pandey"
+      },
+      {
+        "type": "account",
+        "value": "ACC9835"
+      },
+      {
+        "type": "account",
+        "value": "ACC8527"
+      },
+      {
+        "type": "amount",
+        "value": 5950000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-014",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Tiwari"
+      },
+      {
+        "type": "account",
+        "value": "ACC7894"
+      },
+      {
+        "type": "account",
+        "value": "ACC8959"
+      },
+      {
+        "type": "amount",
+        "value": 8610000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-015",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Deepak Nair"
+      },
+      {
+        "type": "account",
+        "value": "ACC7946"
+      },
+      {
+        "type": "account",
+        "value": "ACC6745"
+      },
+      {
+        "type": "amount",
+        "value": 6130000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-016",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vijay Sharma"
+      },
+      {
+        "type": "account",
+        "value": "ACC6771"
+      },
+      {
+        "type": "account",
+        "value": "ACC3184"
+      },
+      {
+        "type": "amount",
+        "value": 4620000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-017",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Joshi"
+      },
+      {
+        "type": "account",
+        "value": "ACC2355"
+      },
+      {
+        "type": "account",
+        "value": "ACC8641"
+      },
+      {
+        "type": "amount",
+        "value": 6310000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-018",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Singh"
+      },
+      {
+        "type": "account",
+        "value": "ACC6194"
+      },
+      {
+        "type": "account",
+        "value": "ACC9032"
+      },
+      {
+        "type": "amount",
+        "value": 9350000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-019",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Sharma"
+      },
+      {
+        "type": "account",
+        "value": "ACC1500"
+      },
+      {
+        "type": "account",
+        "value": "ACC4018"
+      },
+      {
+        "type": "amount",
+        "value": 5250000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-020",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vijay Pandey"
+      },
+      {
+        "type": "account",
+        "value": "ACC9571"
+      },
+      {
+        "type": "account",
+        "value": "ACC5627"
+      },
+      {
+        "type": "amount",
+        "value": 4150000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-021",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sunil Khan"
+      },
+      {
+        "type": "account",
+        "value": "ACC4697"
+      },
+      {
+        "type": "account",
+        "value": "ACC8689"
+      },
+      {
+        "type": "amount",
+        "value": 4440000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-022",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Mehta"
+      },
+      {
+        "type": "account",
+        "value": "ACC6159"
+      },
+      {
+        "type": "account",
+        "value": "ACC4894"
+      },
+      {
+        "type": "amount",
+        "value": 3070000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-023",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Mishra"
+      },
+      {
+        "type": "account",
+        "value": "ACC6592"
+      },
+      {
+        "type": "account",
+        "value": "ACC7997"
+      },
+      {
+        "type": "amount",
+        "value": 8410000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-024",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Anil Rao"
+      },
+      {
+        "type": "account",
+        "value": "ACC8343"
+      },
+      {
+        "type": "account",
+        "value": "ACC6447"
+      },
+      {
+        "type": "amount",
+        "value": 1630000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-025",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Yadav"
+      },
+      {
+        "type": "account",
+        "value": "ACC6042"
+      },
+      {
+        "type": "account",
+        "value": "ACC2529"
+      },
+      {
+        "type": "amount",
+        "value": 5070000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-026",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Sharma"
+      },
+      {
+        "type": "account",
+        "value": "ACC4017"
+      },
+      {
+        "type": "account",
+        "value": "ACC5585"
+      },
+      {
+        "type": "amount",
+        "value": 7500000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-027",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Deepak Tiwari"
+      },
+      {
+        "type": "account",
+        "value": "ACC2162"
+      },
+      {
+        "type": "account",
+        "value": "ACC6895"
+      },
+      {
+        "type": "amount",
+        "value": 4380000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-028",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Imran Nair"
+      },
+      {
+        "type": "account",
+        "value": "ACC7208"
+      },
+      {
+        "type": "account",
+        "value": "ACC9081"
+      },
+      {
+        "type": "amount",
+        "value": 4160000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-029",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Ahmed"
+      },
+      {
+        "type": "account",
+        "value": "ACC5786"
+      },
+      {
+        "type": "account",
+        "value": "ACC5254"
+      },
+      {
+        "type": "amount",
+        "value": 2430000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-030",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rohan Deshmukh"
+      },
+      {
+        "type": "account",
+        "value": "ACC1797"
+      },
+      {
+        "type": "account",
+        "value": "ACC2582"
+      },
+      {
+        "type": "amount",
+        "value": 2250000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-031",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Pandey"
+      },
+      {
+        "type": "account",
+        "value": "ACC1866"
+      },
+      {
+        "type": "account",
+        "value": "ACC4779"
+      },
+      {
+        "type": "amount",
+        "value": 2310000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-032",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Ahmed"
+      },
+      {
+        "type": "account",
+        "value": "ACC6247"
+      },
+      {
+        "type": "account",
+        "value": "ACC8010"
+      },
+      {
+        "type": "amount",
+        "value": 2200000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-033",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Shukla"
+      },
+      {
+        "type": "account",
+        "value": "ACC9969"
+      },
+      {
+        "type": "account",
+        "value": "ACC4180"
+      },
+      {
+        "type": "amount",
+        "value": 2770000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-034",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Karan Mehta"
+      },
+      {
+        "type": "account",
+        "value": "ACC7113"
+      },
+      {
+        "type": "account",
+        "value": "ACC6834"
+      },
+      {
+        "type": "amount",
+        "value": 6920000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-035",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rajesh Nair"
+      },
+      {
+        "type": "account",
+        "value": "ACC8633"
+      },
+      {
+        "type": "account",
+        "value": "ACC5382"
+      },
+      {
+        "type": "amount",
+        "value": 6300000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-036",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Kumar"
+      },
+      {
+        "type": "account",
+        "value": "ACC5856"
+      },
+      {
+        "type": "account",
+        "value": "ACC1815"
+      },
+      {
+        "type": "amount",
+        "value": 3050000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-037",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rajesh Rao"
+      },
+      {
+        "type": "account",
+        "value": "ACC6564"
+      },
+      {
+        "type": "account",
+        "value": "ACC6612"
+      },
+      {
+        "type": "amount",
+        "value": 4860000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-038",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ajay Rao"
+      },
+      {
+        "type": "account",
+        "value": "ACC6568"
+      },
+      {
+        "type": "account",
+        "value": "ACC6066"
+      },
+      {
+        "type": "amount",
+        "value": 2940000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-039",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Sanjay Chauhan"
+      },
+      {
+        "type": "account",
+        "value": "ACC5174"
+      },
+      {
+        "type": "account",
+        "value": "ACC9900"
+      },
+      {
+        "type": "amount",
+        "value": 9620000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-040",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Mehta"
+      },
+      {
+        "type": "account",
+        "value": "ACC7010"
+      },
+      {
+        "type": "account",
+        "value": "ACC9694"
+      },
+      {
+        "type": "amount",
+        "value": 3470000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-041",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rahul Shukla"
+      },
+      {
+        "type": "account",
+        "value": "ACC3863"
+      },
+      {
+        "type": "account",
+        "value": "ACC8473"
+      },
+      {
+        "type": "amount",
+        "value": 1440000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-042",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Ahmed"
+      },
+      {
+        "type": "account",
+        "value": "ACC3051"
+      },
+      {
+        "type": "account",
+        "value": "ACC4372"
+      },
+      {
+        "type": "amount",
+        "value": 3280000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-043",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Prakash Verma"
+      },
+      {
+        "type": "account",
+        "value": "ACC4806"
+      },
+      {
+        "type": "account",
+        "value": "ACC9778"
+      },
+      {
+        "type": "amount",
+        "value": 6160000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-044",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vikram Nair"
+      },
+      {
+        "type": "account",
+        "value": "ACC9466"
+      },
+      {
+        "type": "account",
+        "value": "ACC3128"
+      },
+      {
+        "type": "amount",
+        "value": 2750000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-045",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Vijay Deshmukh"
+      },
+      {
+        "type": "account",
+        "value": "ACC4637"
+      },
+      {
+        "type": "account",
+        "value": "ACC4239"
+      },
+      {
+        "type": "amount",
+        "value": 6080000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-046",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Ramesh Ahmed"
+      },
+      {
+        "type": "account",
+        "value": "ACC8788"
+      },
+      {
+        "type": "account",
+        "value": "ACC7059"
+      },
+      {
+        "type": "amount",
+        "value": 9630000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-047",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Salim Deshmukh"
+      },
+      {
+        "type": "account",
+        "value": "ACC7249"
+      },
+      {
+        "type": "account",
+        "value": "ACC7824"
+      },
+      {
+        "type": "amount",
+        "value": 4750000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-048",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Arun Yadav"
+      },
+      {
+        "type": "account",
+        "value": "ACC1973"
+      },
+      {
+        "type": "account",
+        "value": "ACC1289"
+      },
+      {
+        "type": "amount",
+        "value": 7550000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-049",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Rohan Deshmukh"
+      },
+      {
+        "type": "account",
+        "value": "ACC9798"
+      },
+      {
+        "type": "account",
+        "value": "ACC8897"
+      },
+      {
+        "type": "amount",
+        "value": 3730000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  },
+  {
+    "doc_id": "FIN-STR-050",
+    "doc_type": "financial",
+    "gold_entities": [
+      {
+        "type": "person",
+        "value": "Anil Nair"
+      },
+      {
+        "type": "account",
+        "value": "ACC9714"
+      },
+      {
+        "type": "account",
+        "value": "ACC6366"
+      },
+      {
+        "type": "amount",
+        "value": 8030000.0
+      },
+      {
+        "type": "indicator",
+        "value": "STR_flagged"
+      }
+    ]
+  }
+]

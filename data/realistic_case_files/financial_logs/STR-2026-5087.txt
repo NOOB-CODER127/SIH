@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5087                       Reporting Date: 2026-03-11
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Salim Ahmed (Alias: Salim Bhai | Role: Stolen Goods Fence)
+Primary Account Number: ACC4200 (HDFC Bank, Banjara Hills Road No 12 Branch)
+Mule Destination Account: ACC1784
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC4200       ACC1784       Rs. 8,150,000   STR-2026-5087
+2026-03-13     NEFT      ACC4200       ACC1784       Rs. 4,075,000   STR-2026-5087
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC4200 held by Salim Ahmed exhibited sudden rapid high-value transfers totaling Rs. 8,150,000 into illicit mule account ACC1784 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

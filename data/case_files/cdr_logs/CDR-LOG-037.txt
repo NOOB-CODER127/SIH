@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-037
+Tower Location: Bangalore Sector 4
+Target A: Salim Mishra (Mobile: 9821442753)
+Target B: Ramesh Singh (Mobile: 9944859792)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Bangalore.

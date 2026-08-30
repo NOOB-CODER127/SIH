@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5092                       Reporting Date: 2026-03-04
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Neha Kulkarni (Alias: Madam | Role: Mule Account Handler)
+Primary Account Number: ACC6249 (ICICI Bank, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC4587
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC6249       ACC4587       Rs. 11,070,000   STR-2026-5092
+2026-03-13     NEFT      ACC6249       ACC4587       Rs. 5,535,000   STR-2026-5092
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC6249 held by Neha Kulkarni exhibited sudden rapid high-value transfers totaling Rs. 11,070,000 into illicit mule account ACC4587 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

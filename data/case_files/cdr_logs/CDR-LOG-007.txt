@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-007
+Tower Location: Mumbai Sector 4
+Target A: Dinesh Yadav (Mobile: 9859788451)
+Target B: Sunil Joshi (Mobile: 9967085432)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Mumbai.

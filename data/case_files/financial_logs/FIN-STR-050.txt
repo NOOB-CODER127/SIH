@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-7258
+Primary Account Holder: Anil Nair
+Source Account: ACC9714
+Destination Mule Account: ACC6366
+Transaction Amount: Rs. 8,030,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

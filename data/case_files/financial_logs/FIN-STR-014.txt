@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-4842
+Primary Account Holder: Salim Tiwari
+Source Account: ACC7894
+Destination Mule Account: ACC8959
+Transaction Amount: Rs. 8,610,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

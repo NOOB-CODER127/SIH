@@ -1,0 +1,127 @@
+{
+  "gpu_info": {
+    "cuda_available": true,
+    "device_name": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+    "training_documents": 200,
+    "testing_documents": 50,
+    "total_documents": 250,
+    "execution_time_seconds": 86.28
+  },
+  "overall_performance": {
+    "precision": 0.6757,
+    "recall": 0.9521,
+    "f1_score": 0.7905,
+    "canonical_resolution_accuracy": 0.0208,
+    "total_true_positives": 298,
+    "total_false_positives": 143,
+    "total_false_negatives": 15
+  },
+  "performance_by_entity_type": {
+    "person": {
+      "precision": 0.6565,
+      "recall": 0.8515,
+      "f1_score": 0.7414,
+      "tp": 86,
+      "fp": 45,
+      "fn": 15
+    },
+    "account": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "tp": 41,
+      "fp": 0,
+      "fn": 0
+    },
+    "amount": {
+      "precision": 0.7561,
+      "recall": 1.0,
+      "f1_score": 0.8611,
+      "tp": 31,
+      "fp": 10,
+      "fn": 0
+    },
+    "indicator": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "tp": 20,
+      "fp": 0,
+      "fn": 0
+    },
+    "location": {
+      "precision": 0.5495,
+      "recall": 1.0,
+      "f1_score": 0.7092,
+      "tp": 50,
+      "fp": 41,
+      "fn": 0
+    },
+    "phone": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "tp": 53,
+      "fp": 0,
+      "fn": 0
+    },
+    "org": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "tp": 0,
+      "fp": 47,
+      "fn": 0
+    },
+    "vehicle": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "tp": 17,
+      "fp": 0,
+      "fn": 0
+    }
+  },
+  "performance_by_document_type": {
+    "financial": {
+      "precision": 0.6944,
+      "recall": 1.0,
+      "f1_score": 0.8197,
+      "tp": 50,
+      "fp": 22,
+      "fn": 0
+    },
+    "court": {
+      "precision": 0.6842,
+      "recall": 0.975,
+      "f1_score": 0.8041,
+      "tp": 78,
+      "fp": 36,
+      "fn": 2
+    },
+    "cdr": {
+      "precision": 0.5856,
+      "recall": 1.0,
+      "f1_score": 0.7386,
+      "tp": 65,
+      "fp": 46,
+      "fn": 0
+    },
+    "fir": {
+      "precision": 0.7755,
+      "recall": 0.8636,
+      "f1_score": 0.8172,
+      "tp": 76,
+      "fp": 22,
+      "fn": 12
+    },
+    "surveillance": {
+      "precision": 0.6304,
+      "recall": 0.9667,
+      "f1_score": 0.7632,
+      "tp": 29,
+      "fp": 17,
+      "fn": 1
+    }
+  }
+}

@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0008                                    Target Period: 2026-03-12
+
+SUBSCRIBER A (CALLER): Manoj Gupta (Alias: Munna) | MSISDN: 9898626464
+SUBSCRIBER B (CALLEE): Prakash Rao (Alias: PK) | MSISDN: 9914550635
+
+CELL TOWER COVERAGE LOCATION: Hazratganj Market Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9898626464       9914550635       412 sec       Hazratganj Market
+02:05:10 HRS        INCOMING    9914550635       9898626464       185 sec       Hazratganj Market
+03:30:45 HRS        OUTGOING    9898626464       9914550635       520 sec       Hazratganj Market
+04:12:00 HRS        OUTGOING    9898626464       9914550635       94 sec        Hazratganj Market
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Manoj Gupta (9898626464) and co-accused Prakash Rao (9914550635) originating from Hazratganj Market tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5063                       Reporting Date: 2026-03-01
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Imran Sheikh (Alias: Raja | Role: Phishing Operator)
+Primary Account Number: ACC3219 (ICICI Bank, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC1980
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC3219       ACC1980       Rs. 3,500,000   STR-2026-5063
+2026-03-13     NEFT      ACC3219       ACC1980       Rs. 1,750,000   STR-2026-5063
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC3219 held by Imran Sheikh exhibited sudden rapid high-value transfers totaling Rs. 3,500,000 into illicit mule account ACC1980 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

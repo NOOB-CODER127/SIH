@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-2245
+Primary Account Holder: Salim Mehta
+Source Account: ACC6159
+Destination Mule Account: ACC4894
+Transaction Amount: Rs. 3,070,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

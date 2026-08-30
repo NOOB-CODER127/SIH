@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5035                       Reporting Date: 2026-03-19
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Imran Sheikh (Alias: Raja | Role: Phishing Operator)
+Primary Account Number: ACC3899 (Punjab National Bank, Aminabad Bazaar Branch)
+Mule Destination Account: ACC5469
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC3899       ACC5469       Rs. 12,860,000   STR-2026-5035
+2026-03-13     NEFT      ACC3899       ACC5469       Rs. 6,430,000   STR-2026-5035
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC3899 held by Imran Sheikh exhibited sudden rapid high-value transfers totaling Rs. 12,860,000 into illicit mule account ACC5469 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5008                       Reporting Date: 2026-03-16
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Imran Sheikh (Alias: Raja | Role: Phishing Operator)
+Primary Account Number: ACC8491 (HDFC Bank, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC5929
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC8491       ACC5929       Rs. 12,200,000   STR-2026-5008
+2026-03-13     NEFT      ACC8491       ACC5929       Rs. 6,100,000   STR-2026-5008
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC8491 held by Imran Sheikh exhibited sudden rapid high-value transfers totaling Rs. 12,200,000 into illicit mule account ACC5929 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

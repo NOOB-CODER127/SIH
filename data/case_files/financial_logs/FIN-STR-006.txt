@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-7244
+Primary Account Holder: Ramesh Mishra
+Source Account: ACC4853
+Destination Mule Account: ACC8834
+Transaction Amount: Rs. 9,280,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

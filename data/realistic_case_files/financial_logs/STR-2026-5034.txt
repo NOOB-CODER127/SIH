@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5034                       Reporting Date: 2026-03-01
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Suresh Patil (Alias: Subhedar | Role: Hawala Broker)
+Primary Account Number: ACC7944 (State Bank of India, Charbagh Railway Station Branch)
+Mule Destination Account: ACC4347
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC7944       ACC4347       Rs. 14,790,000   STR-2026-5034
+2026-03-13     NEFT      ACC7944       ACC4347       Rs. 7,395,000   STR-2026-5034
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC7944 held by Suresh Patil exhibited sudden rapid high-value transfers totaling Rs. 14,790,000 into illicit mule account ACC4347 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

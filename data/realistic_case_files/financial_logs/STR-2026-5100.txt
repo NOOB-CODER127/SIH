@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5100                       Reporting Date: 2026-03-07
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ajay Tiwari (Alias: Pandit | Role: Syndicate Henchman)
+Primary Account Number: ACC5752 (Axis Bank, Gomti Nagar Extension Branch)
+Mule Destination Account: ACC5572
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC5752       ACC5572       Rs. 6,430,000   STR-2026-5100
+2026-03-13     NEFT      ACC5752       ACC5572       Rs. 3,215,000   STR-2026-5100
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC5752 held by Ajay Tiwari exhibited sudden rapid high-value transfers totaling Rs. 6,430,000 into illicit mule account ACC5572 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

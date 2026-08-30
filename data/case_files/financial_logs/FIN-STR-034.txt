@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-6552
+Primary Account Holder: Karan Mehta
+Source Account: ACC7113
+Destination Mule Account: ACC6834
+Transaction Amount: Rs. 6,920,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

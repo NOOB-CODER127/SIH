@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5004                       Reporting Date: 2026-03-12
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Salim Ahmed (Alias: Salim Bhai | Role: Stolen Goods Fence)
+Primary Account Number: ACC9597 (ICICI Bank, Charbagh Railway Station Branch)
+Mule Destination Account: ACC5203
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC9597       ACC5203       Rs. 8,510,000   STR-2026-5004
+2026-03-13     NEFT      ACC9597       ACC5203       Rs. 4,255,000   STR-2026-5004
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC9597 held by Salim Ahmed exhibited sudden rapid high-value transfers totaling Rs. 8,510,000 into illicit mule account ACC5203 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

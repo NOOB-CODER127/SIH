@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5078                       Reporting Date: 2026-03-28
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Imran Sheikh (Alias: Raja | Role: Phishing Operator)
+Primary Account Number: ACC8381 (State Bank of India, Charbagh Railway Station Branch)
+Mule Destination Account: ACC2204
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC8381       ACC2204       Rs. 10,890,000   STR-2026-5078
+2026-03-13     NEFT      ACC8381       ACC2204       Rs. 5,445,000   STR-2026-5078
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC8381 held by Imran Sheikh exhibited sudden rapid high-value transfers totaling Rs. 10,890,000 into illicit mule account ACC2204 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

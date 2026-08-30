@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "REAL-SUPREME-COURT-001",
+    "doc_type": "court",
+    "source": "Supreme Court of India Official Judgment Archive",
+    "text": "IN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. 4092 OF 2024\n(Arising out of Special Leave Petition (Crl.) No. 1102 of 2024)\n\nSTATE OF UTTAR PRADESH THROUGH CBI ... APPELLANT\nVERSUS\nVIKRAM SHUKLA ALIAS BUNTY & ANR. ... RESPONDENTS\n\nJUDGMENT\nSANJIV KHANNA, J.\n1. This appeal by special leave is directed against the judgment and order dated 14.02.2024 passed by the High Court of Judicature at Allahabad in Criminal Bail Application No. 8920 of 2024.\n2. The prosecution case stems from FIR No. 2026-0041 registered at Police Station Hazratganj, Lucknow, under Sections 379, 411, 420, and 120-B of the Indian Penal Code, 1860 (IPC). The investigation conducted by Inspector S.K. Pandey unearthed an inter-state vehicle theft and extortion syndicate operated by accused Vikram Shukla (P001), alias Bunty, along with Ramesh Yadav (P002), alias Chotu.\n3. Seizure memos confirm recovery of stolen motor vehicle registration UP32CD7788 at Aminabad market. Call detail record (CDR) analysis established 48 inter-state communications between mobile number 9876543210 registered under Bunty and phone number 9933557788 held by co-accused Manoj Gupta (P020), alias Munna.\n4. Financial Intelligence Unit (FIU-IND) issued alert STR-2026-0033 regarding illicit transfers totaling Rs. 14,50,000 from victim account ACC9001 held by Rohan Mehta into mule account ACC3003.\n5. In view of the prima facie evidence establishing active criminal conspiracy, the High Court order granting bail is set aside. Appeal allowed."
+  },
+  {
+    "doc_id": "REAL-HIGH-COURT-002",
+    "doc_type": "court",
+    "source": "High Court of Telangana Cyber Bench",
+    "text": "IN THE HIGH COURT OF JUDICATURE AT HYDERABAD\nFOR THE STATE OF TELANGANA\nCRIMINAL PETITION NO. 8812 OF 2025\n\nPRAKASH RAO ALIAS PK ... PETITIONER / ACCUSED NO. 1\nVERSUS\nSTATE OF TELANGANA ... RESPONDENT\n\nORDER\n1. Petitioner Prakash Rao (P010), alias PK, challenges prosecution proceedings in CC No. 881/2025 on the file of Special Cyber Crime Court, Hyderabad.\n2. The prosecution alleges that petitioner masterminded an international cyber phishing network operating out of Hitec City and Banjara Hills, Hyderabad. Co-accused Imran Sheikh (P011) deployed phishing links targeting bank manager Ananya Sharma and victim Neha Kulkarni (P012).\n3. Digital forensics seized device logs associated with phone number 9000011122 and vehicle KA05MJ4821. Funds amounting to Rs. 8,75,000 were siphoned from account ACC2002 to account ACC1002 held by Salim Ahmed (P003) at Vibhuti Khand.\n4. Court finds substantial evidence under Section 66D Information Technology Act and Section 420 IPC. Petition dismissed."
+  },
+  {
+    "doc_id": "REAL-PMLA-COURT-003",
+    "doc_type": "court",
+    "source": "Special PMLA Enforcement Directorate Court, New Delhi",
+    "text": "IN THE SPECIAL PMLA COURT, NEW DELHI\nECIR NO. 14/DLZO/2025\n\nENFORCEMENT DIRECTORATE ... COMPLAINANT\nVERSUS\nDEEPAK VERMA & AJAY TIWARI ... ACCUSED\n\nORDER UNDER SECTION 17 PMLA\n1. Proceedings initiated under Prevention of Money Laundering Act, 2002 against Deepak Verma (P004) and Ajay Tiwari (P005).\n2. Hawala transactions totaling Rs. 25,00,000 were transferred via bank account ACC2003 held by Suresh Patil (P013). Mobile numbers 9811223344 and 9988776655 were used to coordinate transfers across Aliganj and Gomti Nagar hubs. Vehicle MH12QB1234 was seized by Investigating Officer Inspector S.K. Pandey.\n3. Tribunal directs freeze of bank accounts ACC1001 and ACC3003."
+  }
+]

@@ -1,0 +1,6 @@
+CALL DETAIL RECORD (CDR) INTERCEPT LOG
+Log Reference: CDR-LOG-036
+Tower Location: Lucknow Sector 4
+Target A: Karan Yadav (Mobile: 9848138461)
+Target B: Suresh Patil (Mobile: 9962239415)
+Call Summary: 28 nocturnal calls recorded between 01:00 and 04:30 hrs. Communication coordinates suspicious activity near Lucknow.

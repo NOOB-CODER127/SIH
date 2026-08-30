@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5081                       Reporting Date: 2026-03-23
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Neha Kulkarni (Alias: Madam | Role: Mule Account Handler)
+Primary Account Number: ACC2816 (State Bank of India, Banjara Hills Road No 12 Branch)
+Mule Destination Account: ACC8560
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC2816       ACC8560       Rs. 13,780,000   STR-2026-5081
+2026-03-13     NEFT      ACC2816       ACC8560       Rs. 6,890,000   STR-2026-5081
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC2816 held by Neha Kulkarni exhibited sudden rapid high-value transfers totaling Rs. 13,780,000 into illicit mule account ACC8560 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

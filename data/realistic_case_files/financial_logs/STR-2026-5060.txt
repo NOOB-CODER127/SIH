@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5060                       Reporting Date: 2026-03-01
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ajay Tiwari (Alias: Pandit | Role: Syndicate Henchman)
+Primary Account Number: ACC9319 (Axis Bank, Hitec City Phase 2 Branch)
+Mule Destination Account: ACC8312
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC9319       ACC8312       Rs. 7,340,000   STR-2026-5060
+2026-03-13     NEFT      ACC9319       ACC8312       Rs. 3,670,000   STR-2026-5060
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC9319 held by Ajay Tiwari exhibited sudden rapid high-value transfers totaling Rs. 7,340,000 into illicit mule account ACC8312 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

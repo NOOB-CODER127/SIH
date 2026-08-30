@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-4913
+Primary Account Holder: Rajesh Yadav
+Source Account: ACC8207
+Destination Mule Account: ACC3852
+Transaction Amount: Rs. 6,270,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

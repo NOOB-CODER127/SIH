@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0029                                    Target Period: 2026-03-06
+
+SUBSCRIBER A (CALLER): Deepak Verma (Alias: Doctor) | MSISDN: 9897176861
+SUBSCRIBER B (CALLEE): Imran Sheikh (Alias: Raja) | MSISDN: 9919600634
+
+CELL TOWER COVERAGE LOCATION: Connaught Place Inner Circle Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9897176861       9919600634       412 sec       Connaught Place Inner Circle
+02:05:10 HRS        INCOMING    9919600634       9897176861       185 sec       Connaught Place Inner Circle
+03:30:45 HRS        OUTGOING    9897176861       9919600634       520 sec       Connaught Place Inner Circle
+04:12:00 HRS        OUTGOING    9897176861       9919600634       94 sec        Connaught Place Inner Circle
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Deepak Verma (9897176861) and co-accused Imran Sheikh (9919600634) originating from Connaught Place Inner Circle tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

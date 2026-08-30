@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-9463
+Primary Account Holder: Sanjay Yadav
+Source Account: ACC6042
+Destination Mule Account: ACC2529
+Transaction Amount: Rs. 5,070,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5079                       Reporting Date: 2026-03-04
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Ajay Tiwari (Alias: Pandit | Role: Syndicate Henchman)
+Primary Account Number: ACC2154 (HDFC Bank, Aliganj Sector C Branch)
+Mule Destination Account: ACC7268
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC2154       ACC7268       Rs. 14,300,000   STR-2026-5079
+2026-03-13     NEFT      ACC2154       ACC7268       Rs. 7,150,000   STR-2026-5079
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC2154 held by Ajay Tiwari exhibited sudden rapid high-value transfers totaling Rs. 14,300,000 into illicit mule account ACC7268 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

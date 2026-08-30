@@ -1,0 +1,7 @@
+SUSPICIOUS TRANSACTION REPORT (STR)
+Flag ID: STR-2026-7656
+Primary Account Holder: Karan Sharma
+Source Account: ACC1500
+Destination Mule Account: ACC4018
+Transaction Amount: Rs. 5,250,000
+FIU Detail: Rapid structuring of multiple cash deposits under Rs 50,000 threshold within 48 hours.

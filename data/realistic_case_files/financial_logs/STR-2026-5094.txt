@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5094                       Reporting Date: 2026-03-24
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Prakash Rao (Alias: PK | Role: Cyber Crime Mastermind)
+Primary Account Number: ACC8162 (Axis Bank, Bandra Kurla Complex Branch)
+Mule Destination Account: ACC8454
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC8162       ACC8454       Rs. 7,880,000   STR-2026-5094
+2026-03-13     NEFT      ACC8162       ACC8454       Rs. 3,940,000   STR-2026-5094
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC8162 held by Prakash Rao exhibited sudden rapid high-value transfers totaling Rs. 7,880,000 into illicit mule account ACC8454 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

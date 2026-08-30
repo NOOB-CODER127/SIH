@@ -1,0 +1,19 @@
+FINANCIAL INTELLIGENCE UNIT (FIU-IND)
+SUSPICIOUS TRANSACTION REPORT & BANK LEDGER AUDIT
+STR Flag Reference: STR-2026-5005                       Reporting Date: 2026-03-18
+
+ACCOUNT HOLDER AUDIT:
+Target Name: Vikram Shukla (Alias: Bunty | Role: Vehicle Syndicate Kingpin)
+Primary Account Number: ACC4968 (ICICI Bank, Hazratganj Market Branch)
+Mule Destination Account: ACC5666
+
+TRANSACTION LEDGER BREAKDOWN:
+--------------------------------------------------------------------------------
+Txn Date       Channel   Source Acc   Dest Acc     Amount (INR)      Risk Flag
+--------------------------------------------------------------------------------
+2026-03-12     IMPS      ACC4968       ACC5666       Rs. 9,150,000   STR-2026-5005
+2026-03-13     NEFT      ACC4968       ACC5666       Rs. 4,575,000   STR-2026-5005
+--------------------------------------------------------------------------------
+
+FINANCIAL RED-FLAG ANALYSIS:
+Account ACC4968 held by Vikram Shukla exhibited sudden rapid high-value transfers totaling Rs. 9,150,000 into illicit mule account ACC5666 within 24 hours. Pattern matches multi-stage money laundering under PMLA.

@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0015                                    Target Period: 2026-03-14
+
+SUBSCRIBER A (CALLER): Deepak Verma (Alias: Doctor) | MSISDN: 9880101614
+SUBSCRIBER B (CALLEE): Vikram Shukla (Alias: Bunty) | MSISDN: 9922722577
+
+CELL TOWER COVERAGE LOCATION: Hitec City Phase 2 Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9880101614       9922722577       412 sec       Hitec City Phase 2
+02:05:10 HRS        INCOMING    9922722577       9880101614       185 sec       Hitec City Phase 2
+03:30:45 HRS        OUTGOING    9880101614       9922722577       520 sec       Hitec City Phase 2
+04:12:00 HRS        OUTGOING    9880101614       9922722577       94 sec        Hitec City Phase 2
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Deepak Verma (9880101614) and co-accused Vikram Shukla (9922722577) originating from Hitec City Phase 2 tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.

@@ -1,0 +1,21 @@
+TELECOM INTERCEPT & TOWER DUMP ANALYSIS REPORT
+LAW ENFORCEMENT TECHNICAL MONITORING CELL
+Log ID: CDR-TOWER-LOG-0061                                    Target Period: 2026-03-10
+
+SUBSCRIBER A (CALLER): Salim Ahmed (Alias: Salim Bhai) | MSISDN: 9821214853
+SUBSCRIBER B (CALLEE): Manoj Gupta (Alias: Munna) | MSISDN: 9959085398
+
+CELL TOWER COVERAGE LOCATION: Aminabad Bazaar Tower ID #4092-B
+
+INTERCEPT SUMMARY TABLE:
+--------------------------------------------------------------------------------
+Timestamp           Direction   Caller          Callee          Duration (s)  Tower Site
+--------------------------------------------------------------------------------
+01:14:22 HRS        OUTGOING    9821214853       9959085398       412 sec       Aminabad Bazaar
+02:05:10 HRS        INCOMING    9959085398       9821214853       185 sec       Aminabad Bazaar
+03:30:45 HRS        OUTGOING    9821214853       9959085398       520 sec       Aminabad Bazaar
+04:12:00 HRS        OUTGOING    9821214853       9959085398       94 sec        Aminabad Bazaar
+--------------------------------------------------------------------------------
+
+ANALYTICAL REMARKS:
+High nocturnal call burst (4 calls, 1211 seconds total) between suspect Salim Ahmed (9821214853) and co-accused Manoj Gupta (9959085398) originating from Aminabad Bazaar tower area between 01:00 and 04:30 AM. Indicates active conspiracy communication.
